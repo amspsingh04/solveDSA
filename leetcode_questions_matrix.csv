@@ -1,0 +1,401 @@
+Question
+63. Unique Paths II
+36. Valid Sudoku
+37. Sudoku Solver
+48. Rotate Image
+54. Spiral Matrix
+59. Spiral Matrix II
+63. Unique Paths II
+64. Minimum Path Sum
+73. Set Matrix Zeroes
+74. Search a 2D Matrix
+79. Word Search
+85. Maximal Rectangle
+130. Surrounded Regions
+174. Dungeon Game
+200. Number of Islands
+212. Word Search II
+221. Maximal Square
+240. Search a 2D Matrix II
+286. Walls and Gates
+289. Game of Life
+296. Best Meeting Point
+302. Smallest Rectangle Enclosing Black Pixels
+304. Range Sum Query 2D - Immutable
+308. Range Sum Query 2D - Mutable
+311. Sparse Matrix Multiplication
+317. Shortest Distance from All Buildings
+329. Longest Increasing Path in a Matrix
+348. Design Tic-Tac-Toe
+353. Design Snake Game
+361. Bomb Enemy
+363. Max Sum of Rectangle No Larger Than K
+378. Kth Smallest Element in a Sorted Matrix
+407. Trapping Rain Water II
+417. Pacific Atlantic Water Flow
+419. Battleships in a Board
+422. Valid Word Square
+427. Construct Quad Tree
+463. Island Perimeter
+498. Diagonal Traverse
+529. Minesweeper
+531. Lonely Pixel I
+533. Lonely Pixel II
+542. 01 Matrix
+562. Longest Line of Consecutive One in Matrix
+566. Reshape the Matrix
+568. Maximum Vacation Days
+661. Image Smoother
+675. Cut Off Trees for Golf Event
+695. Max Area of Island
+723. Candy Crush
+63. Unique Paths II
+36. Valid Sudoku
+37. Sudoku Solver
+48. Rotate Image
+54. Spiral Matrix
+59. Spiral Matrix II
+63. Unique Paths II
+64. Minimum Path Sum
+73. Set Matrix Zeroes
+74. Search a 2D Matrix
+79. Word Search
+85. Maximal Rectangle
+130. Surrounded Regions
+174. Dungeon Game
+200. Number of Islands
+212. Word Search II
+221. Maximal Square
+240. Search a 2D Matrix II
+286. Walls and Gates
+289. Game of Life
+296. Best Meeting Point
+302. Smallest Rectangle Enclosing Black Pixels
+304. Range Sum Query 2D - Immutable
+308. Range Sum Query 2D - Mutable
+311. Sparse Matrix Multiplication
+317. Shortest Distance from All Buildings
+329. Longest Increasing Path in a Matrix
+348. Design Tic-Tac-Toe
+353. Design Snake Game
+361. Bomb Enemy
+363. Max Sum of Rectangle No Larger Than K
+378. Kth Smallest Element in a Sorted Matrix
+407. Trapping Rain Water II
+417. Pacific Atlantic Water Flow
+419. Battleships in a Board
+422. Valid Word Square
+427. Construct Quad Tree
+463. Island Perimeter
+498. Diagonal Traverse
+529. Minesweeper
+531. Lonely Pixel I
+533. Lonely Pixel II
+542. 01 Matrix
+562. Longest Line of Consecutive One in Matrix
+566. Reshape the Matrix
+568. Maximum Vacation Days
+661. Image Smoother
+675. Cut Off Trees for Golf Event
+695. Max Area of Island
+723. Candy Crush
+741. Cherry Pickup
+749. Contain Virus
+750. Number Of Corner Rectangles
+766. Toeplitz Matrix
+773. Sliding Puzzle
+778. Swim in Rising Water
+782. Transform to Chessboard
+803. Bricks Falling When Hit
+807. Max Increase to Keep City Skyline
+827. Making A Large Island
+832. Flipping an Image
+835. Image Overlap
+840. Magic Squares In Grid
+861. Score After Flipping Matrix
+864. Shortest Path to Get All Keys
+867. Transpose Matrix
+883. Projection Area of 3D Shapes
+885. Spiral Matrix III
+892. Surface Area of 3D Shapes
+909. Snakes and Ladders
+924. Minimize Malware Spread
+928. Minimize Malware Spread II
+931. Minimum Falling Path Sum
+934. Shortest Bridge
+980. Unique Paths III
+994. Rotting Oranges
+999. Available Captures for Rook
+1020. Number of Enclaves
+1030. Matrix Cells in Distance Order
+1034. Coloring A Border
+1072. Flip Columns For Maximum Number of Equal Rows
+1074. Number of Submatrices That Sum to Target
+1091. Shortest Path in Binary Matrix
+1102. Path With Maximum Minimum Value
+1139. Largest 1-Bordered Square
+1162. As Far from Land as Possible
+1198. Find Smallest Common Element in All Rows
+1210. Minimum Moves to Reach Target with Rotations
+1219. Path with Maximum Gold
+1222. Queens That Can Attack the King
+1253. Reconstruct a 2-Row Binary Matrix
+1254. Number of Closed Islands
+1260. Shift 2D Grid
+1263. Minimum Moves to Move a Box to Their Target Location
+1267. Count Servers that Communicate
+1275. Find Winner on a Tic Tac Toe Game
+1277. Count Square Submatrices with All Ones
+1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+1289. Minimum Falling Path Sum II
+1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+1293. Shortest Path in a Grid with Obstacles Elimination
+1301. Number of Paths with Max Score
+1314. Matrix Block Sum
+1329. Sort the Matrix Diagonally
+1337. The K Weakest Rows in a Matrix
+1349. Maximum Students Taking Exam
+1351. Count Negative Numbers in a Sorted Matrix
+1368. Minimum Cost to Make at Least One Valid Path in a Grid
+1380. Lucky Numbers in a Matrix
+1391. Check if There is a Valid Path in a Grid
+1428. Leftmost Column with at Least a One
+1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows
+1444. Number of Ways of Cutting a Pizza
+1463. Cherry Pickup II
+1476. Subrectangle Queries
+1504. Count Submatrices With All Ones
+1536. Minimum Swaps to Arrange a Binary Grid
+1559. Detect Cycles in 2D Grid
+1568. Minimum Number of Days to Disconnect Island
+1572. Matrix Diagonal Sum
+1582. Special Positions in a Binary Matrix
+1591. Strange Printer II
+1594. Maximum Non Negative Product in a Matrix
+1595. Minimum Cost to Connect Two Groups of Points
+1605. Find Valid Matrix Given Row and Column Sums
+1631. Path With Minimum Effort
+1632. Rank Transform of a Matrix
+1672. Richest Customer Wealth
+1706. Where Will the Ball Fall
+1727. Largest Submatrix With Rearrangements
+1728. Cat and Mouse II
+1730. Shortest Path to Get Food
+1738. Find Kth Largest XOR Coordinate Value
+1765. Map of Highest Peak
+1820. Maximum Number of Accepted Invitations
+1861. Rotating the Box
+1878. Get Biggest Three Rhombus Sums in a Grid
+1886. Determine Whether Matrix Can Be Obtained By Rotation
+1895. Largest Magic Square
+1901. Find a Peak Element II
+1905. Count Sub Islands
+1914. Cyclically Rotating a Grid
+1926. Nearest Exit from Entrance in Maze
+1958. Check if Move is Legal
+1970. Last Day Where You Can Still Cross
+1975. Maximum Matrix Sum
+1981. Minimize the Difference Between Target and Chosen Elements
+1992. Find All Groups of Farmland
+2017. Grid Game
+2018. Check if Word Can Be Placed In Crossword
+2022. Convert 1D Array Into 2D Array
+2033. Minimum Operations to Make a Uni-Value Grid
+2061. Number of Spaces Cleaning Robot Cleaned
+2087. Minimum Cost Homecoming of a Robot in a Grid
+2088. Count Fertile Pyramids in a Land
+2123. Minimum Operations to Remove Adjacent Ones in Matrix
+2125. Number of Laser Beams in a Bank
+2128. Remove All Ones With Row and Column Flips
+2132. Stamping the Grid
+2133. Check if Every Row and Column Contains All Numbers
+2146. K Highest Ranked Items Within a Price Range
+2174. Remove All Ones With Row and Column Flips II
+2245. Maximum Trailing Zeros in a Cornered Path
+2257. Count Unguarded Cells in the Grid
+2258. Escape the Spreading Fire
+2267. Check if There Is a Valid Parentheses String Path
+2282. Number of People That Can Be Seen in a Grid
+2290. Minimum Obstacle Removal to Reach Corner
+2304. Minimum Path Cost in a Grid
+2319. Check if Matrix Is X-Matrix
+2326. Spiral Matrix IV
+2328. Number of Increasing Paths in a Grid
+2352. Equal Row and Column Pairs
+2371. Minimize Maximum Value in a Grid
+2373. Largest Local Values in a Matrix
+2387. Median of a Row Wise Sorted Matrix
+2392. Build a Matrix With Conditions
+2397. Maximum Rows Covered by Columns
+2428. Maximum Sum of an Hourglass
+2435. Paths in Matrix Whose Sum Is Divisible by K
+2482. Difference Between Ones and Zeros in Row and Column
+2500. Delete Greatest Value in Each Row
+2510. Check if There is a Path With Equal Number of 0's And 1's
+2536. Increment Submatrices by One
+2545. Sort the Students by Their Kth Score
+2556. Disconnect Path in a Binary Matrix by at Most One Flip
+2577. Minimum Time to Visit a Cell In a Grid
+2596. Check Knight Tour Configuration
+2614. Prime In Diagonal
+2639. Find the Width of Columns of a Grid
+2643. Row With Maximum Ones
+2658. Maximum Number of Fish in a Grid
+2661. First Completely Painted Row or Column
+2664. The Knight’s Tour
+2679. Sum in a Matrix
+2684. Maximum Number of Moves in a Grid
+2711. Difference of Number of Distinct Values on Diagonals
+2713. Maximum Strictly Increasing Cells in a Matrix
+2732. Find a Good Subset of the Matrix
+2812. Find the Safest Path in a Grid
+2022. Convert 1D Array Into 2D Array
+2033. Minimum Operations to Make a Uni-Value Grid
+2061. Number of Spaces Cleaning Robot Cleaned
+2087. Minimum Cost Homecoming of a Robot in a Grid
+2088. Count Fertile Pyramids in a Land
+2123. Minimum Operations to Remove Adjacent Ones in Matrix
+2125. Number of Laser Beams in a Bank
+2128. Remove All Ones With Row and Column Flips
+2132. Stamping the Grid
+2133. Check if Every Row and Column Contains All Numbers
+2146. K Highest Ranked Items Within a Price Range
+2174. Remove All Ones With Row and Column Flips II
+2245. Maximum Trailing Zeros in a Cornered Path
+2257. Count Unguarded Cells in the Grid
+2258. Escape the Spreading Fire
+2267. Check if There Is a Valid Parentheses String Path
+2282. Number of People That Can Be Seen in a Grid
+2290. Minimum Obstacle Removal to Reach Corner
+2304. Minimum Path Cost in a Grid
+2319. Check if Matrix Is X-Matrix
+2326. Spiral Matrix IV
+2328. Number of Increasing Paths in a Grid
+2352. Equal Row and Column Pairs
+2371. Minimize Maximum Value in a Grid
+2373. Largest Local Values in a Matrix
+2387. Median of a Row Wise Sorted Matrix
+2392. Build a Matrix With Conditions
+2397. Maximum Rows Covered by Columns
+2428. Maximum Sum of an Hourglass
+2435. Paths in Matrix Whose Sum Is Divisible by K
+2482. Difference Between Ones and Zeros in Row and Column
+2500. Delete Greatest Value in Each Row
+2510. Check if There is a Path With Equal Number of 0's And 1's
+2536. Increment Submatrices by One
+2545. Sort the Students by Their Kth Score
+2556. Disconnect Path in a Binary Matrix by at Most One Flip
+2577. Minimum Time to Visit a Cell In a Grid
+2596. Check Knight Tour Configuration
+2614. Prime In Diagonal
+2639. Find the Width of Columns of a Grid
+2643. Row With Maximum Ones
+2658. Maximum Number of Fish in a Grid
+2661. First Completely Painted Row or Column
+2664. The Knight’s Tour
+2679. Sum in a Matrix
+2684. Maximum Number of Moves in a Grid
+2711. Difference of Number of Distinct Values on Diagonals
+2713. Maximum Strictly Increasing Cells in a Matrix
+2732. Find a Good Subset of the Matrix
+2812. Find the Safest Path in a Grid
+2022. Convert 1D Array Into 2D Array
+2033. Minimum Operations to Make a Uni-Value Grid
+2061. Number of Spaces Cleaning Robot Cleaned
+2087. Minimum Cost Homecoming of a Robot in a Grid
+2088. Count Fertile Pyramids in a Land
+2123. Minimum Operations to Remove Adjacent Ones in Matrix
+2125. Number of Laser Beams in a Bank
+2128. Remove All Ones With Row and Column Flips
+2132. Stamping the Grid
+2133. Check if Every Row and Column Contains All Numbers
+2146. K Highest Ranked Items Within a Price Range
+2174. Remove All Ones With Row and Column Flips II
+2245. Maximum Trailing Zeros in a Cornered Path
+2257. Count Unguarded Cells in the Grid
+2258. Escape the Spreading Fire
+2267. Check if There Is a Valid Parentheses String Path
+2282. Number of People That Can Be Seen in a Grid
+2290. Minimum Obstacle Removal to Reach Corner
+2304. Minimum Path Cost in a Grid
+2319. Check if Matrix Is X-Matrix
+2326. Spiral Matrix IV
+2328. Number of Increasing Paths in a Grid
+2352. Equal Row and Column Pairs
+2371. Minimize Maximum Value in a Grid
+2373. Largest Local Values in a Matrix
+2387. Median of a Row Wise Sorted Matrix
+2392. Build a Matrix With Conditions
+2397. Maximum Rows Covered by Columns
+2428. Maximum Sum of an Hourglass
+2435. Paths in Matrix Whose Sum Is Divisible by K
+2482. Difference Between Ones and Zeros in Row and Column
+2500. Delete Greatest Value in Each Row
+2510. Check if There is a Path With Equal Number of 0's And 1's
+2536. Increment Submatrices by One
+2545. Sort the Students by Their Kth Score
+2556. Disconnect Path in a Binary Matrix by at Most One Flip
+2577. Minimum Time to Visit a Cell In a Grid
+2596. Check Knight Tour Configuration
+2614. Prime In Diagonal
+2639. Find the Width of Columns of a Grid
+2643. Row With Maximum Ones
+2658. Maximum Number of Fish in a Grid
+2661. First Completely Painted Row or Column
+2664. The Knight’s Tour
+2679. Sum in a Matrix
+2684. Maximum Number of Moves in a Grid
+2711. Difference of Number of Distinct Values on Diagonals
+2713. Maximum Strictly Increasing Cells in a Matrix
+2732. Find a Good Subset of the Matrix
+2812. Find the Safest Path in a Grid
+2022. Convert 1D Array Into 2D Array
+2033. Minimum Operations to Make a Uni-Value Grid
+2061. Number of Spaces Cleaning Robot Cleaned
+2087. Minimum Cost Homecoming of a Robot in a Grid
+2088. Count Fertile Pyramids in a Land
+2123. Minimum Operations to Remove Adjacent Ones in Matrix
+2125. Number of Laser Beams in a Bank
+2128. Remove All Ones With Row and Column Flips
+2132. Stamping the Grid
+2133. Check if Every Row and Column Contains All Numbers
+2146. K Highest Ranked Items Within a Price Range
+2174. Remove All Ones With Row and Column Flips II
+2245. Maximum Trailing Zeros in a Cornered Path
+2257. Count Unguarded Cells in the Grid
+2258. Escape the Spreading Fire
+2267. Check if There Is a Valid Parentheses String Path
+2282. Number of People That Can Be Seen in a Grid
+2290. Minimum Obstacle Removal to Reach Corner
+2304. Minimum Path Cost in a Grid
+2319. Check if Matrix Is X-Matrix
+2326. Spiral Matrix IV
+2328. Number of Increasing Paths in a Grid
+2352. Equal Row and Column Pairs
+2371. Minimize Maximum Value in a Grid
+2373. Largest Local Values in a Matrix
+2387. Median of a Row Wise Sorted Matrix
+2392. Build a Matrix With Conditions
+2397. Maximum Rows Covered by Columns
+2428. Maximum Sum of an Hourglass
+2435. Paths in Matrix Whose Sum Is Divisible by K
+2482. Difference Between Ones and Zeros in Row and Column
+2500. Delete Greatest Value in Each Row
+2510. Check if There is a Path With Equal Number of 0's And 1's
+2536. Increment Submatrices by One
+2545. Sort the Students by Their Kth Score
+2556. Disconnect Path in a Binary Matrix by at Most One Flip
+2577. Minimum Time to Visit a Cell In a Grid
+2596. Check Knight Tour Configuration
+2614. Prime In Diagonal
+2639. Find the Width of Columns of a Grid
+2643. Row With Maximum Ones
+2658. Maximum Number of Fish in a Grid
+2661. First Completely Painted Row or Column
+2664. The Knight’s Tour
+2679. Sum in a Matrix
+2684. Maximum Number of Moves in a Grid
+2711. Difference of Number of Distinct Values on Diagonals
+2713. Maximum Strictly Increasing Cells in a Matrix
+2732. Find a Good Subset of the Matrix
+2812. Find the Safest Path in a Grid

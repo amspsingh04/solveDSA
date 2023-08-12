@@ -1,0 +1,679 @@
+Question
+63. Unique Paths II
+3. Longest Substring Without Repeating Characters
+5. Longest Palindromic Substring
+6. Zigzag Conversion
+8. String to Integer (atoi)
+10. Regular Expression Matching
+12. Integer to Roman
+13. Roman to Integer
+14. Longest Common Prefix
+17. Letter Combinations of a Phone Number
+20. Valid Parentheses
+22. Generate Parentheses
+28. Find the Index of the First Occurrence in a String
+30. Substring with Concatenation of All Words
+32. Longest Valid Parentheses
+38. Count and Say
+43. Multiply Strings
+44. Wildcard Matching
+49. Group Anagrams
+58. Length of Last Word
+65. Valid Number
+67. Add Binary
+68. Text Justification
+71. Simplify Path
+72. Edit Distance
+76. Minimum Window Substring
+87. Scramble String
+91. Decode Ways
+93. Restore IP Addresses
+97. Interleaving String
+115. Distinct Subsequences
+125. Valid Palindrome
+126. Word Ladder II
+127. Word Ladder
+131. Palindrome Partitioning
+132. Palindrome Partitioning II
+139. Word Break
+140. Word Break II
+151. Reverse Words in a String
+157. Read N Characters Given Read4
+158. Read N Characters Given read4 II - Call Multiple Times
+159. Longest Substring with At Most Two Distinct Characters
+161. One Edit Distance
+165. Compare Version Numbers
+166. Fraction to Recurring Decimal
+168. Excel Sheet Column Title
+171. Excel Sheet Column Number
+179. Largest Number
+186. Reverse Words in a String II
+187. Repeated DNA Sequences
+63. Unique Paths II
+3. Longest Substring Without Repeating Characters
+5. Longest Palindromic Substring
+6. Zigzag Conversion
+8. String to Integer (atoi)
+10. Regular Expression Matching
+12. Integer to Roman
+13. Roman to Integer
+14. Longest Common Prefix
+17. Letter Combinations of a Phone Number
+20. Valid Parentheses
+22. Generate Parentheses
+28. Find the Index of the First Occurrence in a String
+30. Substring with Concatenation of All Words
+32. Longest Valid Parentheses
+38. Count and Say
+43. Multiply Strings
+44. Wildcard Matching
+49. Group Anagrams
+58. Length of Last Word
+65. Valid Number
+67. Add Binary
+68. Text Justification
+71. Simplify Path
+72. Edit Distance
+76. Minimum Window Substring
+87. Scramble String
+91. Decode Ways
+93. Restore IP Addresses
+97. Interleaving String
+115. Distinct Subsequences
+125. Valid Palindrome
+126. Word Ladder II
+127. Word Ladder
+131. Palindrome Partitioning
+132. Palindrome Partitioning II
+139. Word Break
+140. Word Break II
+151. Reverse Words in a String
+157. Read N Characters Given Read4
+158. Read N Characters Given read4 II - Call Multiple Times
+159. Longest Substring with At Most Two Distinct Characters
+161. One Edit Distance
+165. Compare Version Numbers
+166. Fraction to Recurring Decimal
+168. Excel Sheet Column Title
+171. Excel Sheet Column Number
+179. Largest Number
+186. Reverse Words in a String II
+187. Repeated DNA Sequences
+208. Implement Trie (Prefix Tree)
+211. Design Add and Search Words Data Structure
+212. Word Search II
+214. Shortest Palindrome
+224. Basic Calculator
+227. Basic Calculator II
+241. Different Ways to Add Parentheses
+242. Valid Anagram
+243. Shortest Word Distance
+244. Shortest Word Distance II
+245. Shortest Word Distance III
+246. Strobogrammatic Number
+247. Strobogrammatic Number II
+248. Strobogrammatic Number III
+249. Group Shifted Strings
+257. Binary Tree Paths
+266. Palindrome Permutation
+267. Palindrome Permutation II
+269. Alien Dictionary
+271. Encode and Decode Strings
+273. Integer to English Words
+282. Expression Add Operators
+288. Unique Word Abbreviation
+290. Word Pattern
+291. Word Pattern II
+293. Flip Game
+297. Serialize and Deserialize Binary Tree
+299. Bulls and Cows
+301. Remove Invalid Parentheses
+306. Additive Number
+316. Remove Duplicate Letters
+318. Maximum Product of Word Lengths
+320. Generalized Abbreviation
+331. Verify Preorder Serialization of a Binary Tree
+336. Palindrome Pairs
+340. Longest Substring with At Most K Distinct Characters
+344. Reverse String
+345. Reverse Vowels of a String
+358. Rearrange String k Distance Apart
+383. Ransom Note
+385. Mini Parser
+387. First Unique Character in a String
+388. Longest Absolute File Path
+389. Find the Difference
+392. Is Subsequence
+394. Decode String
+395. Longest Substring with At Least K Repeating Characters
+402. Remove K Digits
+408. Valid Word Abbreviation
+409. Longest Palindrome
+411. Minimum Unique Word Abbreviation
+412. Fizz Buzz
+415. Add Strings
+418. Sentence Screen Fitting
+420. Strong Password Checker
+423. Reconstruct Original Digits from English
+424. Longest Repeating Character Replacement
+425. Word Squares
+428. Serialize and Deserialize N-ary Tree
+433. Minimum Genetic Mutation
+434. Number of Segments in a String
+438. Find All Anagrams in a String
+439. Ternary Expression Parser
+443. String Compression
+449. Serialize and Deserialize BST
+451. Sort Characters By Frequency
+459. Repeated Substring Pattern
+466. Count The Repetitions
+467. Unique Substrings in Wraparound String
+468. Validate IP Address
+471. Encode String with Shortest Length
+472. Concatenated Words
+474. Ones and Zeroes
+481. Magical String
+482. License Key Formatting
+484. Find Permutation
+488. Zuma Game
+500. Keyboard Row
+514. Freedom Trail
+516. Longest Palindromic Subsequence
+520. Detect Capital
+521. Longest Uncommon Subsequence I
+522. Longest Uncommon Subsequence II
+524. Longest Word in Dictionary through Deleting
+527. Word Abbreviation
+535. Encode and Decode TinyURL
+536. Construct Binary Tree from String
+537. Complex Number Multiplication
+539. Minimum Time Difference
+541. Reverse String II
+544. Output Contest Matches
+551. Student Attendance Record I
+555. Split Concatenated Strings
+556. Next Greater Element III
+557. Reverse Words in a String III
+564. Find the Closest Palindrome
+567. Permutation in String
+583. Delete Operation for Two Strings
+588. Design In-Memory File System
+591. Tag Validator
+592. Fraction Addition and Subtraction
+599. Minimum Index Sum of Two Lists
+604. Design Compressed String Iterator
+606. Construct String from Binary Tree
+609. Find Duplicate File in System
+616. Add Bold Tag in String
+635. Design Log Storage System
+639. Decode Ways II
+640. Solve the Equation
+642. Design Search Autocomplete System
+647. Palindromic Substrings
+648. Replace Words
+649. Dota2 Senate
+657. Robot Return to Origin
+664. Strange Printer
+676. Implement Magic Dictionary
+677. Map Sum Pairs
+678. Valid Parenthesis String
+680. Valid Palindrome II
+681. Next Closest Time
+686. Repeated String Match
+691. Stickers to Spell Word
+692. Top K Frequent Words
+696. Count Binary Substrings
+709. To Lower Case
+712. Minimum ASCII Delete Sum for Two Strings
+720. Longest Word in Dictionary
+721. Accounts Merge
+722. Remove Comments
+726. Number of Atoms
+727. Minimum Window Subsequence
+730. Count Different Palindromic Subsequences
+734. Sentence Similarity
+736. Parse Lisp Expression
+737. Sentence Similarity II
+745. Prefix and Suffix Search
+748. Shortest Completing Word
+751. IP to CIDR
+752. Open the Lock
+758. Bold Words in String
+761. Special Binary String
+763. Partition Labels
+767. Reorganize String
+770. Basic Calculator IV
+771. Jewels and Stones
+772. Basic Calculator III
+777. Swap Adjacent in LR String
+784. Letter Case Permutation
+791. Custom Sort String
+792. Number of Matching Subsequences
+794. Valid Tic-Tac-Toe State
+796. Rotate String
+800. Similar RGB Color
+804. Unique Morse Code Words
+806. Number of Lines To Write String
+809. Expressive Words
+811. Subdomain Visit Count
+816. Ambiguous Coordinates
+819. Most Common Word
+820. Short Encoding of Words
+821. Shortest Distance to a Character
+824. Goat Latin
+828. Count Unique Characters of All Substrings of a Given String
+830. Positions of Large Groups
+831. Masking Personal Information
+833. Find And Replace in String
+838. Push Dominoes
+839. Similar String Groups
+842. Split Array into Fibonacci Sequence
+843. Guess the Word
+844. Backspace String Compare
+848. Shifting Letters
+854. K-Similar Strings
+856. Score of Parentheses
+859. Buddy Strings
+880. Decoded String at Index
+884. Uncommon Words from Two Sentences
+890. Find and Replace Pattern
+893. Groups of Special-Equivalent Strings
+899. Orderly Queue
+902. Numbers At Most N Given Digit Set
+903. Valid Permutations for DI Sequence
+916. Word Subsets
+917. Reverse Only Letters
+921. Minimum Add to Make Parentheses Valid
+925. Long Pressed Name
+926. Flip String to Monotone Increasing
+929. Unique Email Addresses
+936. Stamping The Sequence
+937. Reorder Data in Log Files
+940. Distinct Subsequences II
+942. DI String Match
+943. Find the Shortest Superstring
+944. Delete Columns to Make Sorted
+949. Largest Time for Given Digits
+953. Verifying an Alien Dictionary
+955. Delete Columns to Make Sorted II
+960. Delete Columns to Make Sorted III
+966. Vowel Spellchecker
+972. Equal Rational Numbers
+981. Time Based Key-Value Store
+984. String Without AAA or BBB
+988. Smallest String Starting From Leaf
+990. Satisfiability of Equality Equations
+1002. Find Common Characters
+1003. Check If Word Is Valid After Substitutions
+1016. Binary String With Substrings Representing 1 To N
+1021. Remove Outermost Parentheses
+1023. Camelcase Matching
+1028. Recover a Tree From Preorder Traversal
+1032. Stream of Characters
+1041. Robot Bounded In Circle
+1044. Longest Duplicate Substring
+1047. Remove All Adjacent Duplicates In String
+1048. Longest String Chain
+1055. Shortest Way to Form String
+1058. Minimize Rounding Error to Meet Target
+1061. Lexicographically Smallest Equivalent String
+1062. Longest Repeating Substring
+1065. Index Pairs of a String
+1071. Greatest Common Divisor of Strings
+1078. Occurrences After Bigram
+1079. Letter Tile Possibilities
+1081. Smallest Subsequence of Distinct Characters
+1087. Brace Expansion
+1092. Shortest Common Supersequence
+1096. Brace Expansion II
+1100. Find K-Length Substrings With No Repeated Characters
+1106. Parsing A Boolean Expression
+1108. Defanging an IP Address
+1111. Maximum Nesting Depth of Two Valid Parentheses Strings
+1119. Remove Vowels from a String
+1138. Alphabet Board Path
+1143. Longest Common Subsequence
+1147. Longest Chunked Palindrome Decomposition
+1153. String Transforms Into Another String
+1154. Day of the Year
+1156. Swap For Longest Repeated Character Substring
+1160. Find Words That Can Be Formed by Characters
+1163. Last Substring in Lexicographical Order
+1165. Single-Row Keyboard
+1166. Design File System
+1169. Invalid Transactions
+1170. Compare Strings by Frequency of the Smallest Character
+1177. Can Make Palindrome from Substring
+1178. Number of Valid Words for Each Puzzle
+1180. Count Substrings with Only One Distinct Letter
+1181. Before and After Puzzle
+1189. Maximum Number of Balloons
+1190. Reverse Substrings Between Each Pair of Parentheses
+1202. Smallest String With Swaps
+1208. Get Equal Substrings Within Budget
+1209. Remove All Adjacent Duplicates in String II
+1216. Valid Palindrome III
+1221. Split a String in Balanced Strings
+1233. Remove Sub-Folders from the Filesystem
+1234. Replace the Substring for Balanced String
+1236. Web Crawler
+1239. Maximum Length of a Concatenated String with Unique Characters
+1247. Minimum Swaps to Make Strings Equal
+1249. Minimum Remove to Make Valid Parentheses
+1255. Maximum Score Words Formed by Letters
+1256. Encode Number
+1257. Smallest Common Region
+1258. Synonymous Sentences
+1268. Search Suggestions System
+1271. Hexspeak
+1278. Palindrome Partitioning III
+1286. Iterator for Combination
+1297. Maximum Number of Occurrences of a Substring
+1307. Verbal Arithmetic Puzzle
+1309. Decrypt String from Alphabet to Integer Mapping
+1312. Minimum Insertion Steps to Make a String Palindrome
+1316. Distinct Echo Substrings
+1320. Minimum Distance to Type a Word Using Two Fingers
+1324. Print Words Vertically
+1328. Break a Palindrome
+1332. Remove Palindromic Subsequences
+1347. Minimum Number of Steps to Make Two Strings Anagram
+1358. Number of Substrings Containing All Three Characters
+1360. Number of Days Between Two Dates
+1366. Rank Teams by Votes
+1370. Increasing Decreasing String
+1371. Find the Longest Substring Containing Vowels in Even Counts
+1374. Generate a String With Characters That Have Odd Counts
+1392. Longest Happy Prefix
+1396. Design Underground System
+1397. Find All Good Strings
+1400. Construct K Palindrome Strings
+1404. Number of Steps to Reduce a Number in Binary Representation to One
+1405. Longest Happy String
+1408. String Matching in an Array
+1410. HTML Entity Parser
+1415. The k-th Lexicographical String of All Happy Strings of Length n
+1416. Restore The Array
+1417. Reformat The String
+1418. Display Table of Food Orders in a Restaurant
+1419. Minimum Number of Frogs Croaking
+1422. Maximum Score After Splitting a String
+1427. Perform String Shifts
+1433. Check If a String Can Break Another String
+1436. Destination City
+1446. Consecutive Characters
+1447. Simplified Fractions
+1451. Rearrange Words in a Sentence
+1452. People Whose List of Favorite Companies Is Not a Subset of Another List
+1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
+1456. Maximum Number of Vowels in a Substring of Given Length
+1461. Check If a String Contains All Binary Codes of Size K
+1487. Making File Names Unique
+1496. Path Crossing
+1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits
+1507. Reformat Date
+1513. Number of Substrings With Only 1s
+1520. Maximum Number of Non-Overlapping Substrings
+1525. Number of Good Ways to Split a String
+1528. Shuffle String
+1529. Minimum Suffix Flips
+1531. String Compression II
+1540. Can Convert String in K Moves
+1541. Minimum Insertions to Balance a Parentheses String
+1542. Find Longest Awesome Substring
+1544. Make The String Great
+1545. Find Kth Bit in Nth Binary String
+1554. Strings Differ by One Character
+1556. Thousand Separator
+1573. Number of Ways to Split a String
+1576. Replace All ?'s to Avoid Consecutive Repeating Characters
+1578. Minimum Time to Make Rope Colorful
+1585. Check If String Is Transformable With Substring Sort Operations
+1592. Rearrange Spaces Between Words
+1593. Split a String Into the Max Number of Unique Substrings
+1597. Build Binary Expression Tree From Infix Expression
+1598. Crawler Log Folder
+1604. Alert Using Same Key-Card Three or More Times in a One Hour Period
+1614. Maximum Nesting Depth of the Parentheses
+1616. Split Two Strings to Make Palindrome
+1618. Maximum Font to Fit a Sentence in a Screen
+1624. Largest Substring Between Two Equal Characters
+1625. Lexicographically Smallest String After Applying Operations
+1629. Slowest Key
+1638. Count Substrings That Differ by One Character
+1639. Number of Ways to Form a Target String Given a Dictionary
+1647. Minimum Deletions to Make Character Frequencies Unique
+1653. Minimum Deletions to Make String Balanced
+1657. Determine if Two Strings Are Close
+1662. Check If Two String Arrays are Equivalent
+1663. Smallest String With A Given Numeric Value
+1668. Maximum Repeating Substring
+1678. Goal Parser Interpretation
+1682. Longest Palindromic Subsequence II
+1684. Count the Number of Consistent Strings
+1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+1694. Reformat Phone Number
+1698. Number of Distinct Substrings in a String
+1702. Maximum Binary String After Change
+1704. Determine if String Halves Are Alike
+1717. Maximum Score From Removing Substrings
+1736. Latest Time by Replacing Hidden Digits
+1737. Change Minimum Characters to Satisfy One of Three Conditions
+1745. Palindrome Partitioning IV
+1750. Minimum Length of String After Deleting Similar Ends
+1754. Largest Merge Of Two Strings
+1758. Minimum Changes To Make Alternating Binary String
+1759. Count Number of Homogenous Substrings
+1763. Longest Nice Substring
+1768. Merge Strings Alternately
+1769. Minimum Number of Operations to Move All Balls to Each Box
+1771. Maximize Palindrome Length From Subsequences
+1772. Sort Features by Popularity
+1773. Count Items Matching a Rule
+1781. Sum of Beauty of All Substrings
+1784. Check if Binary String Has at Most One Segment of Ones
+1790. Check if One String Swap Can Make Strings Equal
+1794. Count Pairs of Equal Substrings With Minimum Difference
+1796. Second Largest Digit in a String
+1804. Implement Trie II (Prefix Tree)
+1805. Number of Different Integers in a String
+1807. Evaluate the Bracket Pairs of a String
+1812. Determine Color of a Chessboard Square
+1813. Sentence Similarity III
+1816. Truncate Sentence
+1830. Minimum Number of Operations to Make String Sorted
+1832. Check if the Sentence Is Pangram
+1839. Longest Substring Of All Vowels in Order
+1842. Next Palindrome Using Same Digits
+1844. Replace All Digits with Characters
+1849. Splitting a String Into Descending Consecutive Values
+1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number
+1859. Sorting the Sentence
+1864. Minimum Number of Swaps to Make the Binary String Alternating
+1869. Longer Contiguous Segments of Ones than Zeros
+1871. Jump Game VII
+1876. Substrings of Size Three with Distinct Characters
+1880. Check if Word Equals Summation of Two Words
+1881. Maximum Value after Insertion
+1888. Minimum Number of Flips to Make the Binary String Alternating
+1896. Minimum Cost to Change the Final Value of Expression
+1897. Redistribute Characters to Make All Strings Equal
+1898. Maximum Number of Removable Characters
+1903. Largest Odd Number in String
+1904. The Number of Full Rounds You Have Played
+1910. Remove All Occurrences of a Substring
+1915. Number of Wonderful Substrings
+1930. Unique Length-3 Palindromic Subsequences
+1933. Check if String Is Decomposable Into Value-Equal Substrings
+1935. Maximum Number of Words You Can Type
+1941. Check if All Characters Have Equal Number of Occurrences
+1945. Sum of Digits of String After Convert
+1946. Largest Number After Mutating Substring
+1948. Delete Duplicate Folders in System
+1957. Delete Characters to Make Fancy String
+1960. Maximum Product of the Length of Two Palindromic Substrings
+1961. Check If String Is a Prefix of Array
+1963. Minimum Number of Swaps to Make the String Balanced
+1967. Number of Strings That Appear as Substrings in Word
+1974. Minimum Time to Type Word Using Special Typewriter
+1977. Number of Ways to Separate Numbers
+1980. Find Unique Binary String
+1985. Find the Kth Largest Integer in the Array
+1987. Number of Unique Good Subsequences
+2000. Reverse Prefix of Word
+2002. Maximum Product of the Length of Two Palindromic Subsequences
+2011. Final Value of Variable After Performing Operations
+2014. Longest Subsequence Repeated k Times
+2019. The Score of Students Solving Math Expression
+2023. Number of Pairs of Strings With Concatenation Equal to Target
+2024. Maximize the Confusion of an Exam
+2027. Minimum Moves to Convert String
+2030. Smallest K-Length Subsequence With Occurrences of a Letter
+2038. Remove Colored Pieces if Both Neighbors are the Same Color
+2042. Check if Numbers Are Ascending in a Sentence
+2047. Number of Valid Words in a Sentence
+2053. Kth Distinct String in an Array
+2055. Plates Between Candles
+2056. Number of Valid Move Combinations On Chessboard
+2060. Check if an Original String Exists Given Two Encoded Strings
+2062. Count Vowel Substrings of a String
+2063. Vowels of All Substrings
+2067. Number of Equal Count Substrings
+2068. Check Whether Two Strings are Almost Equivalent
+2075. Decode the Slanted Ciphertext
+2083. Substrings That Begin and End With the Same Letter
+2085. Count Common Words With One Occurrence
+2086. Minimum Number of Food Buckets to Feed the Hamsters
+2096. Step-By-Step Directions From a Binary Tree Node to Another
+2103. Rings and Rods
+2108. Find First Palindromic String in the Array
+2109. Adding Spaces to a String
+2114. Maximum Number of Words Found in Sentences
+2115. Find All Possible Recipes from Given Supplies
+2116. Check if a Parentheses String Can Be Valid
+2120. Execution of All Suffix Instructions Staying in a Grid
+2124. Check if All A's Appears Before All B's
+2125. Number of Laser Beams in a Bank
+2129. Capitalize the Title
+2131. Longest Palindrome by Concatenating Two Letter Words
+2135. Count Words Obtained After Adding a Letter
+2138. Divide a String Into Groups of Size k
+2147. Number of Ways to Divide a Long Corridor
+2156. Find Substring With Given Hash Value
+2157. Groups of Strings
+2167. Minimum Time to Remove All Cars Containing Illegal Goods
+2168. Unique Substrings With Equal Digit Frequency
+2182. Construct String With Repeat Limit
+2185. Counting Words With a Given Prefix
+2186. Minimum Number of Steps to Make Two Strings Anagram II
+2193. Minimum Number of Moves to Make Palindrome
+2194. Cells in a Range on an Excel Sheet
+2207. Maximize Number of Subsequences in a String
+2209. Minimum White Tiles After Covering With Carpets
+2211. Count Collisions on a Road
+2213. Longest Substring of One Repeating Character
+2222. Number of Ways to Select Buildings
+2223. Sum of Scores of Built Strings
+2224. Minimum Number of Operations to Convert Time
+2227. Encrypt and Decrypt Strings
+2232. Minimize Result by Adding Parentheses to Expression
+2243. Calculate Digit Sum of a String
+2246. Longest Path With Different Adjacent Characters
+2255. Count Prefixes of a Given String
+2259. Remove Digit From Number to Maximize Result
+2262. Total Appeal of A String
+2264. Largest 3-Same-Digit Number in String
+2266. Count Number of Texts
+2268. Minimum Number of Keypresses
+2269. Find the K-Beauty of a Number
+2273. Find Resultant Array After Removing Anagrams
+2278. Percentage of Letter in String
+2283. Check if Number Has Equal Digit Count and Digit Value
+2284. Sender With Largest Word Count
+2287. Rearrange Characters to Make Target String
+2288. Apply Discount to Prices
+2296. Design a Text Editor
+2299. Strong Password Checker II
+2301. Match Substring After Replacement
+2306. Naming a Company
+2309. Greatest English Letter in Upper and Lower Case
+2311. Longest Binary Subsequence Less Than or Equal to K
+2315. Count Asterisks
+2325. Decode the Message
+2330. Valid Palindrome IV
+2337. Move Pieces to Obtain a String
+2343. Query Kth Smallest Trimmed Number
+2351. First Letter to Appear Twice
+2370. Longest Ideal Subsequence
+2375. Construct Smallest Number From DI String
+2379. Minimum Recolors to Get K Consecutive Black Blocks
+2380. Time Needed to Rearrange a Binary String
+2381. Shifting Letters II
+2384. Largest Palindromic Number
+2390. Removing Stars From a String
+2391. Minimum Amount of Time to Collect Garbage
+2399. Check Distances Between Same Letters
+2405. Optimal Partition of String
+2408. Design SQL
+2409. Count Days Spent Together
+2414. Length of the Longest Alphabetical Continuous Substring
+2416. Sum of Prefix Scores of Strings
+2418. Sort the People
+2423. Remove Letter To Equalize Frequency
+2430. Maximum Deletions on a String
+2434. Using a Robot to Print the Lexicographically Smallest String
+2437. Number of Valid Clock Times
+2446. Determine if Two Events Have Conflict
+2450. Number of Distinct Binary Strings After Applying Operations
+2451. Odd String Difference
+2452. Words Within Two Edits of Dictionary
+2456. Most Popular Video Creator
+2468. Split Message Based on Limit
+2472. Maximum Number of Non-overlapping Palindrome Substrings
+2478. Number of Beautiful Partitions
+2483. Minimum Penalty for a Shop
+2484. Count Palindromic Subsequences
+2486. Append Characters to String to Make Subsequence
+2489. Number of Substrings With Fixed Ratio
+2490. Circular Sentence
+2496. Maximum Value of a String in an Array
+2506. Count Pairs Of Similar Strings
+2512. Reward Top K Students
+2514. Count Anagrams
+2515. Shortest Distance to Target String in a Circular Array
+2516. Take K of Each Character From Left and Right
+2522. Partition String Into Substrings With Values at Most K
+2531. Make Number of Distinct Characters Equal
+2539. Count the Number of Good Subsequences
+2546. Apply Bitwise Operations to Make Strings Equal
+2559. Count Vowel Strings in Ranges
+2564. Substring XOR Queries
+2565. Subsequence With the Minimum Score
+2573. Find the String with LCP
+2575. Find the Divisibility Array of a String
+2586. Count the Number of Vowel Strings in Range
+2590. Design a Todo List
+2606. Find the Substring With Maximum Cost
+2609. Find the Longest Balanced Substring of a Binary String
+2645. Minimum Additions to Make Valid String
+2663. Lexicographically Smallest Beautiful String
+2678. Number of Senior Citizens
+2696. Minimum String Length After Removing Substrings
+2697. Lexicographically Smallest Palindrome
+2707. Extra Characters in a String
+2710. Remove Trailing Zeros From a String
+2712. Minimum Cost to Make All Characters Equal
+2716. Minimize String Length
+2719. Count of Integers
+2730. Find the Longest Semi-Repetitive Substring
+2734. Lexicographically Smallest String After Substring Operation
+2743. Count Substrings Without Repeating Character
+2744. Find Maximum Number of String Pairs
+2746. Decremental String Concatenation
+2767. Partition String Into Minimum Beautiful Substrings
+2781. Length of the Longest Valid Substring
+2785. Sort Vowels in a String
+2788. Split Strings by Separator
+2800. Shortest String That Contains Three Strings
+2801. Count Stepping Numbers in Range
+2810. Faulty Keyboard
