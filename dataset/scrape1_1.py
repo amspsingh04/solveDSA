@@ -6,8 +6,8 @@ import time
 import csv
 
 def main():
-    geckodriver_path = "C:/Users\spsin\Desktop\geckodriver-v0.33.0-win64\geckodriver.exe"  # Replace with the actual path
-    firefox_path = "C:/Program Files (x86)\Mozilla Firefox\firefox.exe"
+    geckodriver_path = "C:/Users/spsin/Desktop/geckodriver-v0.33.0-win64/geckodriver.exe"
+    firefox_path = "C:/Program Files (x86)/Mozilla Firefox/firefox.exe"
 
     options = Options()
     options.binary_location = firefox_path
