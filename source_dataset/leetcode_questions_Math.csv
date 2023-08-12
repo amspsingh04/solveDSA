@@ -1,0 +1,492 @@
+Question,Tag
+63. Unique Paths II,Array
+2. Add Two Numbers,Array
+7. Reverse Integer,Array
+9. Palindrome Number,Array
+12. Integer to Roman,Array
+13. Roman to Integer,Array
+29. Divide Two Integers,Array
+43. Multiply Strings,Array
+48. Rotate Image,Array
+"50. Pow(x, n)",Array
+60. Permutation Sequence,Array
+62. Unique Paths,Array
+66. Plus One,Array
+67. Add Binary,Array
+69. Sqrt(x),Array
+70. Climbing Stairs,Array
+89. Gray Code,Array
+96. Unique Binary Search Trees,Array
+149. Max Points on a Line,Array
+150. Evaluate Reverse Polish Notation,Array
+166. Fraction to Recurring Decimal,Array
+168. Excel Sheet Column Title,Array
+171. Excel Sheet Column Number,Array
+172. Factorial Trailing Zeroes,Array
+189. Rotate Array,Array
+202. Happy Number,Array
+204. Count Primes,Array
+223. Rectangle Area,Array
+224. Basic Calculator,Array
+227. Basic Calculator II,Array
+231. Power of Two,Array
+233. Number of Digit One,Array
+241. Different Ways to Add Parentheses,Array
+258. Add Digits,Array
+263. Ugly Number,Array
+264. Ugly Number II,Array
+268. Missing Number,Array
+273. Integer to English Words,Array
+279. Perfect Squares,Array
+282. Expression Add Operators,Array
+292. Nim Game,Array
+294. Flip Game II,Array
+296. Best Meeting Point,Array
+313. Super Ugly Number,Array
+319. Bulb Switcher,Array
+326. Power of Three,Array
+335. Self Crossing,Array
+342. Power of Four,Array
+343. Integer Break,Array
+356. Line Reflection,Array
+63. Unique Paths II,Array
+2. Add Two Numbers,Array
+7. Reverse Integer,Array
+9. Palindrome Number,Array
+12. Integer to Roman,Array
+13. Roman to Integer,Array
+29. Divide Two Integers,Array
+43. Multiply Strings,Array
+48. Rotate Image,Array
+"50. Pow(x, n)",Array
+60. Permutation Sequence,Array
+62. Unique Paths,Array
+66. Plus One,Array
+67. Add Binary,Array
+69. Sqrt(x),Array
+70. Climbing Stairs,Array
+89. Gray Code,Array
+96. Unique Binary Search Trees,Array
+149. Max Points on a Line,Array
+150. Evaluate Reverse Polish Notation,Array
+166. Fraction to Recurring Decimal,Array
+168. Excel Sheet Column Title,Array
+171. Excel Sheet Column Number,Array
+172. Factorial Trailing Zeroes,Array
+189. Rotate Array,Array
+202. Happy Number,Array
+204. Count Primes,Array
+223. Rectangle Area,Array
+224. Basic Calculator,Array
+227. Basic Calculator II,Array
+231. Power of Two,Array
+233. Number of Digit One,Array
+241. Different Ways to Add Parentheses,Array
+258. Add Digits,Array
+263. Ugly Number,Array
+264. Ugly Number II,Array
+268. Missing Number,Array
+273. Integer to English Words,Array
+279. Perfect Squares,Array
+282. Expression Add Operators,Array
+292. Nim Game,Array
+294. Flip Game II,Array
+296. Best Meeting Point,Array
+313. Super Ugly Number,Array
+319. Bulb Switcher,Array
+326. Power of Three,Array
+335. Self Crossing,Array
+342. Power of Four,Array
+343. Integer Break,Array
+356. Line Reflection,Array
+360. Sort Transformed Array,Array
+365. Water and Jug Problem,Array
+367. Valid Perfect Square,Array
+368. Largest Divisible Subset,Array
+369. Plus One Linked List,Array
+371. Sum of Two Integers,Array
+372. Super Pow,Array
+375. Guess Number Higher or Lower II,Array
+380. Insert Delete GetRandom O(1),Array
+381. Insert Delete GetRandom O(1) - Duplicates allowed,Array
+382. Linked List Random Node,Array
+384. Shuffle an Array,Array
+390. Elimination Game,Array
+396. Rotate Function,Array
+398. Random Pick Index,Array
+400. Nth Digit,Array
+405. Convert a Number to Hexadecimal,Array
+412. Fizz Buzz,Array
+415. Add Strings,Array
+423. Reconstruct Original Digits from English,Array
+441. Arranging Coins,Array
+445. Add Two Numbers II,Array
+447. Number of Boomerangs,Array
+453. Minimum Moves to Equal Array Elements,Array
+458. Poor Pigs,Array
+462. Minimum Moves to Equal Array Elements II,Array
+464. Can I Win,Array
+469. Convex Polygon,Array
+470. Implement Rand10() Using Rand7(),Array
+477. Total Hamming Distance,Array
+478. Generate Random Point in a Circle,Array
+479. Largest Palindrome Product,Array
+483. Smallest Good Base,Array
+486. Predict the Winner,Array
+492. Construct the Rectangle,Array
+497. Random Point in Non-overlapping Rectangles,Array
+504. Base 7,Array
+507. Perfect Number,Array
+509. Fibonacci Number,Array
+519. Random Flip Matrix,Array
+523. Continuous Subarray Sum,Array
+528. Random Pick with Weight,Array
+537. Complex Number Multiplication,Array
+539. Minimum Time Difference,Array
+553. Optimal Division,Array
+556. Next Greater Element III,Array
+564. Find the Closest Palindrome,Array
+573. Squirrel Simulation,Array
+587. Erect the Fence,Array
+592. Fraction Addition and Subtraction,Array
+593. Valid Square,Array
+598. Range Addition II,Array
+625. Minimum Factorization,Array
+628. Maximum Product of Three Numbers,Array
+633. Sum of Square Numbers,Array
+634. Find the Derangement of An Array,Array
+640. Solve the Equation,Array
+650. 2 Keys Keyboard,Array
+651. 4 Keys Keyboard,Array
+660. Remove 9,Array
+667. Beautiful Arrangement II,Array
+668. Kth Smallest Number in Multiplication Table,Array
+670. Maximum Swap,Array
+672. Bulb Switcher II,Array
+679. 24 Game,Array
+710. Random Pick with Blacklist,Array
+728. Self Dividing Numbers,Array
+738. Monotone Increasing Digits,Array
+750. Number Of Corner Rectangles,Array
+754. Reach a Number,Array
+762. Prime Number of Set Bits in Binary Representation,Array
+770. Basic Calculator IV,Array
+772. Basic Calculator III,Array
+775. Global and Local Inversions,Array
+779. K-th Symbol in Grammar,Array
+780. Reaching Points,Array
+781. Rabbits in Forest,Array
+782. Transform to Chessboard,Array
+788. Rotated Digits,Array
+789. Escape The Ghosts,Array
+793. Preimage Size of Factorial Zeroes Function,Array
+800. Similar RGB Color,Array
+805. Split Array With Same Average,Array
+808. Soup Servings,Array
+810. Chalkboard XOR Game,Array
+812. Largest Triangle Area,Array
+829. Consecutive Numbers Sum,Array
+836. Rectangle Overlap,Array
+837. New 21 Game,Array
+840. Magic Squares In Grid,Array
+843. Guess the Word,Array
+858. Mirror Reflection,Array
+866. Prime Palindrome,Array
+869. Reordered Power of 2,Array
+877. Stone Game,Array
+878. Nth Magical Number,Array
+883. Projection Area of 3D Shapes,Array
+887. Super Egg Drop,Array
+891. Sum of Subsequence Widths,Array
+892. Surface Area of 3D Shapes,Array
+899. Orderly Queue,Array
+902. Numbers At Most N Given Digit Set,Array
+906. Super Palindromes,Array
+908. Smallest Range I,Array
+910. Smallest Range II,Array
+913. Cat and Mouse,Array
+914. X of a Kind in a Deck of Cards,Array
+920. Number of Music Playlists,Array
+927. Three Equal Parts,Array
+932. Beautiful Array,Array
+939. Minimum Area Rectangle,Array
+952. Largest Component Size by Common Factor,Array
+957. Prison Cells After N Days,Array
+963. Minimum Area Rectangle II,Array
+964. Least Operators to Express Number,Array
+970. Powerful Integers,Array
+972. Equal Rational Numbers,Array
+973. K Closest Points to Origin,Array
+976. Largest Perimeter Triangle,Array
+989. Add to Array-Form of Integer,Array
+991. Broken Calculator,Array
+996. Number of Squareful Arrays,Array
+1006. Clumsy Factorial,Array
+1012. Numbers With Repeated Digits,Array
+1015. Smallest Integer Divisible by K,Array
+1017. Convert to Base -2,Array
+1025. Divisor Game,Array
+1030. Matrix Cells in Distance Order,Array
+1033. Moving Stones Until Consecutive,Array
+1037. Valid Boomerang,Array
+1040. Moving Stones Until Consecutive II,Array
+1041. Robot Bounded In Circle,Array
+1056. Confusing Number,Array
+1058. Minimize Rounding Error to Meet Target,Array
+1067. Digit Count in Range,Array
+1071. Greatest Common Divisor of Strings,Array
+1073. Adding Two Negabinary Numbers,Array
+1085. Sum of Digits in the Minimum Number,Array
+1088. Confusing Number II,Array
+1093. Statistics from a Large Sample,Array
+1103. Distribute Candies to People,Array
+1104. Path In Zigzag Labelled Binary Tree,Array
+1118. Number of Days in a Month,Array
+1131. Maximum of Absolute Value Expression,Array
+1134. Armstrong Number,Array
+1137. N-th Tribonacci Number,Array
+1140. Stone Game II,Array
+1154. Day of the Year,Array
+1175. Prime Arrangements,Array
+1180. Count Substrings with Only One Distinct Letter,Array
+1185. Day of the Week,Array
+1199. Minimum Time to Build Blocks,Array
+1201. Ugly Number III,Array
+1217. Minimum Cost to Move Chips to The Same Position,Array
+1227. Airplane Seat Assignment Probability,Array
+1228. Missing Number In Arithmetic Progression,Array
+1230. Toss Strange Coins,Array
+1232. Check If It Is a Straight Line,Array
+1237. Find Positive Integer Solution for a Given Equation,Array
+1238. Circular Permutation in Binary Representation,Array
+1247. Minimum Swaps to Make Strings Equal,Array
+1248. Count Number of Nice Subarrays,Array
+1250. Check If It Is a Good Array,Array
+1252. Cells with Odd Values in a Matrix,Array
+1256. Encode Number,Array
+1259. Handshakes That Don't Cross,Array
+1266. Minimum Time Visiting All Points,Array
+1271. Hexspeak,Array
+1276. Number of Burgers with No Waste of Ingredients,Array
+1281. Subtract the Product and Sum of Digits of an Integer,Array
+1290. Convert Binary Number in a Linked List to Integer,Array
+1304. Find N Unique Integers Sum up to Zero,Array
+1307. Verbal Arithmetic Puzzle,Array
+1317. Convert Integer to the Sum of Two No-Zero Integers,Array
+1323. Maximum 69 Number,Array
+1330. Reverse Subarray To Maximize Array Value,Array
+1342. Number of Steps to Reduce a Number to Zero,Array
+1344. Angle Between Hands of a Clock,Array
+1352. Product of the Last K Numbers,Array
+1359. Count All Valid Pickup and Delivery Options,Array
+1360. Number of Days Between Two Dates,Array
+1362. Closest Divisors,Array
+1390. Four Divisors,Array
+1399. Count Largest Group,Array
+1401. Circle and Rectangle Overlapping,Array
+1406. Stone Game III,Array
+1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K,Array
+1427. Perform String Shifts,Array
+1432. Max Difference You Can Get From Changing an Integer,Array
+1442. Count Triplets That Can Form Two Arrays of Equal XOR,Array
+1447. Simplified Fractions,Array
+1453. Maximum Number of Darts Inside of a Circular Dartboard,Array
+1467. Probability of a Two Boxes Having The Same Number of Distinct Balls,Array
+1478. Allocate Mailboxes,Array
+1486. XOR Operation in an Array,Array
+1492. The kth Factor of n,Array
+1510. Stone Game IV,Array
+1512. Number of Good Pairs,Array
+1513. Number of Substrings With Only 1s,Array
+1515. Best Position for a Service Centre,Array
+1518. Water Bottles,Array
+1523. Count Odd Numbers in an Interval Range,Array
+1524. Number of Sub-arrays With Odd Sum,Array
+1538. Guess the Majority in a Hidden Array,Array
+1551. Minimum Operations to Make Array Equal,Array
+1561. Maximum Number of Coins You Can Get,Array
+1563. Stone Game V,Array
+1569. Number of Ways to Reorder Array to Get Same BST,Array
+1573. Number of Ways to Split a String,Array
+1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers,Array
+1588. Sum of All Odd Length Subarrays,Array
+1610. Maximum Number of Visible Points,Array
+1621. Number of Sets of K Non-Overlapping Line Segments,Array
+1622. Fancy Sequence,Array
+1627. Graph Connectivity With Threshold,Array
+1628. Design an Expression Tree With Evaluate Function,Array
+1634. Add Two Polynomials Represented as Linked Lists,Array
+1641. Count Sorted Vowel Strings,Array
+1643. Kth Smallest Instructions,Array
+1648. Sell Diminishing-Valued Colored Balls,Array
+1680. Concatenation of Consecutive Binary Numbers,Array
+1685. Sum of Absolute Differences in a Sorted Array,Array
+1686. Stone Game VI,Array
+1688. Count of Matches in Tournament,Array
+1690. Stone Game VII,Array
+1716. Calculate Money in Leetcode Bank,Array
+1728. Cat and Mouse II,Array
+1735. Count Ways to Make Array With Product,Array
+1739. Building Boxes,Array
+1742. Maximum Number of Balls in a Box,Array
+1753. Maximum Score From Removing Stones,Array
+1759. Count Number of Homogenous Substrings,Array
+1766. Tree of Coprimes,Array
+1776. Car Fleet II,Array
+1780. Check if Number is a Sum of Powers of Three,Array
+1799. Maximize Score After N Operations,Array
+1806. Minimum Number of Operations to Reinitialize a Permutation,Array
+1808. Maximize Number of Nice Divisors,Array
+1812. Determine Color of a Chessboard Square,Array
+1814. Count Nice Pairs in an Array,Array
+1819. Number of Different Subsequences GCDs,Array
+1822. Sign of the Product of an Array,Array
+1823. Find the Winner of the Circular Game,Array
+1828. Queries on Number of Points Inside a Circle,Array
+1830. Minimum Number of Operations to Make String Sorted,Array
+1835. Find XOR Sum of All Pairs Bitwise AND,Array
+1837. Sum of Digits in Base K,Array
+1840. Maximum Building Height,Array
+1862. Sum of Floored Pairs,Array
+1863. Sum of All Subset XOR Totals,Array
+1866. Number of Ways to Rearrange Sticks With K Sticks Visible,Array
+1872. Stone Game VIII,Array
+1878. Get Biggest Three Rhombus Sums in a Grid,Array
+1884. Egg Drop With 2 Eggs and N Floors,Array
+1896. Minimum Cost to Change the Final Value of Expression,Array
+1903. Largest Odd Number in String,Array
+1904. The Number of Full Rounds You Have Played,Array
+1908. Game of Nim,Array
+1916. Count Ways to Build Rooms in an Ant Colony,Array
+1922. Count Good Numbers,Array
+1924. Erect the Fence II,Array
+1925. Count Square Sum Triples,Array
+1927. Sum Game,Array
+1952. Three Divisors,Array
+1954. Minimum Garden Perimeter to Collect Enough Apples,Array
+1956. Minimum Time For K Virus Variants to Spread,Array
+1969. Minimum Non-Zero Product of the Array Elements,Array
+1979. Find Greatest Common Divisor of Array,Array
+1994. The Number of Good Subsets,Array
+1998. GCD Sort of an Array,Array
+1999. Smallest Greater Multiple Made of Two Digits,Array
+2001. Number of Pairs of Interchangeable Rectangles,Array
+2005. Subtree Removal Game with Fibonacci Tree,Array
+2019. The Score of Students Solving Math Expression,Array
+2028. Find Missing Observations,Array
+2029. Stone Game IX,Array
+2033. Minimum Operations to Make a Uni-Value Grid,Array
+2038. Remove Colored Pieces if Both Neighbors are the Same Color,Array
+2048. Next Greater Numerically Balanced Number,Array
+2063. Vowels of All Substrings,Array
+2081. Sum of k-Mirror Numbers,Array
+2083. Substrings That Begin and End With the Same Letter,Array
+2101. Detonate the Maximum Bombs,Array
+2110. Number of Smooth Descent Periods of a Stock,Array
+2117. Abbreviating the Product of a Range,Array
+2119. A Number After a Double Reversal,Array
+2125. Number of Laser Beams in a Bank,Array
+2128. Remove All Ones With Row and Column Flips,Array
+2139. Minimum Moves to Reach Target Score,Array
+2147. Number of Ways to Divide a Long Corridor,Array
+2152. Minimum Number of Lines to Cover Points,Array
+2160. Minimum Sum of Four Digit Number After Splitting Digits,Array
+2162. Minimum Cost to Set Cooking Time,Array
+2165. Smallest Value of the Rearranged Number,Array
+2169. Count Operations to Obtain Zero,Array
+2177. Find Three Consecutive Integers That Sum to a Given Number,Array
+2178. Maximum Split of Positive Even Integers,Array
+2180. Count Integers With Even Digit Sum,Array
+2183. Count Array Pairs Divisible by K,Array
+2189. Number of Ways to Build House of Cards,Array
+2195. Append K Integers With Minimal Sum,Array
+2197. Replace Non-Coprime Numbers in Array,Array
+2198. Number of Single Divisor Triplets,Array
+2217. Find Palindrome With Fixed Length,Array
+2221. Find Triangular Sum of an Array,Array
+2235. Add Two Integers,Array
+2240. Number of Ways to Buy Pens and Pencils,Array
+2249. Count Lattice Points Inside a Circle,Array
+2266. Count Number of Texts,Array
+2269. Find the K-Beauty of a Number,Array
+2280. Minimum Lines to Represent a Line Chart,Array
+2310. Sum of Numbers With Units Digit K,Array
+2317. Maximum XOR After Operations,Array
+2333. Minimum Sum of Squared Difference,Array
+2338. Count the Number of Ideal Arrays,Array
+2344. Minimum Deletions to Make Array Divisible,Array
+2348. Number of Zero-Filled Subarrays,Array
+2358. Maximum Number of Groups Entering a Competition,Array
+2366. Minimum Replacements to Sort the Array,Array
+2376. Count Special Integers,Array
+2393. Count Strictly Increasing Subarrays,Array
+2396. Strictly Palindromic Number,Array
+2400. Number of Ways to Reach a Position After Exactly k Steps,Array
+2409. Count Days Spent Together,Array
+2413. Smallest Even Multiple,Array
+2417. Closest Fair Integer,Array
+2427. Number of Common Factors,Array
+2436. Minimum Split Into Subarrays With GCD Greater Than One,Array
+2440. Create Components With Same Value,Array
+2442. Count Number of Distinct Integers After Reverse Operations,Array
+2443. Sum of Number and Its Reverse,Array
+2447. Number of Subarrays With GCD Equal to K,Array
+2450. Number of Distinct Binary Strings After Applying Operations,Array
+2455. Average Value of Even Numbers That Are Divisible by Three,Array
+2457. Minimum Addition to Make Integer Beautiful,Array
+2464. Minimum Subarrays in a Valid Split,Array
+2469. Convert the Temperature,Array
+2470. Number of Subarrays With LCM Equal to K,Array
+2481. Minimum Cuts to Divide a Circle,Array
+2485. Find the Pivot Integer,Array
+2489. Number of Substrings With Fixed Ratio,Array
+2495. Number of Subarrays Having Even Product,Array
+2505. Bitwise OR of All Subsequence Sums,Array
+2507. Smallest Value After Replacing With Sum of Prime Factors,Array
+2513. Minimize the Maximum of Two Arrays,Array
+2514. Count Anagrams,Array
+2520. Count the Digits That Divide a Number,Array
+2521. Distinct Prime Factors of Product of Array,Array
+2523. Closest Prime Numbers in Range,Array
+2524. Maximum Frequency Score of a Subarray,Array
+2525. Categorize Box According to Criteria,Array
+2527. Find Xor-Beauty of Array,Array
+2535. Difference Between Element Sum and Digit Sum of an Array,Array
+2539. Count the Number of Good Subsequences,Array
+2541. Minimum Operations to Make Array Equal II,Array
+2543. Check if Point Is Reachable,Array
+2544. Alternating Digit Sum,Array
+2549. Count Distinct Numbers on Board,Array
+2550. Count Collisions of Monkeys on a Polygon,Array
+2566. Maximum Difference by Remapping a Digit,Array
+2572. Count the Number of Square-Free Subsets,Array
+2575. Find the Divisibility Array of a String,Array
+2578. Split With Minimum Sum,Array
+2579. Count Total Number of Colored Cells,Array
+2582. Pass the Pillow,Array
+2584. Split the Array to Make Coprime Products,Array
+2591. Distribute Money to Maximum Children,Array
+2598. Smallest Missing Non-negative Integer After Operations,Array
+2600. K Items With the Maximum Sum,Array
+2601. Prime Subtraction Operation,Array
+2607. Make K-Subarray Sums Equal,Array
+2613. Beautiful Pairs,Array
+2614. Prime In Diagonal,Array
+2647. Color the Triangle Red,Array
+2651. Calculate Delayed Arrival Time,Array
+2652. Sum Multiples,Array
+2654. Minimum Number of Operations to Make All Array Elements Equal to 1,Array
+2681. Power of Heroes,Array
+2698. Find the Punishment Number of an Integer,Array
+2709. Greatest Common Divisor Traversal,Array
+2719. Count of Integers,Array
+2729. Check if The Number is Fascinating,Array
+2739. Total Distance Traveled,Array
+2745. Construct the Longest New String,Array
+2748. Number of Beautiful Pairs,Array
+2750. Ways to Split Array Into Good Subarrays,Array
+2761. Prime Pairs With Target Sum,Array
+2769. Find the Maximum Achievable Number,Array
+2790. Maximum Number of Groups With Increasing Length,Array
+2806. Account Balance After Rounded Purchase,Array
+2807. Insert Greatest Common Divisors in Linked List,Array

@@ -1,0 +1,541 @@
+Question,Tag
+63. Unique Paths II,Array
+1. Two Sum,Array
+3. Longest Substring Without Repeating Characters,Array
+12. Integer to Roman,Array
+13. Roman to Integer,Array
+17. Letter Combinations of a Phone Number,Array
+30. Substring with Concatenation of All Words,Array
+36. Valid Sudoku,Array
+37. Sudoku Solver,Array
+41. First Missing Positive,Array
+49. Group Anagrams,Array
+73. Set Matrix Zeroes,Array
+76. Minimum Window Substring,Array
+105. Construct Binary Tree from Preorder and Inorder Traversal,Array
+106. Construct Binary Tree from Inorder and Postorder Traversal,Array
+126. Word Ladder II,Array
+127. Word Ladder,Array
+128. Longest Consecutive Sequence,Array
+133. Clone Graph,Array
+138. Copy List with Random Pointer,Array
+139. Word Break,Array
+140. Word Break II,Array
+141. Linked List Cycle,Array
+142. Linked List Cycle II,Array
+146. LRU Cache,Array
+149. Max Points on a Line,Array
+159. Longest Substring with At Most Two Distinct Characters,Array
+160. Intersection of Two Linked Lists,Array
+166. Fraction to Recurring Decimal,Array
+169. Majority Element,Array
+170. Two Sum III - Data structure design,Array
+187. Repeated DNA Sequences,Array
+202. Happy Number,Array
+205. Isomorphic Strings,Array
+208. Implement Trie (Prefix Tree),Array
+217. Contains Duplicate,Array
+219. Contains Duplicate II,Array
+229. Majority Element II,Array
+242. Valid Anagram,Array
+244. Shortest Word Distance II,Array
+246. Strobogrammatic Number,Array
+249. Group Shifted Strings,Array
+264. Ugly Number II,Array
+266. Palindrome Permutation,Array
+267. Palindrome Permutation II,Array
+268. Missing Number,Array
+288. Unique Word Abbreviation,Array
+290. Word Pattern,Array
+291. Word Pattern II,Array
+299. Bulls and Cows,Array
+63. Unique Paths II,Array
+1. Two Sum,Array
+3. Longest Substring Without Repeating Characters,Array
+12. Integer to Roman,Array
+13. Roman to Integer,Array
+17. Letter Combinations of a Phone Number,Array
+30. Substring with Concatenation of All Words,Array
+36. Valid Sudoku,Array
+37. Sudoku Solver,Array
+41. First Missing Positive,Array
+49. Group Anagrams,Array
+73. Set Matrix Zeroes,Array
+76. Minimum Window Substring,Array
+105. Construct Binary Tree from Preorder and Inorder Traversal,Array
+106. Construct Binary Tree from Inorder and Postorder Traversal,Array
+126. Word Ladder II,Array
+127. Word Ladder,Array
+128. Longest Consecutive Sequence,Array
+133. Clone Graph,Array
+138. Copy List with Random Pointer,Array
+139. Word Break,Array
+140. Word Break II,Array
+141. Linked List Cycle,Array
+142. Linked List Cycle II,Array
+146. LRU Cache,Array
+149. Max Points on a Line,Array
+159. Longest Substring with At Most Two Distinct Characters,Array
+160. Intersection of Two Linked Lists,Array
+166. Fraction to Recurring Decimal,Array
+169. Majority Element,Array
+170. Two Sum III - Data structure design,Array
+187. Repeated DNA Sequences,Array
+202. Happy Number,Array
+205. Isomorphic Strings,Array
+208. Implement Trie (Prefix Tree),Array
+217. Contains Duplicate,Array
+219. Contains Duplicate II,Array
+229. Majority Element II,Array
+242. Valid Anagram,Array
+244. Shortest Word Distance II,Array
+246. Strobogrammatic Number,Array
+249. Group Shifted Strings,Array
+264. Ugly Number II,Array
+266. Palindrome Permutation,Array
+267. Palindrome Permutation II,Array
+268. Missing Number,Array
+288. Unique Word Abbreviation,Array
+290. Word Pattern,Array
+291. Word Pattern II,Array
+299. Bulls and Cows,Array
+314. Binary Tree Vertical Order Traversal,Array
+325. Maximum Size Subarray Sum Equals k,Array
+336. Palindrome Pairs,Array
+340. Longest Substring with At Most K Distinct Characters,Array
+347. Top K Frequent Elements,Array
+348. Design Tic-Tac-Toe,Array
+349. Intersection of Two Arrays,Array
+350. Intersection of Two Arrays II,Array
+355. Design Twitter,Array
+356. Line Reflection,Array
+358. Rearrange String k Distance Apart,Array
+359. Logger Rate Limiter,Array
+362. Design Hit Counter,Array
+379. Design Phone Directory,Array
+380. Insert Delete GetRandom O(1),Array
+381. Insert Delete GetRandom O(1) - Duplicates allowed,Array
+383. Ransom Note,Array
+387. First Unique Character in a String,Array
+389. Find the Difference,Array
+395. Longest Substring with At Least K Repeating Characters,Array
+398. Random Pick Index,Array
+409. Longest Palindrome,Array
+421. Maximum XOR of Two Numbers in an Array,Array
+423. Reconstruct Original Digits from English,Array
+424. Longest Repeating Character Replacement,Array
+432. All O`one Data Structure,Array
+433. Minimum Genetic Mutation,Array
+438. Find All Anagrams in a String,Array
+442. Find All Duplicates in an Array,Array
+447. Number of Boomerangs,Array
+448. Find All Numbers Disappeared in an Array,Array
+451. Sort Characters By Frequency,Array
+454. 4Sum II,Array
+457. Circular Array Loop,Array
+460. LFU Cache,Array
+480. Sliding Window Median,Array
+491. Non-decreasing Subsequences,Array
+496. Next Greater Element I,Array
+500. Keyboard Row,Array
+508. Most Frequent Subtree Sum,Array
+519. Random Flip Matrix,Array
+522. Longest Uncommon Subsequence II,Array
+523. Continuous Subarray Sum,Array
+525. Contiguous Array,Array
+531. Lonely Pixel I,Array
+532. K-diff Pairs in an Array,Array
+533. Lonely Pixel II,Array
+535. Encode and Decode TinyURL,Array
+554. Brick Wall,Array
+560. Subarray Sum Equals K,Array
+567. Permutation in String,Array
+575. Distribute Candies,Array
+582. Kill Process,Array
+588. Design In-Memory File System,Array
+594. Longest Harmonious Subsequence,Array
+599. Minimum Index Sum of Two Lists,Array
+604. Design Compressed String Iterator,Array
+609. Find Duplicate File in System,Array
+616. Add Bold Tag in String,Array
+621. Task Scheduler,Array
+632. Smallest Range Covering Elements from K Lists,Array
+635. Design Log Storage System,Array
+645. Set Mismatch,Array
+648. Replace Words,Array
+652. Find Duplicate Subtrees,Array
+653. Two Sum IV - Input is a BST,Array
+659. Split Array into Consecutive Subsequences,Array
+676. Implement Magic Dictionary,Array
+677. Map Sum Pairs,Array
+690. Employee Importance,Array
+692. Top K Frequent Words,Array
+694. Number of Distinct Islands,Array
+697. Degree of an Array,Array
+705. Design HashSet,Array
+706. Design HashMap,Array
+710. Random Pick with Blacklist,Array
+711. Number of Distinct Islands II,Array
+720. Longest Word in Dictionary,Array
+726. Number of Atoms,Array
+734. Sentence Similarity,Array
+736. Parse Lisp Expression,Array
+737. Sentence Similarity II,Array
+740. Delete and Earn,Array
+745. Prefix and Suffix Search,Array
+748. Shortest Completing Word,Array
+752. Open the Lock,Array
+758. Bold Words in String,Array
+760. Find Anagram Mappings,Array
+763. Partition Labels,Array
+767. Reorganize String,Array
+770. Basic Calculator IV,Array
+771. Jewels and Stones,Array
+781. Rabbits in Forest,Array
+791. Custom Sort String,Array
+792. Number of Matching Subsequences,Array
+804. Unique Morse Code Words,Array
+811. Subdomain Visit Count,Array
+815. Bus Routes,Array
+817. Linked List Components,Array
+819. Most Common Word,Array
+820. Short Encoding of Words,Array
+822. Card Flipping Game,Array
+823. Binary Trees With Factors,Array
+828. Count Unique Characters of All Substrings of a Given String,Array
+846. Hand of Straights,Array
+859. Buddy Strings,Array
+865. Smallest Subtree with all the Deepest Nodes,Array
+873. Length of Longest Fibonacci Subsequence,Array
+884. Uncommon Words from Two Sentences,Array
+888. Fair Candy Swap,Array
+889. Construct Binary Tree from Preorder and Postorder Traversal,Array
+890. Find and Replace Pattern,Array
+893. Groups of Special-Equivalent Strings,Array
+895. Maximum Frequency Stack,Array
+904. Fruit Into Baskets,Array
+911. Online Election,Array
+914. X of a Kind in a Deck of Cards,Array
+916. Word Subsets,Array
+923. 3Sum With Multiplicity,Array
+929. Unique Email Addresses,Array
+930. Binary Subarrays With Sum,Array
+939. Minimum Area Rectangle,Array
+953. Verifying an Alien Dictionary,Array
+954. Array of Doubled Pairs,Array
+957. Prison Cells After N Days,Array
+961. N-Repeated Element in Size 2N Array,Array
+966. Vowel Spellchecker,Array
+970. Powerful Integers,Array
+974. Subarray Sums Divisible by K,Array
+981. Time Based Key-Value Store,Array
+982. Triples with Bitwise AND Equal To Zero,Array
+987. Vertical Order Traversal of a Binary Tree,Array
+992. Subarrays with K Different Integers,Array
+997. Find the Town Judge,Array
+1001. Grid Illumination,Array
+1002. Find Common Characters,Array
+1010. Pairs of Songs With Total Durations Divisible by 60,Array
+1015. Smallest Integer Divisible by K,Array
+1027. Longest Arithmetic Subsequence,Array
+1036. Escape a Large Maze,Array
+1048. Longest String Chain,Array
+1054. Distant Barcodes,Array
+1072. Flip Columns For Maximum Number of Equal Rows,Array
+1074. Number of Submatrices That Sum to Target,Array
+1079. Letter Tile Possibilities,Array
+1086. High Five,Array
+1090. Largest Values From Labels,Array
+1100. Find K-Length Substrings With No Repeated Characters,Array
+1110. Delete Nodes And Return Forest,Array
+1122. Relative Sort Array,Array
+1123. Lowest Common Ancestor of Deepest Leaves,Array
+1124. Longest Well-Performing Interval,Array
+1128. Number of Equivalent Domino Pairs,Array
+1133. Largest Unique Number,Array
+1138. Alphabet Board Path,Array
+1146. Snapshot Array,Array
+1152. Analyze User Website Visit Pattern,Array
+1153. String Transforms Into Another String,Array
+1156. Swap For Longest Repeated Character Substring,Array
+1160. Find Words That Can Be Formed by Characters,Array
+1165. Single-Row Keyboard,Array
+1166. Design File System,Array
+1169. Invalid Transactions,Array
+1170. Compare Strings by Frequency of the Smallest Character,Array
+1171. Remove Zero Sum Consecutive Nodes from Linked List,Array
+1172. Dinner Plate Stacks,Array
+1177. Can Make Palindrome from Substring,Array
+1178. Number of Valid Words for Each Puzzle,Array
+1181. Before and After Puzzle,Array
+1189. Maximum Number of Balloons,Array
+1198. Find Smallest Common Element in All Rows,Array
+1202. Smallest String With Swaps,Array
+1207. Unique Number of Occurrences,Array
+1213. Intersection of Three Sorted Arrays,Array
+1218. Longest Arithmetic Subsequence of Given Difference,Array
+1224. Maximum Equal Frequency,Array
+1244. Design A Leaderboard,Array
+1248. Count Number of Nice Subarrays,Array
+1257. Smallest Common Region,Array
+1258. Synonymous Sentences,Array
+1261. Find Elements in a Contaminated Binary Tree,Array
+1275. Find Winner on a Tic Tac Toe Game,Array
+1282. Group the People Given the Group Size They Belong To,Array
+1296. Divide Array in Sets of K Consecutive Numbers,Array
+1297. Maximum Number of Occurrences of a Substring,Array
+1311. Get Watched Videos by Your Friends,Array
+1331. Rank Transform of an Array,Array
+1338. Reduce Array Size to The Half,Array
+1345. Jump Game IV,Array
+1346. Check If N and Its Double Exist,Array
+1347. Minimum Number of Steps to Make Two Strings Anagram,Array
+1348. Tweet Counts Per Frequency,Array
+1357. Apply Discount Every n Orders,Array
+1358. Number of Substrings Containing All Three Characters,Array
+1365. How Many Numbers Are Smaller Than the Current Number,Array
+1366. Rank Teams by Votes,Array
+1370. Increasing Decreasing String,Array
+1371. Find the Longest Substring Containing Vowels in Even Counts,Array
+1386. Cinema Seat Allocation,Array
+1394. Find Lucky Integer in an Array,Array
+1396. Design Underground System,Array
+1399. Count Largest Group,Array
+1400. Construct K Palindrome Strings,Array
+1410. HTML Entity Parser,Array
+1418. Display Table of Food Orders in a Restaurant,Array
+1426. Counting Elements,Array
+1429. First Unique Number,Array
+1436. Destination City,Array
+1442. Count Triplets That Can Form Two Arrays of Equal XOR,Array
+1443. Minimum Time to Collect All Apples in a Tree,Array
+1452. People Whose List of Favorite Companies Is Not a Subset of Another List,Array
+1460. Make Two Arrays Equal by Reversing Subarrays,Array
+1461. Check If a String Contains All Binary Codes of Size K,Array
+1477. Find Two Non-overlapping Sub-arrays Each With Target Sum,Array
+1481. Least Number of Unique Integers after K Removals,Array
+1485. Clone Binary Tree With Random Pointer,Array
+1487. Making File Names Unique,Array
+1488. Avoid Flood in The City,Array
+1490. Clone N-ary Tree,Array
+1496. Path Crossing,Array
+1497. Check If Array Pairs Are Divisible by k,Array
+1500. Design a File Sharing System,Array
+1506. Find Root of N-Ary Tree,Array
+1512. Number of Good Pairs,Array
+1519. Number of Nodes in the Sub-Tree With the Same Label,Array
+1540. Can Convert String in K Moves,Array
+1542. Find Longest Awesome Substring,Array
+1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,Array
+1554. Strings Differ by One Character,Array
+1570. Dot Product of Two Sparse Vectors,Array
+1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers,Array
+1590. Make Sum Divisible by P,Array
+1593. Split a String Into the Max Number of Unique Substrings,Array
+1600. Throne Inheritance,Array
+1604. Alert Using Same Key-Card Three or More Times in a One Hour Period,Array
+1624. Largest Substring Between Two Equal Characters,Array
+1636. Sort Array by Increasing Frequency,Array
+1638. Count Substrings That Differ by One Character,Array
+1640. Check Array Formation Through Concatenation,Array
+1647. Minimum Deletions to Make Character Frequencies Unique,Array
+1650. Lowest Common Ancestor of a Binary Tree III,Array
+1656. Design an Ordered Stream,Array
+1657. Determine if Two Strings Are Close,Array
+1658. Minimum Operations to Reduce X to Zero,Array
+1660. Correct a Binary Tree,Array
+1674. Minimum Moves to Make Array Complementary,Array
+1679. Max Number of K-Sum Pairs,Array
+1684. Count the Number of Consistent Strings,Array
+1695. Maximum Erasure Value,Array
+1711. Count Good Meals,Array
+1713. Minimum Operations to Make a Subsequence,Array
+1726. Tuple with Same Product,Array
+1737. Change Minimum Characters to Satisfy One of Three Conditions,Array
+1740. Find Distance in a Binary Tree,Array
+1742. Maximum Number of Balls in a Box,Array
+1743. Restore the Array From Adjacent Pairs,Array
+1748. Sum of Unique Elements,Array
+1756. Design Most Recently Used Queue,Array
+1763. Longest Nice Substring,Array
+1772. Sort Features by Popularity,Array
+1775. Equal Sum Arrays With Minimum Number of Operations,Array
+1781. Sum of Beauty of All Substrings,Array
+1790. Check if One String Swap Can Make Strings Equal,Array
+1794. Count Pairs of Equal Substrings With Minimum Difference,Array
+1796. Second Largest Digit in a String,Array
+1797. Design Authentication Manager,Array
+1804. Implement Trie II (Prefix Tree),Array
+1805. Number of Different Integers in a String,Array
+1807. Evaluate the Bracket Pairs of a String,Array
+1814. Count Nice Pairs in an Array,Array
+1817. Finding the Users Active Minutes,Array
+1832. Check if the Sentence Is Pangram,Array
+1836. Remove Duplicates From an Unsorted Linked List,Array
+1852. Distinct Numbers in Each Subarray,Array
+1857. Largest Color Value in a Directed Graph,Array
+1865. Finding Pairs With a Certain Sum,Array
+1876. Substrings of Size Three with Distinct Characters,Array
+1893. Check if All the Integers in a Range Are Covered,Array
+1897. Redistribute Characters to Make All Strings Equal,Array
+1906. Minimum Absolute Difference Queries,Array
+1912. Design Movie Rental System,Array
+1915. Number of Wonderful Substrings,Array
+1930. Unique Length-3 Palindromic Subsequences,Array
+1932. Merge BSTs to Create Single BST,Array
+1935. Maximum Number of Words You Can Type,Array
+1940. Longest Common Subsequence Between Sorted Arrays,Array
+1941. Check if All Characters Have Equal Number of Occurrences,Array
+1948. Delete Duplicate Folders in System,Array
+1983. Widest Pair of Indices With Equal Range Sum,Array
+1993. Operations on Tree,Array
+2001. Number of Pairs of Interchangeable Rectangles,Array
+2006. Count Number of Pairs With Absolute Difference K,Array
+2007. Find Original Array From Doubled Array,Array
+2013. Detect Squares,Array
+2025. Maximum Number of Ways to Partition an Array,Array
+2032. Two Out of Three,Array
+2034. Stock Price Fluctuation,Array
+2043. Simple Bank System,Array
+2053. Kth Distinct String in an Array,Array
+2062. Count Vowel Substrings of a String,Array
+2068. Check Whether Two Strings are Almost Equivalent,Array
+2080. Range Frequency Queries,Array
+2083. Substrings That Begin and End With the Same Letter,Array
+2085. Count Common Words With One Occurrence,Array
+2094. Finding 3-Digit Even Numbers,Array
+2099. Find Subsequence of Length K With the Largest Sum,Array
+2103. Rings and Rods,Array
+2107. Number of Unique Flavors After Sharing K Candies,Array
+2115. Find All Possible Recipes from Given Supplies,Array
+2121. Intervals Between Identical Elements,Array
+2122. Recover the Original Array,Array
+2131. Longest Palindrome by Concatenating Two Letter Words,Array
+2133. Check if Every Row and Column Contains All Numbers,Array
+2135. Count Words Obtained After Adding a Letter,Array
+2150. Find All Lonely Numbers in the Array,Array
+2152. Minimum Number of Lines to Cover Points,Array
+2154. Keep Multiplying Found Values by Two,Array
+2166. Design Bitset,Array
+2168. Unique Substrings With Equal Digit Frequency,Array
+2170. Minimum Operations to Make the Array Alternating,Array
+2186. Minimum Number of Steps to Make Two Strings Anagram II,Array
+2190. Most Frequent Number Following Key In an Array,Array
+2196. Create Binary Tree From Descriptions,Array
+2201. Count Artifacts That Can Be Extracted,Array
+2206. Divide Array Into Equal Pairs,Array
+2215. Find the Difference of Two Arrays,Array
+2225. Find Players With Zero or One Losses,Array
+2227. Encrypt and Decrypt Strings,Array
+2244. Minimum Rounds to Complete All Tasks,Array
+2248. Intersection of Multiple Arrays,Array
+2249. Count Lattice Points Inside a Circle,Array
+2251. Number of Flowers in Full Bloom,Array
+2254. Design Video Sharing Platform,Array
+2260. Minimum Consecutive Cards to Pick Up,Array
+2261. K Divisible Elements Subarrays,Array
+2262. Total Appeal of A String,Array
+2266. Count Number of Texts,Array
+2273. Find Resultant Array After Removing Anagrams,Array
+2275. Largest Combination With Bitwise AND Greater Than Zero,Array
+2283. Check if Number Has Equal Digit Count and Digit Value,Array
+2284. Sender With Largest Word Count,Array
+2287. Rearrange Characters to Make Target String,Array
+2295. Replace Elements in an Array,Array
+2301. Match Substring After Replacement,Array
+2306. Naming a Company,Array
+2309. Greatest English Letter in Upper and Lower Case,Array
+2325. Decode the Message,Array
+2336. Smallest Number in Infinite Set,Array
+2341. Maximum Number of Pairs in Array,Array
+2342. Max Sum of a Pair With Equal Sum of Digits,Array
+2347. Best Poker Hand,Array
+2349. Design a Number Container System,Array
+2350. Shortest Impossible Sequence of Rolls,Array
+2351. First Letter to Appear Twice,Array
+2352. Equal Row and Column Pairs,Array
+2353. Design a Food Rating System,Array
+2354. Number of Excellent Pairs,Array
+2357. Make Array Zero by Subtracting Equal Amounts,Array
+2363. Merge Similar Items,Array
+2364. Count Number of Bad Pairs,Array
+2365. Task Scheduler II,Array
+2367. Number of Arithmetic Triplets,Array
+2368. Reachable Nodes With Restrictions,Array
+2370. Longest Ideal Subsequence,Array
+2374. Node With Highest Edge Score,Array
+2384. Largest Palindromic Number,Array
+2395. Find Subarrays With Equal Sum,Array
+2399. Check Distances Between Same Letters,Array
+2404. Most Frequent Even Element,Array
+2405. Optimal Partition of String,Array
+2408. Design SQL,Array
+2418. Sort the People,Array
+2423. Remove Letter To Equalize Frequency,Array
+2434. Using a Robot to Print the Lexicographically Smallest String,Array
+2441. Largest Positive Integer That Exists With Its Negative,Array
+2442. Count Number of Distinct Integers After Reverse Operations,Array
+2451. Odd String Difference,Array
+2453. Destroy Sequential Targets,Array
+2456. Most Popular Video Creator,Array
+2461. Maximum Sum of Distinct Subarrays With Length K,Array
+2465. Number of Distinct Averages,Array
+2475. Number of Unequal Triplets in Array,Array
+2488. Count Subarrays With Median K,Array
+2489. Number of Substrings With Fixed Ratio,Array
+2491. Divide Players Into Teams of Equal Skill,Array
+2499. Minimum Total Cost to Make Arrays Unequal,Array
+2501. Longest Square Streak in an Array,Array
+2502. Design Memory Allocator,Array
+2506. Count Pairs Of Similar Strings,Array
+2508. Add Edges to Make Degrees of All Nodes Even,Array
+2512. Reward Top K Students,Array
+2514. Count Anagrams,Array
+2516. Take K of Each Character From Left and Right,Array
+2521. Distinct Prime Factors of Product of Array,Array
+2524. Maximum Frequency Score of a Subarray,Array
+2526. Find Consecutive Integers from a Data Stream,Array
+2531. Make Number of Distinct Characters Equal,Array
+2537. Count the Number of Good Subarrays,Array
+2539. Count the Number of Good Subsequences,Array
+2540. Minimum Common Value,Array
+2547. Minimum Cost to Split an Array,Array
+2549. Count Distinct Numbers on Board,Array
+2554. Maximum Number of Integers to Choose From a Range I,Array
+2561. Rearranging Fruits,Array
+2564. Substring XOR Queries,Array
+2570. Merge Two 2D Arrays by Summing Values,Array
+2581. Count Number of Possible Root Nodes,Array
+2584. Split the Array to Make Coprime Products,Array
+2588. Count the Number of Beautiful Subarrays,Array
+2590. Design a Todo List,Array
+2598. Smallest Missing Non-negative Integer After Operations,Array
+2605. Form Smallest Number From Two Digit Arrays,Array
+2606. Find the Substring With Maximum Cost,Array
+2610. Convert an Array Into a 2D Array With Conditions,Array
+2615. Sum of Distances,Array
+2641. Cousins in Binary Tree II,Array
+2653. Sliding Subarray Beauty,Array
+2657. Find the Prefix Common Array of Two Arrays,Array
+2661. First Completely Painted Row or Column,Array
+2670. Find the Distinct Difference Array,Array
+2671. Frequency Tracker,Array
+2682. Find the Losers of the Circular Game,Array
+2707. Extra Characters in a String,Array
+2711. Difference of Number of Distinct Values on Diagonals,Array
+2716. Minimize String Length,Array
+2718. Sum of Matrix After Queries,Array
+2729. Check if The Number is Fascinating,Array
+2743. Count Substrings Without Repeating Character,Array
+2744. Find Maximum Number of String Pairs,Array
+2747. Count Zero Request Servers,Array
+2763. Sum of Imbalance Numbers of All Subarrays,Array
+2766. Relocate Marbles,Array
+2767. Partition String Into Minimum Beautiful Substrings,Array
+2768. Number of Black Blocks,Array
+2780. Minimum Index of a Valid Split,Array
+2781. Length of the Longest Valid Substring,Array
+2784. Check if Array is Good,Array
+2799. Count Complete Subarrays in an Array,Array
+2808. Minimum Seconds to Equalize a Circular Array,Array
+2813. Maximum Elegance of a K-Length Subsequence,Array
