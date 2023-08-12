@@ -12,18 +12,18 @@ gecko= 'C:/Users\spsin\Desktop\geckodriver-v0.33.0-win64\geckodriver'
 
 # XPath expression for the elements containing the text
 options = Options()
-arr_tags=['Matrix', 'Binary-Tree', 'Two-Pointers', 'Bit-Manipulation', 'Heap', 'Stack','Prefix-Sum', 'Graph', 'Simulation', 'Design', 'Backtracking', 'Counting', 'Sliding-Window', 'Union-Find', 'Linked-List', 'Ordered-Set', 'Enumeration']
+arr_tags=['Randomized','Monotonic-Queue','Merge-Sort','Iterator','Concurrency','Doubly-Linked-List','Probability-and-Statistics','Quickselect','Bucket-Sort','Suffix-Array','Minimum-Spanning-Tree','Counting-Sort','Shell','Line-Sweep','Reservoir-sampling','Eulerian-Circuit','Radix-sort','Strongly-connected-component','Rejection-Sampling','Biconnected-Component']
 for name in arr_tags:
     csv_filename = f'leetcode_questions_{name}.csv'
     csv_file = open(csv_filename, 'w', newline='', encoding='utf-8')
     csv_writer = csv.writer(csv_file)
     csv_writer.writerow(['Question'])
-    nm=name
+    
     # Initialize the Firefox WebDriver
     service = Service(executable_path=gecko, log_path='geckodriver.log')
     driver = webdriver.Chrome()
-    for j in range(8):
-        url = f'https://leetcode.com/problemset/all/?page={j}&topicSlugs={nm}'
+    for j in range(3):
+        url = f'https://leetcode.com/problemset/all/?page={j}&topicSlugs={name}'
             # Navigate to the URL
         driver.get(url)
         time.sleep(6)
