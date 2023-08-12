@@ -1,401 +1,401 @@
-Question
-63. Unique Paths II
-1. Two Sum
-2. Add Two Numbers
-3. Longest Substring Without Repeating Characters
-4. Median of Two Sorted Arrays
-5. Longest Palindromic Substring
-6. Zigzag Conversion
-7. Reverse Integer
-8. String to Integer (atoi)
-9. Palindrome Number
-10. Regular Expression Matching
-11. Container With Most Water
-12. Integer to Roman
-13. Roman to Integer
-14. Longest Common Prefix
-15. 3Sum
-16. 3Sum Closest
-17. Letter Combinations of a Phone Number
-18. 4Sum
-19. Remove Nth Node From End of List
-20. Valid Parentheses
-21. Merge Two Sorted Lists
-22. Generate Parentheses
-23. Merge k Sorted Lists
-24. Swap Nodes in Pairs
-25. Reverse Nodes in k-Group
-26. Remove Duplicates from Sorted Array
-27. Remove Element
-28. Find the Index of the First Occurrence in a String
-29. Divide Two Integers
-30. Substring with Concatenation of All Words
-31. Next Permutation
-32. Longest Valid Parentheses
-33. Search in Rotated Sorted Array
-34. Find First and Last Position of Element in Sorted Array
-35. Search Insert Position
-36. Valid Sudoku
-37. Sudoku Solver
-38. Count and Say
-39. Combination Sum
-40. Combination Sum II
-41. First Missing Positive
-42. Trapping Rain Water
-43. Multiply Strings
-44. Wildcard Matching
-45. Jump Game II
-46. Permutations
-47. Permutations II
-48. Rotate Image
-49. Group Anagrams
-63. Unique Paths II
-1. Two Sum
-2. Add Two Numbers
-3. Longest Substring Without Repeating Characters
-4. Median of Two Sorted Arrays
-5. Longest Palindromic Substring
-6. Zigzag Conversion
-7. Reverse Integer
-8. String to Integer (atoi)
-9. Palindrome Number
-10. Regular Expression Matching
-11. Container With Most Water
-12. Integer to Roman
-13. Roman to Integer
-14. Longest Common Prefix
-15. 3Sum
-16. 3Sum Closest
-17. Letter Combinations of a Phone Number
-18. 4Sum
-19. Remove Nth Node From End of List
-20. Valid Parentheses
-21. Merge Two Sorted Lists
-22. Generate Parentheses
-23. Merge k Sorted Lists
-24. Swap Nodes in Pairs
-25. Reverse Nodes in k-Group
-26. Remove Duplicates from Sorted Array
-27. Remove Element
-28. Find the Index of the First Occurrence in a String
-29. Divide Two Integers
-30. Substring with Concatenation of All Words
-31. Next Permutation
-32. Longest Valid Parentheses
-33. Search in Rotated Sorted Array
-34. Find First and Last Position of Element in Sorted Array
-35. Search Insert Position
-36. Valid Sudoku
-37. Sudoku Solver
-38. Count and Say
-39. Combination Sum
-40. Combination Sum II
-41. First Missing Positive
-42. Trapping Rain Water
-43. Multiply Strings
-44. Wildcard Matching
-45. Jump Game II
-46. Permutations
-47. Permutations II
-48. Rotate Image
-49. Group Anagrams
-51. N-Queens
-52. N-Queens II
-53. Maximum Subarray
-54. Spiral Matrix
-55. Jump Game
-56. Merge Intervals
-57. Insert Interval
-58. Length of Last Word
-59. Spiral Matrix II
-60. Permutation Sequence
-61. Rotate List
-62. Unique Paths
-63. Unique Paths II
-64. Minimum Path Sum
-65. Valid Number
-66. Plus One
-67. Add Binary
-68. Text Justification
-69. Sqrt(x)
-70. Climbing Stairs
-71. Simplify Path
-72. Edit Distance
-73. Set Matrix Zeroes
-74. Search a 2D Matrix
-75. Sort Colors
-76. Minimum Window Substring
-77. Combinations
-78. Subsets
-79. Word Search
-80. Remove Duplicates from Sorted Array II
-81. Search in Rotated Sorted Array II
-82. Remove Duplicates from Sorted List II
-83. Remove Duplicates from Sorted List
-84. Largest Rectangle in Histogram
-85. Maximal Rectangle
-86. Partition List
-87. Scramble String
-88. Merge Sorted Array
-89. Gray Code
-90. Subsets II
-91. Decode Ways
-92. Reverse Linked List II
-93. Restore IP Addresses
-94. Binary Tree Inorder Traversal
-95. Unique Binary Search Trees II
-96. Unique Binary Search Trees
-97. Interleaving String
-98. Validate Binary Search Tree
-99. Recover Binary Search Tree
-100. Same Tree
-101. Symmetric Tree
-102. Binary Tree Level Order Traversal
-103. Binary Tree Zigzag Level Order Traversal
-104. Maximum Depth of Binary Tree
-105. Construct Binary Tree from Preorder and Inorder Traversal
-106. Construct Binary Tree from Inorder and Postorder Traversal
-107. Binary Tree Level Order Traversal II
-108. Convert Sorted Array to Binary Search Tree
-109. Convert Sorted List to Binary Search Tree
-110. Balanced Binary Tree
-111. Minimum Depth of Binary Tree
-112. Path Sum
-113. Path Sum II
-114. Flatten Binary Tree to Linked List
-115. Distinct Subsequences
-116. Populating Next Right Pointers in Each Node
-117. Populating Next Right Pointers in Each Node II
-118. Pascal's Triangle
-119. Pascal's Triangle II
-120. Triangle
-121. Best Time to Buy and Sell Stock
-122. Best Time to Buy and Sell Stock II
-123. Best Time to Buy and Sell Stock III
-124. Binary Tree Maximum Path Sum
-125. Valid Palindrome
-126. Word Ladder II
-127. Word Ladder
-128. Longest Consecutive Sequence
-129. Sum Root to Leaf Numbers
-130. Surrounded Regions
-131. Palindrome Partitioning
-132. Palindrome Partitioning II
-133. Clone Graph
-134. Gas Station
-135. Candy
-136. Single Number
-137. Single Number II
-138. Copy List with Random Pointer
-139. Word Break
-140. Word Break II
-141. Linked List Cycle
-142. Linked List Cycle II
-143. Reorder List
-144. Binary Tree Preorder Traversal
-145. Binary Tree Postorder Traversal
-146. LRU Cache
-147. Insertion Sort List
-148. Sort List
-149. Max Points on a Line
-150. Evaluate Reverse Polish Notation
-151. Reverse Words in a String
-152. Maximum Product Subarray
-153. Find Minimum in Rotated Sorted Array
-154. Find Minimum in Rotated Sorted Array II
-155. Min Stack
-156. Binary Tree Upside Down
-157. Read N Characters Given Read4
-158. Read N Characters Given read4 II - Call Multiple Times
-159. Longest Substring with At Most Two Distinct Characters
-160. Intersection of Two Linked Lists
-161. One Edit Distance
-162. Find Peak Element
-163. Missing Ranges
-164. Maximum Gap
-165. Compare Version Numbers
-166. Fraction to Recurring Decimal
-167. Two Sum II - Input Array Is Sorted
-168. Excel Sheet Column Title
-169. Majority Element
-170. Two Sum III - Data structure design
-171. Excel Sheet Column Number
-172. Factorial Trailing Zeroes
-173. Binary Search Tree Iterator
-174. Dungeon Game
-175. Combine Two Tables
-176. Second Highest Salary
-177. Nth Highest Salary
-178. Rank Scores
-179. Largest Number
-180. Consecutive Numbers
-181. Employees Earning More Than Their Managers
-182. Duplicate Emails
-183. Customers Who Never Order
-184. Department Highest Salary
-185. Department Top Three Salaries
-186. Reverse Words in a String II
-187. Repeated DNA Sequences
-188. Best Time to Buy and Sell Stock IV
-189. Rotate Array
-190. Reverse Bits
-191. Number of 1 Bits
-192. Word Frequency
-193. Valid Phone Numbers
-194. Transpose File
-195. Tenth Line
-196. Delete Duplicate Emails
-197. Rising Temperature
-198. House Robber
-199. Binary Tree Right Side View
-200. Number of Islands
-201. Bitwise AND of Numbers Range
-202. Happy Number
-203. Remove Linked List Elements
-204. Count Primes
-205. Isomorphic Strings
-206. Reverse Linked List
-207. Course Schedule
-208. Implement Trie (Prefix Tree)
-209. Minimum Size Subarray Sum
-210. Course Schedule II
-211. Design Add and Search Words Data Structure
-212. Word Search II
-213. House Robber II
-214. Shortest Palindrome
-215. Kth Largest Element in an Array
-216. Combination Sum III
-217. Contains Duplicate
-218. The Skyline Problem
-219. Contains Duplicate II
-220. Contains Duplicate III
-221. Maximal Square
-222. Count Complete Tree Nodes
-223. Rectangle Area
-224. Basic Calculator
-225. Implement Stack using Queues
-226. Invert Binary Tree
-227. Basic Calculator II
-228. Summary Ranges
-229. Majority Element II
-230. Kth Smallest Element in a BST
-231. Power of Two
-232. Implement Queue using Stacks
-233. Number of Digit One
-234. Palindrome Linked List
-235. Lowest Common Ancestor of a Binary Search Tree
-236. Lowest Common Ancestor of a Binary Tree
-237. Delete Node in a Linked List
-238. Product of Array Except Self
-239. Sliding Window Maximum
-240. Search a 2D Matrix II
-241. Different Ways to Add Parentheses
-242. Valid Anagram
-243. Shortest Word Distance
-244. Shortest Word Distance II
-245. Shortest Word Distance III
-246. Strobogrammatic Number
-247. Strobogrammatic Number II
-248. Strobogrammatic Number III
-249. Group Shifted Strings
-250. Count Univalue Subtrees
-251. Flatten 2D Vector
-252. Meeting Rooms
-253. Meeting Rooms II
-254. Factor Combinations
-255. Verify Preorder Sequence in Binary Search Tree
-256. Paint House
-257. Binary Tree Paths
-258. Add Digits
-259. 3Sum Smaller
-260. Single Number III
-261. Graph Valid Tree
-262. Trips and Users
-263. Ugly Number
-264. Ugly Number II
-265. Paint House II
-266. Palindrome Permutation
-267. Palindrome Permutation II
-268. Missing Number
-269. Alien Dictionary
-270. Closest Binary Search Tree Value
-271. Encode and Decode Strings
-272. Closest Binary Search Tree Value II
-273. Integer to English Words
-274. H-Index
-275. H-Index II
-276. Paint Fence
-277. Find the Celebrity
-278. First Bad Version
-279. Perfect Squares
-280. Wiggle Sort
-281. Zigzag Iterator
-282. Expression Add Operators
-283. Move Zeroes
-284. Peeking Iterator
-285. Inorder Successor in BST
-286. Walls and Gates
-287. Find the Duplicate Number
-288. Unique Word Abbreviation
-289. Game of Life
-290. Word Pattern
-291. Word Pattern II
-292. Nim Game
-293. Flip Game
-294. Flip Game II
-295. Find Median from Data Stream
-296. Best Meeting Point
-297. Serialize and Deserialize Binary Tree
-298. Binary Tree Longest Consecutive Sequence
-299. Bulls and Cows
-300. Longest Increasing Subsequence
-301. Remove Invalid Parentheses
-302. Smallest Rectangle Enclosing Black Pixels
-303. Range Sum Query - Immutable
-304. Range Sum Query 2D - Immutable
-305. Number of Islands II
-306. Additive Number
-307. Range Sum Query - Mutable
-308. Range Sum Query 2D - Mutable
-309. Best Time to Buy and Sell Stock with Cooldown
-310. Minimum Height Trees
-311. Sparse Matrix Multiplication
-312. Burst Balloons
-313. Super Ugly Number
-314. Binary Tree Vertical Order Traversal
-315. Count of Smaller Numbers After Self
-316. Remove Duplicate Letters
-317. Shortest Distance from All Buildings
-318. Maximum Product of Word Lengths
-319. Bulb Switcher
-320. Generalized Abbreviation
-321. Create Maximum Number
-322. Coin Change
-323. Number of Connected Components in an Undirected Graph
-324. Wiggle Sort II
-325. Maximum Size Subarray Sum Equals k
-326. Power of Three
-327. Count of Range Sum
-328. Odd Even Linked List
-329. Longest Increasing Path in a Matrix
-330. Patching Array
-331. Verify Preorder Serialization of a Binary Tree
-332. Reconstruct Itinerary
-333. Largest BST Subtree
-334. Increasing Triplet Subsequence
-335. Self Crossing
-336. Palindrome Pairs
-337. House Robber III
-338. Counting Bits
-339. Nested List Weight Sum
-340. Longest Substring with At Most K Distinct Characters
-341. Flatten Nested List Iterator
-342. Power of Four
-343. Integer Break
-344. Reverse String
-345. Reverse Vowels of a String
-346. Moving Average from Data Stream
-347. Top K Frequent Elements
-348. Design Tic-Tac-Toe
-349. Intersection of Two Arrays
-350. Intersection of Two Arrays II
+Question,Tag
+63. Unique Paths II,Segment Tree
+1. Two Sum,Segment Tree
+2. Add Two Numbers,Segment Tree
+3. Longest Substring Without Repeating Characters,Segment Tree
+4. Median of Two Sorted Arrays,Segment Tree
+5. Longest Palindromic Substring,Segment Tree
+6. Zigzag Conversion,Segment Tree
+7. Reverse Integer,Segment Tree
+8. String to Integer (atoi),Segment Tree
+9. Palindrome Number,Segment Tree
+10. Regular Expression Matching,Segment Tree
+11. Container With Most Water,Segment Tree
+12. Integer to Roman,Segment Tree
+13. Roman to Integer,Segment Tree
+14. Longest Common Prefix,Segment Tree
+15. 3Sum,Segment Tree
+16. 3Sum Closest,Segment Tree
+17. Letter Combinations of a Phone Number,Segment Tree
+18. 4Sum,Segment Tree
+19. Remove Nth Node From End of List,Segment Tree
+20. Valid Parentheses,Segment Tree
+21. Merge Two Sorted Lists,Segment Tree
+22. Generate Parentheses,Segment Tree
+23. Merge k Sorted Lists,Segment Tree
+24. Swap Nodes in Pairs,Segment Tree
+25. Reverse Nodes in k-Group,Segment Tree
+26. Remove Duplicates from Sorted Array,Segment Tree
+27. Remove Element,Segment Tree
+28. Find the Index of the First Occurrence in a String,Segment Tree
+29. Divide Two Integers,Segment Tree
+30. Substring with Concatenation of All Words,Segment Tree
+31. Next Permutation,Segment Tree
+32. Longest Valid Parentheses,Segment Tree
+33. Search in Rotated Sorted Array,Segment Tree
+34. Find First and Last Position of Element in Sorted Array,Segment Tree
+35. Search Insert Position,Segment Tree
+36. Valid Sudoku,Segment Tree
+37. Sudoku Solver,Segment Tree
+38. Count and Say,Segment Tree
+39. Combination Sum,Segment Tree
+40. Combination Sum II,Segment Tree
+41. First Missing Positive,Segment Tree
+42. Trapping Rain Water,Segment Tree
+43. Multiply Strings,Segment Tree
+44. Wildcard Matching,Segment Tree
+45. Jump Game II,Segment Tree
+46. Permutations,Segment Tree
+47. Permutations II,Segment Tree
+48. Rotate Image,Segment Tree
+49. Group Anagrams,Segment Tree
+63. Unique Paths II,Segment Tree
+1. Two Sum,Segment Tree
+2. Add Two Numbers,Segment Tree
+3. Longest Substring Without Repeating Characters,Segment Tree
+4. Median of Two Sorted Arrays,Segment Tree
+5. Longest Palindromic Substring,Segment Tree
+6. Zigzag Conversion,Segment Tree
+7. Reverse Integer,Segment Tree
+8. String to Integer (atoi),Segment Tree
+9. Palindrome Number,Segment Tree
+10. Regular Expression Matching,Segment Tree
+11. Container With Most Water,Segment Tree
+12. Integer to Roman,Segment Tree
+13. Roman to Integer,Segment Tree
+14. Longest Common Prefix,Segment Tree
+15. 3Sum,Segment Tree
+16. 3Sum Closest,Segment Tree
+17. Letter Combinations of a Phone Number,Segment Tree
+18. 4Sum,Segment Tree
+19. Remove Nth Node From End of List,Segment Tree
+20. Valid Parentheses,Segment Tree
+21. Merge Two Sorted Lists,Segment Tree
+22. Generate Parentheses,Segment Tree
+23. Merge k Sorted Lists,Segment Tree
+24. Swap Nodes in Pairs,Segment Tree
+25. Reverse Nodes in k-Group,Segment Tree
+26. Remove Duplicates from Sorted Array,Segment Tree
+27. Remove Element,Segment Tree
+28. Find the Index of the First Occurrence in a String,Segment Tree
+29. Divide Two Integers,Segment Tree
+30. Substring with Concatenation of All Words,Segment Tree
+31. Next Permutation,Segment Tree
+32. Longest Valid Parentheses,Segment Tree
+33. Search in Rotated Sorted Array,Segment Tree
+34. Find First and Last Position of Element in Sorted Array,Segment Tree
+35. Search Insert Position,Segment Tree
+36. Valid Sudoku,Segment Tree
+37. Sudoku Solver,Segment Tree
+38. Count and Say,Segment Tree
+39. Combination Sum,Segment Tree
+40. Combination Sum II,Segment Tree
+41. First Missing Positive,Segment Tree
+42. Trapping Rain Water,Segment Tree
+43. Multiply Strings,Segment Tree
+44. Wildcard Matching,Segment Tree
+45. Jump Game II,Segment Tree
+46. Permutations,Segment Tree
+47. Permutations II,Segment Tree
+48. Rotate Image,Segment Tree
+49. Group Anagrams,Segment Tree
+51. N-Queens,Segment Tree
+52. N-Queens II,Segment Tree
+53. Maximum Subarray,Segment Tree
+54. Spiral Matrix,Segment Tree
+55. Jump Game,Segment Tree
+56. Merge Intervals,Segment Tree
+57. Insert Interval,Segment Tree
+58. Length of Last Word,Segment Tree
+59. Spiral Matrix II,Segment Tree
+60. Permutation Sequence,Segment Tree
+61. Rotate List,Segment Tree
+62. Unique Paths,Segment Tree
+63. Unique Paths II,Segment Tree
+64. Minimum Path Sum,Segment Tree
+65. Valid Number,Segment Tree
+66. Plus One,Segment Tree
+67. Add Binary,Segment Tree
+68. Text Justification,Segment Tree
+69. Sqrt(x),Segment Tree
+70. Climbing Stairs,Segment Tree
+71. Simplify Path,Segment Tree
+72. Edit Distance,Segment Tree
+73. Set Matrix Zeroes,Segment Tree
+74. Search a 2D Matrix,Segment Tree
+75. Sort Colors,Segment Tree
+76. Minimum Window Substring,Segment Tree
+77. Combinations,Segment Tree
+78. Subsets,Segment Tree
+79. Word Search,Segment Tree
+80. Remove Duplicates from Sorted Array II,Segment Tree
+81. Search in Rotated Sorted Array II,Segment Tree
+82. Remove Duplicates from Sorted List II,Segment Tree
+83. Remove Duplicates from Sorted List,Segment Tree
+84. Largest Rectangle in Histogram,Segment Tree
+85. Maximal Rectangle,Segment Tree
+86. Partition List,Segment Tree
+87. Scramble String,Segment Tree
+88. Merge Sorted Array,Segment Tree
+89. Gray Code,Segment Tree
+90. Subsets II,Segment Tree
+91. Decode Ways,Segment Tree
+92. Reverse Linked List II,Segment Tree
+93. Restore IP Addresses,Segment Tree
+94. Binary Tree Inorder Traversal,Segment Tree
+95. Unique Binary Search Trees II,Segment Tree
+96. Unique Binary Search Trees,Segment Tree
+97. Interleaving String,Segment Tree
+98. Validate Binary Search Tree,Segment Tree
+99. Recover Binary Search Tree,Segment Tree
+100. Same Tree,Segment Tree
+101. Symmetric Tree,Segment Tree
+102. Binary Tree Level Order Traversal,Segment Tree
+103. Binary Tree Zigzag Level Order Traversal,Segment Tree
+104. Maximum Depth of Binary Tree,Segment Tree
+105. Construct Binary Tree from Preorder and Inorder Traversal,Segment Tree
+106. Construct Binary Tree from Inorder and Postorder Traversal,Segment Tree
+107. Binary Tree Level Order Traversal II,Segment Tree
+108. Convert Sorted Array to Binary Search Tree,Segment Tree
+109. Convert Sorted List to Binary Search Tree,Segment Tree
+110. Balanced Binary Tree,Segment Tree
+111. Minimum Depth of Binary Tree,Segment Tree
+112. Path Sum,Segment Tree
+113. Path Sum II,Segment Tree
+114. Flatten Binary Tree to Linked List,Segment Tree
+115. Distinct Subsequences,Segment Tree
+116. Populating Next Right Pointers in Each Node,Segment Tree
+117. Populating Next Right Pointers in Each Node II,Segment Tree
+118. Pascal's Triangle,Segment Tree
+119. Pascal's Triangle II,Segment Tree
+120. Triangle,Segment Tree
+121. Best Time to Buy and Sell Stock,Segment Tree
+122. Best Time to Buy and Sell Stock II,Segment Tree
+123. Best Time to Buy and Sell Stock III,Segment Tree
+124. Binary Tree Maximum Path Sum,Segment Tree
+125. Valid Palindrome,Segment Tree
+126. Word Ladder II,Segment Tree
+127. Word Ladder,Segment Tree
+128. Longest Consecutive Sequence,Segment Tree
+129. Sum Root to Leaf Numbers,Segment Tree
+130. Surrounded Regions,Segment Tree
+131. Palindrome Partitioning,Segment Tree
+132. Palindrome Partitioning II,Segment Tree
+133. Clone Graph,Segment Tree
+134. Gas Station,Segment Tree
+135. Candy,Segment Tree
+136. Single Number,Segment Tree
+137. Single Number II,Segment Tree
+138. Copy List with Random Pointer,Segment Tree
+139. Word Break,Segment Tree
+140. Word Break II,Segment Tree
+141. Linked List Cycle,Segment Tree
+142. Linked List Cycle II,Segment Tree
+143. Reorder List,Segment Tree
+144. Binary Tree Preorder Traversal,Segment Tree
+145. Binary Tree Postorder Traversal,Segment Tree
+146. LRU Cache,Segment Tree
+147. Insertion Sort List,Segment Tree
+148. Sort List,Segment Tree
+149. Max Points on a Line,Segment Tree
+150. Evaluate Reverse Polish Notation,Segment Tree
+151. Reverse Words in a String,Segment Tree
+152. Maximum Product Subarray,Segment Tree
+153. Find Minimum in Rotated Sorted Array,Segment Tree
+154. Find Minimum in Rotated Sorted Array II,Segment Tree
+155. Min Stack,Segment Tree
+156. Binary Tree Upside Down,Segment Tree
+157. Read N Characters Given Read4,Segment Tree
+158. Read N Characters Given read4 II - Call Multiple Times,Segment Tree
+159. Longest Substring with At Most Two Distinct Characters,Segment Tree
+160. Intersection of Two Linked Lists,Segment Tree
+161. One Edit Distance,Segment Tree
+162. Find Peak Element,Segment Tree
+163. Missing Ranges,Segment Tree
+164. Maximum Gap,Segment Tree
+165. Compare Version Numbers,Segment Tree
+166. Fraction to Recurring Decimal,Segment Tree
+167. Two Sum II - Input Array Is Sorted,Segment Tree
+168. Excel Sheet Column Title,Segment Tree
+169. Majority Element,Segment Tree
+170. Two Sum III - Data structure design,Segment Tree
+171. Excel Sheet Column Number,Segment Tree
+172. Factorial Trailing Zeroes,Segment Tree
+173. Binary Search Tree Iterator,Segment Tree
+174. Dungeon Game,Segment Tree
+175. Combine Two Tables,Segment Tree
+176. Second Highest Salary,Segment Tree
+177. Nth Highest Salary,Segment Tree
+178. Rank Scores,Segment Tree
+179. Largest Number,Segment Tree
+180. Consecutive Numbers,Segment Tree
+181. Employees Earning More Than Their Managers,Segment Tree
+182. Duplicate Emails,Segment Tree
+183. Customers Who Never Order,Segment Tree
+184. Department Highest Salary,Segment Tree
+185. Department Top Three Salaries,Segment Tree
+186. Reverse Words in a String II,Segment Tree
+187. Repeated DNA Sequences,Segment Tree
+188. Best Time to Buy and Sell Stock IV,Segment Tree
+189. Rotate Array,Segment Tree
+190. Reverse Bits,Segment Tree
+191. Number of 1 Bits,Segment Tree
+192. Word Frequency,Segment Tree
+193. Valid Phone Numbers,Segment Tree
+194. Transpose File,Segment Tree
+195. Tenth Line,Segment Tree
+196. Delete Duplicate Emails,Segment Tree
+197. Rising Temperature,Segment Tree
+198. House Robber,Segment Tree
+199. Binary Tree Right Side View,Segment Tree
+200. Number of Islands,Segment Tree
+201. Bitwise AND of Numbers Range,Segment Tree
+202. Happy Number,Segment Tree
+203. Remove Linked List Elements,Segment Tree
+204. Count Primes,Segment Tree
+205. Isomorphic Strings,Segment Tree
+206. Reverse Linked List,Segment Tree
+207. Course Schedule,Segment Tree
+208. Implement Trie (Prefix Tree),Segment Tree
+209. Minimum Size Subarray Sum,Segment Tree
+210. Course Schedule II,Segment Tree
+211. Design Add and Search Words Data Structure,Segment Tree
+212. Word Search II,Segment Tree
+213. House Robber II,Segment Tree
+214. Shortest Palindrome,Segment Tree
+215. Kth Largest Element in an Array,Segment Tree
+216. Combination Sum III,Segment Tree
+217. Contains Duplicate,Segment Tree
+218. The Skyline Problem,Segment Tree
+219. Contains Duplicate II,Segment Tree
+220. Contains Duplicate III,Segment Tree
+221. Maximal Square,Segment Tree
+222. Count Complete Tree Nodes,Segment Tree
+223. Rectangle Area,Segment Tree
+224. Basic Calculator,Segment Tree
+225. Implement Stack using Queues,Segment Tree
+226. Invert Binary Tree,Segment Tree
+227. Basic Calculator II,Segment Tree
+228. Summary Ranges,Segment Tree
+229. Majority Element II,Segment Tree
+230. Kth Smallest Element in a BST,Segment Tree
+231. Power of Two,Segment Tree
+232. Implement Queue using Stacks,Segment Tree
+233. Number of Digit One,Segment Tree
+234. Palindrome Linked List,Segment Tree
+235. Lowest Common Ancestor of a Binary Search Tree,Segment Tree
+236. Lowest Common Ancestor of a Binary Tree,Segment Tree
+237. Delete Node in a Linked List,Segment Tree
+238. Product of Array Except Self,Segment Tree
+239. Sliding Window Maximum,Segment Tree
+240. Search a 2D Matrix II,Segment Tree
+241. Different Ways to Add Parentheses,Segment Tree
+242. Valid Anagram,Segment Tree
+243. Shortest Word Distance,Segment Tree
+244. Shortest Word Distance II,Segment Tree
+245. Shortest Word Distance III,Segment Tree
+246. Strobogrammatic Number,Segment Tree
+247. Strobogrammatic Number II,Segment Tree
+248. Strobogrammatic Number III,Segment Tree
+249. Group Shifted Strings,Segment Tree
+250. Count Univalue Subtrees,Segment Tree
+251. Flatten 2D Vector,Segment Tree
+252. Meeting Rooms,Segment Tree
+253. Meeting Rooms II,Segment Tree
+254. Factor Combinations,Segment Tree
+255. Verify Preorder Sequence in Binary Search Tree,Segment Tree
+256. Paint House,Segment Tree
+257. Binary Tree Paths,Segment Tree
+258. Add Digits,Segment Tree
+259. 3Sum Smaller,Segment Tree
+260. Single Number III,Segment Tree
+261. Graph Valid Tree,Segment Tree
+262. Trips and Users,Segment Tree
+263. Ugly Number,Segment Tree
+264. Ugly Number II,Segment Tree
+265. Paint House II,Segment Tree
+266. Palindrome Permutation,Segment Tree
+267. Palindrome Permutation II,Segment Tree
+268. Missing Number,Segment Tree
+269. Alien Dictionary,Segment Tree
+270. Closest Binary Search Tree Value,Segment Tree
+271. Encode and Decode Strings,Segment Tree
+272. Closest Binary Search Tree Value II,Segment Tree
+273. Integer to English Words,Segment Tree
+274. H-Index,Segment Tree
+275. H-Index II,Segment Tree
+276. Paint Fence,Segment Tree
+277. Find the Celebrity,Segment Tree
+278. First Bad Version,Segment Tree
+279. Perfect Squares,Segment Tree
+280. Wiggle Sort,Segment Tree
+281. Zigzag Iterator,Segment Tree
+282. Expression Add Operators,Segment Tree
+283. Move Zeroes,Segment Tree
+284. Peeking Iterator,Segment Tree
+285. Inorder Successor in BST,Segment Tree
+286. Walls and Gates,Segment Tree
+287. Find the Duplicate Number,Segment Tree
+288. Unique Word Abbreviation,Segment Tree
+289. Game of Life,Segment Tree
+290. Word Pattern,Segment Tree
+291. Word Pattern II,Segment Tree
+292. Nim Game,Segment Tree
+293. Flip Game,Segment Tree
+294. Flip Game II,Segment Tree
+295. Find Median from Data Stream,Segment Tree
+296. Best Meeting Point,Segment Tree
+297. Serialize and Deserialize Binary Tree,Segment Tree
+298. Binary Tree Longest Consecutive Sequence,Segment Tree
+299. Bulls and Cows,Segment Tree
+300. Longest Increasing Subsequence,Segment Tree
+301. Remove Invalid Parentheses,Segment Tree
+302. Smallest Rectangle Enclosing Black Pixels,Segment Tree
+303. Range Sum Query - Immutable,Segment Tree
+304. Range Sum Query 2D - Immutable,Segment Tree
+305. Number of Islands II,Segment Tree
+306. Additive Number,Segment Tree
+307. Range Sum Query - Mutable,Segment Tree
+308. Range Sum Query 2D - Mutable,Segment Tree
+309. Best Time to Buy and Sell Stock with Cooldown,Segment Tree
+310. Minimum Height Trees,Segment Tree
+311. Sparse Matrix Multiplication,Segment Tree
+312. Burst Balloons,Segment Tree
+313. Super Ugly Number,Segment Tree
+314. Binary Tree Vertical Order Traversal,Segment Tree
+315. Count of Smaller Numbers After Self,Segment Tree
+316. Remove Duplicate Letters,Segment Tree
+317. Shortest Distance from All Buildings,Segment Tree
+318. Maximum Product of Word Lengths,Segment Tree
+319. Bulb Switcher,Segment Tree
+320. Generalized Abbreviation,Segment Tree
+321. Create Maximum Number,Segment Tree
+322. Coin Change,Segment Tree
+323. Number of Connected Components in an Undirected Graph,Segment Tree
+324. Wiggle Sort II,Segment Tree
+325. Maximum Size Subarray Sum Equals k,Segment Tree
+326. Power of Three,Segment Tree
+327. Count of Range Sum,Segment Tree
+328. Odd Even Linked List,Segment Tree
+329. Longest Increasing Path in a Matrix,Segment Tree
+330. Patching Array,Segment Tree
+331. Verify Preorder Serialization of a Binary Tree,Segment Tree
+332. Reconstruct Itinerary,Segment Tree
+333. Largest BST Subtree,Segment Tree
+334. Increasing Triplet Subsequence,Segment Tree
+335. Self Crossing,Segment Tree
+336. Palindrome Pairs,Segment Tree
+337. House Robber III,Segment Tree
+338. Counting Bits,Segment Tree
+339. Nested List Weight Sum,Segment Tree
+340. Longest Substring with At Most K Distinct Characters,Segment Tree
+341. Flatten Nested List Iterator,Segment Tree
+342. Power of Four,Segment Tree
+343. Integer Break,Segment Tree
+344. Reverse String,Segment Tree
+345. Reverse Vowels of a String,Segment Tree
+346. Moving Average from Data Stream,Segment Tree
+347. Top K Frequent Elements,Segment Tree
+348. Design Tic-Tac-Toe,Segment Tree
+349. Intersection of Two Arrays,Segment Tree
+350. Intersection of Two Arrays II,Segment Tree

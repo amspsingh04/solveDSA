@@ -1,401 +1,401 @@
-Question
-63. Unique Paths II
-1. Two Sum
-2. Add Two Numbers
-3. Longest Substring Without Repeating Characters
-4. Median of Two Sorted Arrays
-5. Longest Palindromic Substring
-6. Zigzag Conversion
-7. Reverse Integer
-8. String to Integer (atoi)
-9. Palindrome Number
-10. Regular Expression Matching
-11. Container With Most Water
-12. Integer to Roman
-13. Roman to Integer
-14. Longest Common Prefix
-15. 3Sum
-16. 3Sum Closest
-17. Letter Combinations of a Phone Number
-18. 4Sum
-19. Remove Nth Node From End of List
-20. Valid Parentheses
-21. Merge Two Sorted Lists
-22. Generate Parentheses
-23. Merge k Sorted Lists
-24. Swap Nodes in Pairs
-25. Reverse Nodes in k-Group
-26. Remove Duplicates from Sorted Array
-27. Remove Element
-28. Find the Index of the First Occurrence in a String
-29. Divide Two Integers
-30. Substring with Concatenation of All Words
-31. Next Permutation
-32. Longest Valid Parentheses
-33. Search in Rotated Sorted Array
-34. Find First and Last Position of Element in Sorted Array
-35. Search Insert Position
-36. Valid Sudoku
-37. Sudoku Solver
-38. Count and Say
-39. Combination Sum
-40. Combination Sum II
-41. First Missing Positive
-42. Trapping Rain Water
-43. Multiply Strings
-44. Wildcard Matching
-45. Jump Game II
-46. Permutations
-47. Permutations II
-48. Rotate Image
-49. Group Anagrams
-63. Unique Paths II
-1. Two Sum
-2. Add Two Numbers
-3. Longest Substring Without Repeating Characters
-4. Median of Two Sorted Arrays
-5. Longest Palindromic Substring
-6. Zigzag Conversion
-7. Reverse Integer
-8. String to Integer (atoi)
-9. Palindrome Number
-10. Regular Expression Matching
-11. Container With Most Water
-12. Integer to Roman
-13. Roman to Integer
-14. Longest Common Prefix
-15. 3Sum
-16. 3Sum Closest
-17. Letter Combinations of a Phone Number
-18. 4Sum
-19. Remove Nth Node From End of List
-20. Valid Parentheses
-21. Merge Two Sorted Lists
-22. Generate Parentheses
-23. Merge k Sorted Lists
-24. Swap Nodes in Pairs
-25. Reverse Nodes in k-Group
-26. Remove Duplicates from Sorted Array
-27. Remove Element
-28. Find the Index of the First Occurrence in a String
-29. Divide Two Integers
-30. Substring with Concatenation of All Words
-31. Next Permutation
-32. Longest Valid Parentheses
-33. Search in Rotated Sorted Array
-34. Find First and Last Position of Element in Sorted Array
-35. Search Insert Position
-36. Valid Sudoku
-37. Sudoku Solver
-38. Count and Say
-39. Combination Sum
-40. Combination Sum II
-41. First Missing Positive
-42. Trapping Rain Water
-43. Multiply Strings
-44. Wildcard Matching
-45. Jump Game II
-46. Permutations
-47. Permutations II
-48. Rotate Image
-49. Group Anagrams
-51. N-Queens
-52. N-Queens II
-53. Maximum Subarray
-54. Spiral Matrix
-55. Jump Game
-56. Merge Intervals
-57. Insert Interval
-58. Length of Last Word
-59. Spiral Matrix II
-60. Permutation Sequence
-61. Rotate List
-62. Unique Paths
-63. Unique Paths II
-64. Minimum Path Sum
-65. Valid Number
-66. Plus One
-67. Add Binary
-68. Text Justification
-69. Sqrt(x)
-70. Climbing Stairs
-71. Simplify Path
-72. Edit Distance
-73. Set Matrix Zeroes
-74. Search a 2D Matrix
-75. Sort Colors
-76. Minimum Window Substring
-77. Combinations
-78. Subsets
-79. Word Search
-80. Remove Duplicates from Sorted Array II
-81. Search in Rotated Sorted Array II
-82. Remove Duplicates from Sorted List II
-83. Remove Duplicates from Sorted List
-84. Largest Rectangle in Histogram
-85. Maximal Rectangle
-86. Partition List
-87. Scramble String
-88. Merge Sorted Array
-89. Gray Code
-90. Subsets II
-91. Decode Ways
-92. Reverse Linked List II
-93. Restore IP Addresses
-94. Binary Tree Inorder Traversal
-95. Unique Binary Search Trees II
-96. Unique Binary Search Trees
-97. Interleaving String
-98. Validate Binary Search Tree
-99. Recover Binary Search Tree
-100. Same Tree
-101. Symmetric Tree
-102. Binary Tree Level Order Traversal
-103. Binary Tree Zigzag Level Order Traversal
-104. Maximum Depth of Binary Tree
-105. Construct Binary Tree from Preorder and Inorder Traversal
-106. Construct Binary Tree from Inorder and Postorder Traversal
-107. Binary Tree Level Order Traversal II
-108. Convert Sorted Array to Binary Search Tree
-109. Convert Sorted List to Binary Search Tree
-110. Balanced Binary Tree
-111. Minimum Depth of Binary Tree
-112. Path Sum
-113. Path Sum II
-114. Flatten Binary Tree to Linked List
-115. Distinct Subsequences
-116. Populating Next Right Pointers in Each Node
-117. Populating Next Right Pointers in Each Node II
-118. Pascal's Triangle
-119. Pascal's Triangle II
-120. Triangle
-121. Best Time to Buy and Sell Stock
-122. Best Time to Buy and Sell Stock II
-123. Best Time to Buy and Sell Stock III
-124. Binary Tree Maximum Path Sum
-125. Valid Palindrome
-126. Word Ladder II
-127. Word Ladder
-128. Longest Consecutive Sequence
-129. Sum Root to Leaf Numbers
-130. Surrounded Regions
-131. Palindrome Partitioning
-132. Palindrome Partitioning II
-133. Clone Graph
-134. Gas Station
-135. Candy
-136. Single Number
-137. Single Number II
-138. Copy List with Random Pointer
-139. Word Break
-140. Word Break II
-141. Linked List Cycle
-142. Linked List Cycle II
-143. Reorder List
-144. Binary Tree Preorder Traversal
-145. Binary Tree Postorder Traversal
-146. LRU Cache
-147. Insertion Sort List
-148. Sort List
-149. Max Points on a Line
-150. Evaluate Reverse Polish Notation
-151. Reverse Words in a String
-152. Maximum Product Subarray
-153. Find Minimum in Rotated Sorted Array
-154. Find Minimum in Rotated Sorted Array II
-155. Min Stack
-156. Binary Tree Upside Down
-157. Read N Characters Given Read4
-158. Read N Characters Given read4 II - Call Multiple Times
-159. Longest Substring with At Most Two Distinct Characters
-160. Intersection of Two Linked Lists
-161. One Edit Distance
-162. Find Peak Element
-163. Missing Ranges
-164. Maximum Gap
-165. Compare Version Numbers
-166. Fraction to Recurring Decimal
-167. Two Sum II - Input Array Is Sorted
-168. Excel Sheet Column Title
-169. Majority Element
-170. Two Sum III - Data structure design
-171. Excel Sheet Column Number
-172. Factorial Trailing Zeroes
-173. Binary Search Tree Iterator
-174. Dungeon Game
-175. Combine Two Tables
-176. Second Highest Salary
-177. Nth Highest Salary
-178. Rank Scores
-179. Largest Number
-180. Consecutive Numbers
-181. Employees Earning More Than Their Managers
-182. Duplicate Emails
-183. Customers Who Never Order
-184. Department Highest Salary
-185. Department Top Three Salaries
-186. Reverse Words in a String II
-187. Repeated DNA Sequences
-188. Best Time to Buy and Sell Stock IV
-189. Rotate Array
-190. Reverse Bits
-191. Number of 1 Bits
-192. Word Frequency
-193. Valid Phone Numbers
-194. Transpose File
-195. Tenth Line
-196. Delete Duplicate Emails
-197. Rising Temperature
-198. House Robber
-199. Binary Tree Right Side View
-200. Number of Islands
-201. Bitwise AND of Numbers Range
-202. Happy Number
-203. Remove Linked List Elements
-204. Count Primes
-205. Isomorphic Strings
-206. Reverse Linked List
-207. Course Schedule
-208. Implement Trie (Prefix Tree)
-209. Minimum Size Subarray Sum
-210. Course Schedule II
-211. Design Add and Search Words Data Structure
-212. Word Search II
-213. House Robber II
-214. Shortest Palindrome
-215. Kth Largest Element in an Array
-216. Combination Sum III
-217. Contains Duplicate
-218. The Skyline Problem
-219. Contains Duplicate II
-220. Contains Duplicate III
-221. Maximal Square
-222. Count Complete Tree Nodes
-223. Rectangle Area
-224. Basic Calculator
-225. Implement Stack using Queues
-226. Invert Binary Tree
-227. Basic Calculator II
-228. Summary Ranges
-229. Majority Element II
-230. Kth Smallest Element in a BST
-231. Power of Two
-232. Implement Queue using Stacks
-233. Number of Digit One
-234. Palindrome Linked List
-235. Lowest Common Ancestor of a Binary Search Tree
-236. Lowest Common Ancestor of a Binary Tree
-237. Delete Node in a Linked List
-238. Product of Array Except Self
-239. Sliding Window Maximum
-240. Search a 2D Matrix II
-241. Different Ways to Add Parentheses
-242. Valid Anagram
-243. Shortest Word Distance
-244. Shortest Word Distance II
-245. Shortest Word Distance III
-246. Strobogrammatic Number
-247. Strobogrammatic Number II
-248. Strobogrammatic Number III
-249. Group Shifted Strings
-250. Count Univalue Subtrees
-251. Flatten 2D Vector
-252. Meeting Rooms
-253. Meeting Rooms II
-254. Factor Combinations
-255. Verify Preorder Sequence in Binary Search Tree
-256. Paint House
-257. Binary Tree Paths
-258. Add Digits
-259. 3Sum Smaller
-260. Single Number III
-261. Graph Valid Tree
-262. Trips and Users
-263. Ugly Number
-264. Ugly Number II
-265. Paint House II
-266. Palindrome Permutation
-267. Palindrome Permutation II
-268. Missing Number
-269. Alien Dictionary
-270. Closest Binary Search Tree Value
-271. Encode and Decode Strings
-272. Closest Binary Search Tree Value II
-273. Integer to English Words
-274. H-Index
-275. H-Index II
-276. Paint Fence
-277. Find the Celebrity
-278. First Bad Version
-279. Perfect Squares
-280. Wiggle Sort
-281. Zigzag Iterator
-282. Expression Add Operators
-283. Move Zeroes
-284. Peeking Iterator
-285. Inorder Successor in BST
-286. Walls and Gates
-287. Find the Duplicate Number
-288. Unique Word Abbreviation
-289. Game of Life
-290. Word Pattern
-291. Word Pattern II
-292. Nim Game
-293. Flip Game
-294. Flip Game II
-295. Find Median from Data Stream
-296. Best Meeting Point
-297. Serialize and Deserialize Binary Tree
-298. Binary Tree Longest Consecutive Sequence
-299. Bulls and Cows
-300. Longest Increasing Subsequence
-301. Remove Invalid Parentheses
-302. Smallest Rectangle Enclosing Black Pixels
-303. Range Sum Query - Immutable
-304. Range Sum Query 2D - Immutable
-305. Number of Islands II
-306. Additive Number
-307. Range Sum Query - Mutable
-308. Range Sum Query 2D - Mutable
-309. Best Time to Buy and Sell Stock with Cooldown
-310. Minimum Height Trees
-311. Sparse Matrix Multiplication
-312. Burst Balloons
-313. Super Ugly Number
-314. Binary Tree Vertical Order Traversal
-315. Count of Smaller Numbers After Self
-316. Remove Duplicate Letters
-317. Shortest Distance from All Buildings
-318. Maximum Product of Word Lengths
-319. Bulb Switcher
-320. Generalized Abbreviation
-321. Create Maximum Number
-322. Coin Change
-323. Number of Connected Components in an Undirected Graph
-324. Wiggle Sort II
-325. Maximum Size Subarray Sum Equals k
-326. Power of Three
-327. Count of Range Sum
-328. Odd Even Linked List
-329. Longest Increasing Path in a Matrix
-330. Patching Array
-331. Verify Preorder Serialization of a Binary Tree
-332. Reconstruct Itinerary
-333. Largest BST Subtree
-334. Increasing Triplet Subsequence
-335. Self Crossing
-336. Palindrome Pairs
-337. House Robber III
-338. Counting Bits
-339. Nested List Weight Sum
-340. Longest Substring with At Most K Distinct Characters
-341. Flatten Nested List Iterator
-342. Power of Four
-343. Integer Break
-344. Reverse String
-345. Reverse Vowels of a String
-346. Moving Average from Data Stream
-347. Top K Frequent Elements
-348. Design Tic-Tac-Toe
-349. Intersection of Two Arrays
-350. Intersection of Two Arrays II
+Question,Tag
+63. Unique Paths II,Trie
+1. Two Sum,Trie
+2. Add Two Numbers,Trie
+3. Longest Substring Without Repeating Characters,Trie
+4. Median of Two Sorted Arrays,Trie
+5. Longest Palindromic Substring,Trie
+6. Zigzag Conversion,Trie
+7. Reverse Integer,Trie
+8. String to Integer (atoi),Trie
+9. Palindrome Number,Trie
+10. Regular Expression Matching,Trie
+11. Container With Most Water,Trie
+12. Integer to Roman,Trie
+13. Roman to Integer,Trie
+14. Longest Common Prefix,Trie
+15. 3Sum,Trie
+16. 3Sum Closest,Trie
+17. Letter Combinations of a Phone Number,Trie
+18. 4Sum,Trie
+19. Remove Nth Node From End of List,Trie
+20. Valid Parentheses,Trie
+21. Merge Two Sorted Lists,Trie
+22. Generate Parentheses,Trie
+23. Merge k Sorted Lists,Trie
+24. Swap Nodes in Pairs,Trie
+25. Reverse Nodes in k-Group,Trie
+26. Remove Duplicates from Sorted Array,Trie
+27. Remove Element,Trie
+28. Find the Index of the First Occurrence in a String,Trie
+29. Divide Two Integers,Trie
+30. Substring with Concatenation of All Words,Trie
+31. Next Permutation,Trie
+32. Longest Valid Parentheses,Trie
+33. Search in Rotated Sorted Array,Trie
+34. Find First and Last Position of Element in Sorted Array,Trie
+35. Search Insert Position,Trie
+36. Valid Sudoku,Trie
+37. Sudoku Solver,Trie
+38. Count and Say,Trie
+39. Combination Sum,Trie
+40. Combination Sum II,Trie
+41. First Missing Positive,Trie
+42. Trapping Rain Water,Trie
+43. Multiply Strings,Trie
+44. Wildcard Matching,Trie
+45. Jump Game II,Trie
+46. Permutations,Trie
+47. Permutations II,Trie
+48. Rotate Image,Trie
+49. Group Anagrams,Trie
+63. Unique Paths II,Trie
+1. Two Sum,Trie
+2. Add Two Numbers,Trie
+3. Longest Substring Without Repeating Characters,Trie
+4. Median of Two Sorted Arrays,Trie
+5. Longest Palindromic Substring,Trie
+6. Zigzag Conversion,Trie
+7. Reverse Integer,Trie
+8. String to Integer (atoi),Trie
+9. Palindrome Number,Trie
+10. Regular Expression Matching,Trie
+11. Container With Most Water,Trie
+12. Integer to Roman,Trie
+13. Roman to Integer,Trie
+14. Longest Common Prefix,Trie
+15. 3Sum,Trie
+16. 3Sum Closest,Trie
+17. Letter Combinations of a Phone Number,Trie
+18. 4Sum,Trie
+19. Remove Nth Node From End of List,Trie
+20. Valid Parentheses,Trie
+21. Merge Two Sorted Lists,Trie
+22. Generate Parentheses,Trie
+23. Merge k Sorted Lists,Trie
+24. Swap Nodes in Pairs,Trie
+25. Reverse Nodes in k-Group,Trie
+26. Remove Duplicates from Sorted Array,Trie
+27. Remove Element,Trie
+28. Find the Index of the First Occurrence in a String,Trie
+29. Divide Two Integers,Trie
+30. Substring with Concatenation of All Words,Trie
+31. Next Permutation,Trie
+32. Longest Valid Parentheses,Trie
+33. Search in Rotated Sorted Array,Trie
+34. Find First and Last Position of Element in Sorted Array,Trie
+35. Search Insert Position,Trie
+36. Valid Sudoku,Trie
+37. Sudoku Solver,Trie
+38. Count and Say,Trie
+39. Combination Sum,Trie
+40. Combination Sum II,Trie
+41. First Missing Positive,Trie
+42. Trapping Rain Water,Trie
+43. Multiply Strings,Trie
+44. Wildcard Matching,Trie
+45. Jump Game II,Trie
+46. Permutations,Trie
+47. Permutations II,Trie
+48. Rotate Image,Trie
+49. Group Anagrams,Trie
+51. N-Queens,Trie
+52. N-Queens II,Trie
+53. Maximum Subarray,Trie
+54. Spiral Matrix,Trie
+55. Jump Game,Trie
+56. Merge Intervals,Trie
+57. Insert Interval,Trie
+58. Length of Last Word,Trie
+59. Spiral Matrix II,Trie
+60. Permutation Sequence,Trie
+61. Rotate List,Trie
+62. Unique Paths,Trie
+63. Unique Paths II,Trie
+64. Minimum Path Sum,Trie
+65. Valid Number,Trie
+66. Plus One,Trie
+67. Add Binary,Trie
+68. Text Justification,Trie
+69. Sqrt(x),Trie
+70. Climbing Stairs,Trie
+71. Simplify Path,Trie
+72. Edit Distance,Trie
+73. Set Matrix Zeroes,Trie
+74. Search a 2D Matrix,Trie
+75. Sort Colors,Trie
+76. Minimum Window Substring,Trie
+77. Combinations,Trie
+78. Subsets,Trie
+79. Word Search,Trie
+80. Remove Duplicates from Sorted Array II,Trie
+81. Search in Rotated Sorted Array II,Trie
+82. Remove Duplicates from Sorted List II,Trie
+83. Remove Duplicates from Sorted List,Trie
+84. Largest Rectangle in Histogram,Trie
+85. Maximal Rectangle,Trie
+86. Partition List,Trie
+87. Scramble String,Trie
+88. Merge Sorted Array,Trie
+89. Gray Code,Trie
+90. Subsets II,Trie
+91. Decode Ways,Trie
+92. Reverse Linked List II,Trie
+93. Restore IP Addresses,Trie
+94. Binary Tree Inorder Traversal,Trie
+95. Unique Binary Search Trees II,Trie
+96. Unique Binary Search Trees,Trie
+97. Interleaving String,Trie
+98. Validate Binary Search Tree,Trie
+99. Recover Binary Search Tree,Trie
+100. Same Tree,Trie
+101. Symmetric Tree,Trie
+102. Binary Tree Level Order Traversal,Trie
+103. Binary Tree Zigzag Level Order Traversal,Trie
+104. Maximum Depth of Binary Tree,Trie
+105. Construct Binary Tree from Preorder and Inorder Traversal,Trie
+106. Construct Binary Tree from Inorder and Postorder Traversal,Trie
+107. Binary Tree Level Order Traversal II,Trie
+108. Convert Sorted Array to Binary Search Tree,Trie
+109. Convert Sorted List to Binary Search Tree,Trie
+110. Balanced Binary Tree,Trie
+111. Minimum Depth of Binary Tree,Trie
+112. Path Sum,Trie
+113. Path Sum II,Trie
+114. Flatten Binary Tree to Linked List,Trie
+115. Distinct Subsequences,Trie
+116. Populating Next Right Pointers in Each Node,Trie
+117. Populating Next Right Pointers in Each Node II,Trie
+118. Pascal's Triangle,Trie
+119. Pascal's Triangle II,Trie
+120. Triangle,Trie
+121. Best Time to Buy and Sell Stock,Trie
+122. Best Time to Buy and Sell Stock II,Trie
+123. Best Time to Buy and Sell Stock III,Trie
+124. Binary Tree Maximum Path Sum,Trie
+125. Valid Palindrome,Trie
+126. Word Ladder II,Trie
+127. Word Ladder,Trie
+128. Longest Consecutive Sequence,Trie
+129. Sum Root to Leaf Numbers,Trie
+130. Surrounded Regions,Trie
+131. Palindrome Partitioning,Trie
+132. Palindrome Partitioning II,Trie
+133. Clone Graph,Trie
+134. Gas Station,Trie
+135. Candy,Trie
+136. Single Number,Trie
+137. Single Number II,Trie
+138. Copy List with Random Pointer,Trie
+139. Word Break,Trie
+140. Word Break II,Trie
+141. Linked List Cycle,Trie
+142. Linked List Cycle II,Trie
+143. Reorder List,Trie
+144. Binary Tree Preorder Traversal,Trie
+145. Binary Tree Postorder Traversal,Trie
+146. LRU Cache,Trie
+147. Insertion Sort List,Trie
+148. Sort List,Trie
+149. Max Points on a Line,Trie
+150. Evaluate Reverse Polish Notation,Trie
+151. Reverse Words in a String,Trie
+152. Maximum Product Subarray,Trie
+153. Find Minimum in Rotated Sorted Array,Trie
+154. Find Minimum in Rotated Sorted Array II,Trie
+155. Min Stack,Trie
+156. Binary Tree Upside Down,Trie
+157. Read N Characters Given Read4,Trie
+158. Read N Characters Given read4 II - Call Multiple Times,Trie
+159. Longest Substring with At Most Two Distinct Characters,Trie
+160. Intersection of Two Linked Lists,Trie
+161. One Edit Distance,Trie
+162. Find Peak Element,Trie
+163. Missing Ranges,Trie
+164. Maximum Gap,Trie
+165. Compare Version Numbers,Trie
+166. Fraction to Recurring Decimal,Trie
+167. Two Sum II - Input Array Is Sorted,Trie
+168. Excel Sheet Column Title,Trie
+169. Majority Element,Trie
+170. Two Sum III - Data structure design,Trie
+171. Excel Sheet Column Number,Trie
+172. Factorial Trailing Zeroes,Trie
+173. Binary Search Tree Iterator,Trie
+174. Dungeon Game,Trie
+175. Combine Two Tables,Trie
+176. Second Highest Salary,Trie
+177. Nth Highest Salary,Trie
+178. Rank Scores,Trie
+179. Largest Number,Trie
+180. Consecutive Numbers,Trie
+181. Employees Earning More Than Their Managers,Trie
+182. Duplicate Emails,Trie
+183. Customers Who Never Order,Trie
+184. Department Highest Salary,Trie
+185. Department Top Three Salaries,Trie
+186. Reverse Words in a String II,Trie
+187. Repeated DNA Sequences,Trie
+188. Best Time to Buy and Sell Stock IV,Trie
+189. Rotate Array,Trie
+190. Reverse Bits,Trie
+191. Number of 1 Bits,Trie
+192. Word Frequency,Trie
+193. Valid Phone Numbers,Trie
+194. Transpose File,Trie
+195. Tenth Line,Trie
+196. Delete Duplicate Emails,Trie
+197. Rising Temperature,Trie
+198. House Robber,Trie
+199. Binary Tree Right Side View,Trie
+200. Number of Islands,Trie
+201. Bitwise AND of Numbers Range,Trie
+202. Happy Number,Trie
+203. Remove Linked List Elements,Trie
+204. Count Primes,Trie
+205. Isomorphic Strings,Trie
+206. Reverse Linked List,Trie
+207. Course Schedule,Trie
+208. Implement Trie (Prefix Tree),Trie
+209. Minimum Size Subarray Sum,Trie
+210. Course Schedule II,Trie
+211. Design Add and Search Words Data Structure,Trie
+212. Word Search II,Trie
+213. House Robber II,Trie
+214. Shortest Palindrome,Trie
+215. Kth Largest Element in an Array,Trie
+216. Combination Sum III,Trie
+217. Contains Duplicate,Trie
+218. The Skyline Problem,Trie
+219. Contains Duplicate II,Trie
+220. Contains Duplicate III,Trie
+221. Maximal Square,Trie
+222. Count Complete Tree Nodes,Trie
+223. Rectangle Area,Trie
+224. Basic Calculator,Trie
+225. Implement Stack using Queues,Trie
+226. Invert Binary Tree,Trie
+227. Basic Calculator II,Trie
+228. Summary Ranges,Trie
+229. Majority Element II,Trie
+230. Kth Smallest Element in a BST,Trie
+231. Power of Two,Trie
+232. Implement Queue using Stacks,Trie
+233. Number of Digit One,Trie
+234. Palindrome Linked List,Trie
+235. Lowest Common Ancestor of a Binary Search Tree,Trie
+236. Lowest Common Ancestor of a Binary Tree,Trie
+237. Delete Node in a Linked List,Trie
+238. Product of Array Except Self,Trie
+239. Sliding Window Maximum,Trie
+240. Search a 2D Matrix II,Trie
+241. Different Ways to Add Parentheses,Trie
+242. Valid Anagram,Trie
+243. Shortest Word Distance,Trie
+244. Shortest Word Distance II,Trie
+245. Shortest Word Distance III,Trie
+246. Strobogrammatic Number,Trie
+247. Strobogrammatic Number II,Trie
+248. Strobogrammatic Number III,Trie
+249. Group Shifted Strings,Trie
+250. Count Univalue Subtrees,Trie
+251. Flatten 2D Vector,Trie
+252. Meeting Rooms,Trie
+253. Meeting Rooms II,Trie
+254. Factor Combinations,Trie
+255. Verify Preorder Sequence in Binary Search Tree,Trie
+256. Paint House,Trie
+257. Binary Tree Paths,Trie
+258. Add Digits,Trie
+259. 3Sum Smaller,Trie
+260. Single Number III,Trie
+261. Graph Valid Tree,Trie
+262. Trips and Users,Trie
+263. Ugly Number,Trie
+264. Ugly Number II,Trie
+265. Paint House II,Trie
+266. Palindrome Permutation,Trie
+267. Palindrome Permutation II,Trie
+268. Missing Number,Trie
+269. Alien Dictionary,Trie
+270. Closest Binary Search Tree Value,Trie
+271. Encode and Decode Strings,Trie
+272. Closest Binary Search Tree Value II,Trie
+273. Integer to English Words,Trie
+274. H-Index,Trie
+275. H-Index II,Trie
+276. Paint Fence,Trie
+277. Find the Celebrity,Trie
+278. First Bad Version,Trie
+279. Perfect Squares,Trie
+280. Wiggle Sort,Trie
+281. Zigzag Iterator,Trie
+282. Expression Add Operators,Trie
+283. Move Zeroes,Trie
+284. Peeking Iterator,Trie
+285. Inorder Successor in BST,Trie
+286. Walls and Gates,Trie
+287. Find the Duplicate Number,Trie
+288. Unique Word Abbreviation,Trie
+289. Game of Life,Trie
+290. Word Pattern,Trie
+291. Word Pattern II,Trie
+292. Nim Game,Trie
+293. Flip Game,Trie
+294. Flip Game II,Trie
+295. Find Median from Data Stream,Trie
+296. Best Meeting Point,Trie
+297. Serialize and Deserialize Binary Tree,Trie
+298. Binary Tree Longest Consecutive Sequence,Trie
+299. Bulls and Cows,Trie
+300. Longest Increasing Subsequence,Trie
+301. Remove Invalid Parentheses,Trie
+302. Smallest Rectangle Enclosing Black Pixels,Trie
+303. Range Sum Query - Immutable,Trie
+304. Range Sum Query 2D - Immutable,Trie
+305. Number of Islands II,Trie
+306. Additive Number,Trie
+307. Range Sum Query - Mutable,Trie
+308. Range Sum Query 2D - Mutable,Trie
+309. Best Time to Buy and Sell Stock with Cooldown,Trie
+310. Minimum Height Trees,Trie
+311. Sparse Matrix Multiplication,Trie
+312. Burst Balloons,Trie
+313. Super Ugly Number,Trie
+314. Binary Tree Vertical Order Traversal,Trie
+315. Count of Smaller Numbers After Self,Trie
+316. Remove Duplicate Letters,Trie
+317. Shortest Distance from All Buildings,Trie
+318. Maximum Product of Word Lengths,Trie
+319. Bulb Switcher,Trie
+320. Generalized Abbreviation,Trie
+321. Create Maximum Number,Trie
+322. Coin Change,Trie
+323. Number of Connected Components in an Undirected Graph,Trie
+324. Wiggle Sort II,Trie
+325. Maximum Size Subarray Sum Equals k,Trie
+326. Power of Three,Trie
+327. Count of Range Sum,Trie
+328. Odd Even Linked List,Trie
+329. Longest Increasing Path in a Matrix,Trie
+330. Patching Array,Trie
+331. Verify Preorder Serialization of a Binary Tree,Trie
+332. Reconstruct Itinerary,Trie
+333. Largest BST Subtree,Trie
+334. Increasing Triplet Subsequence,Trie
+335. Self Crossing,Trie
+336. Palindrome Pairs,Trie
+337. House Robber III,Trie
+338. Counting Bits,Trie
+339. Nested List Weight Sum,Trie
+340. Longest Substring with At Most K Distinct Characters,Trie
+341. Flatten Nested List Iterator,Trie
+342. Power of Four,Trie
+343. Integer Break,Trie
+344. Reverse String,Trie
+345. Reverse Vowels of a String,Trie
+346. Moving Average from Data Stream,Trie
+347. Top K Frequent Elements,Trie
+348. Design Tic-Tac-Toe,Trie
+349. Intersection of Two Arrays,Trie
+350. Intersection of Two Arrays II,Trie

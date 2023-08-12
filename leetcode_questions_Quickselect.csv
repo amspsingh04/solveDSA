@@ -1,151 +1,151 @@
-Question
-63. Unique Paths II
-1. Two Sum
-2. Add Two Numbers
-3. Longest Substring Without Repeating Characters
-4. Median of Two Sorted Arrays
-5. Longest Palindromic Substring
-6. Zigzag Conversion
-7. Reverse Integer
-8. String to Integer (atoi)
-9. Palindrome Number
-10. Regular Expression Matching
-11. Container With Most Water
-12. Integer to Roman
-13. Roman to Integer
-14. Longest Common Prefix
-15. 3Sum
-16. 3Sum Closest
-17. Letter Combinations of a Phone Number
-18. 4Sum
-19. Remove Nth Node From End of List
-20. Valid Parentheses
-21. Merge Two Sorted Lists
-22. Generate Parentheses
-23. Merge k Sorted Lists
-24. Swap Nodes in Pairs
-25. Reverse Nodes in k-Group
-26. Remove Duplicates from Sorted Array
-27. Remove Element
-28. Find the Index of the First Occurrence in a String
-29. Divide Two Integers
-30. Substring with Concatenation of All Words
-31. Next Permutation
-32. Longest Valid Parentheses
-33. Search in Rotated Sorted Array
-34. Find First and Last Position of Element in Sorted Array
-35. Search Insert Position
-36. Valid Sudoku
-37. Sudoku Solver
-38. Count and Say
-39. Combination Sum
-40. Combination Sum II
-41. First Missing Positive
-42. Trapping Rain Water
-43. Multiply Strings
-44. Wildcard Matching
-45. Jump Game II
-46. Permutations
-47. Permutations II
-48. Rotate Image
-49. Group Anagrams
-63. Unique Paths II
-1. Two Sum
-2. Add Two Numbers
-3. Longest Substring Without Repeating Characters
-4. Median of Two Sorted Arrays
-5. Longest Palindromic Substring
-6. Zigzag Conversion
-7. Reverse Integer
-8. String to Integer (atoi)
-9. Palindrome Number
-10. Regular Expression Matching
-11. Container With Most Water
-12. Integer to Roman
-13. Roman to Integer
-14. Longest Common Prefix
-15. 3Sum
-16. 3Sum Closest
-17. Letter Combinations of a Phone Number
-18. 4Sum
-19. Remove Nth Node From End of List
-20. Valid Parentheses
-21. Merge Two Sorted Lists
-22. Generate Parentheses
-23. Merge k Sorted Lists
-24. Swap Nodes in Pairs
-25. Reverse Nodes in k-Group
-26. Remove Duplicates from Sorted Array
-27. Remove Element
-28. Find the Index of the First Occurrence in a String
-29. Divide Two Integers
-30. Substring with Concatenation of All Words
-31. Next Permutation
-32. Longest Valid Parentheses
-33. Search in Rotated Sorted Array
-34. Find First and Last Position of Element in Sorted Array
-35. Search Insert Position
-36. Valid Sudoku
-37. Sudoku Solver
-38. Count and Say
-39. Combination Sum
-40. Combination Sum II
-41. First Missing Positive
-42. Trapping Rain Water
-43. Multiply Strings
-44. Wildcard Matching
-45. Jump Game II
-46. Permutations
-47. Permutations II
-48. Rotate Image
-49. Group Anagrams
-51. N-Queens
-52. N-Queens II
-53. Maximum Subarray
-54. Spiral Matrix
-55. Jump Game
-56. Merge Intervals
-57. Insert Interval
-58. Length of Last Word
-59. Spiral Matrix II
-60. Permutation Sequence
-61. Rotate List
-62. Unique Paths
-63. Unique Paths II
-64. Minimum Path Sum
-65. Valid Number
-66. Plus One
-67. Add Binary
-68. Text Justification
-69. Sqrt(x)
-70. Climbing Stairs
-71. Simplify Path
-72. Edit Distance
-73. Set Matrix Zeroes
-74. Search a 2D Matrix
-75. Sort Colors
-76. Minimum Window Substring
-77. Combinations
-78. Subsets
-79. Word Search
-80. Remove Duplicates from Sorted Array II
-81. Search in Rotated Sorted Array II
-82. Remove Duplicates from Sorted List II
-83. Remove Duplicates from Sorted List
-84. Largest Rectangle in Histogram
-85. Maximal Rectangle
-86. Partition List
-87. Scramble String
-88. Merge Sorted Array
-89. Gray Code
-90. Subsets II
-91. Decode Ways
-92. Reverse Linked List II
-93. Restore IP Addresses
-94. Binary Tree Inorder Traversal
-95. Unique Binary Search Trees II
-96. Unique Binary Search Trees
-97. Interleaving String
-98. Validate Binary Search Tree
-99. Recover Binary Search Tree
-100. Same Tree
+Question,Tag
+63. Unique Paths II,Quickselect
+1. Two Sum,Quickselect
+2. Add Two Numbers,Quickselect
+3. Longest Substring Without Repeating Characters,Quickselect
+4. Median of Two Sorted Arrays,Quickselect
+5. Longest Palindromic Substring,Quickselect
+6. Zigzag Conversion,Quickselect
+7. Reverse Integer,Quickselect
+8. String to Integer (atoi),Quickselect
+9. Palindrome Number,Quickselect
+10. Regular Expression Matching,Quickselect
+11. Container With Most Water,Quickselect
+12. Integer to Roman,Quickselect
+13. Roman to Integer,Quickselect
+14. Longest Common Prefix,Quickselect
+15. 3Sum,Quickselect
+16. 3Sum Closest,Quickselect
+17. Letter Combinations of a Phone Number,Quickselect
+18. 4Sum,Quickselect
+19. Remove Nth Node From End of List,Quickselect
+20. Valid Parentheses,Quickselect
+21. Merge Two Sorted Lists,Quickselect
+22. Generate Parentheses,Quickselect
+23. Merge k Sorted Lists,Quickselect
+24. Swap Nodes in Pairs,Quickselect
+25. Reverse Nodes in k-Group,Quickselect
+26. Remove Duplicates from Sorted Array,Quickselect
+27. Remove Element,Quickselect
+28. Find the Index of the First Occurrence in a String,Quickselect
+29. Divide Two Integers,Quickselect
+30. Substring with Concatenation of All Words,Quickselect
+31. Next Permutation,Quickselect
+32. Longest Valid Parentheses,Quickselect
+33. Search in Rotated Sorted Array,Quickselect
+34. Find First and Last Position of Element in Sorted Array,Quickselect
+35. Search Insert Position,Quickselect
+36. Valid Sudoku,Quickselect
+37. Sudoku Solver,Quickselect
+38. Count and Say,Quickselect
+39. Combination Sum,Quickselect
+40. Combination Sum II,Quickselect
+41. First Missing Positive,Quickselect
+42. Trapping Rain Water,Quickselect
+43. Multiply Strings,Quickselect
+44. Wildcard Matching,Quickselect
+45. Jump Game II,Quickselect
+46. Permutations,Quickselect
+47. Permutations II,Quickselect
+48. Rotate Image,Quickselect
+49. Group Anagrams,Quickselect
+63. Unique Paths II,Quickselect
+1. Two Sum,Quickselect
+2. Add Two Numbers,Quickselect
+3. Longest Substring Without Repeating Characters,Quickselect
+4. Median of Two Sorted Arrays,Quickselect
+5. Longest Palindromic Substring,Quickselect
+6. Zigzag Conversion,Quickselect
+7. Reverse Integer,Quickselect
+8. String to Integer (atoi),Quickselect
+9. Palindrome Number,Quickselect
+10. Regular Expression Matching,Quickselect
+11. Container With Most Water,Quickselect
+12. Integer to Roman,Quickselect
+13. Roman to Integer,Quickselect
+14. Longest Common Prefix,Quickselect
+15. 3Sum,Quickselect
+16. 3Sum Closest,Quickselect
+17. Letter Combinations of a Phone Number,Quickselect
+18. 4Sum,Quickselect
+19. Remove Nth Node From End of List,Quickselect
+20. Valid Parentheses,Quickselect
+21. Merge Two Sorted Lists,Quickselect
+22. Generate Parentheses,Quickselect
+23. Merge k Sorted Lists,Quickselect
+24. Swap Nodes in Pairs,Quickselect
+25. Reverse Nodes in k-Group,Quickselect
+26. Remove Duplicates from Sorted Array,Quickselect
+27. Remove Element,Quickselect
+28. Find the Index of the First Occurrence in a String,Quickselect
+29. Divide Two Integers,Quickselect
+30. Substring with Concatenation of All Words,Quickselect
+31. Next Permutation,Quickselect
+32. Longest Valid Parentheses,Quickselect
+33. Search in Rotated Sorted Array,Quickselect
+34. Find First and Last Position of Element in Sorted Array,Quickselect
+35. Search Insert Position,Quickselect
+36. Valid Sudoku,Quickselect
+37. Sudoku Solver,Quickselect
+38. Count and Say,Quickselect
+39. Combination Sum,Quickselect
+40. Combination Sum II,Quickselect
+41. First Missing Positive,Quickselect
+42. Trapping Rain Water,Quickselect
+43. Multiply Strings,Quickselect
+44. Wildcard Matching,Quickselect
+45. Jump Game II,Quickselect
+46. Permutations,Quickselect
+47. Permutations II,Quickselect
+48. Rotate Image,Quickselect
+49. Group Anagrams,Quickselect
+51. N-Queens,Quickselect
+52. N-Queens II,Quickselect
+53. Maximum Subarray,Quickselect
+54. Spiral Matrix,Quickselect
+55. Jump Game,Quickselect
+56. Merge Intervals,Quickselect
+57. Insert Interval,Quickselect
+58. Length of Last Word,Quickselect
+59. Spiral Matrix II,Quickselect
+60. Permutation Sequence,Quickselect
+61. Rotate List,Quickselect
+62. Unique Paths,Quickselect
+63. Unique Paths II,Quickselect
+64. Minimum Path Sum,Quickselect
+65. Valid Number,Quickselect
+66. Plus One,Quickselect
+67. Add Binary,Quickselect
+68. Text Justification,Quickselect
+69. Sqrt(x),Quickselect
+70. Climbing Stairs,Quickselect
+71. Simplify Path,Quickselect
+72. Edit Distance,Quickselect
+73. Set Matrix Zeroes,Quickselect
+74. Search a 2D Matrix,Quickselect
+75. Sort Colors,Quickselect
+76. Minimum Window Substring,Quickselect
+77. Combinations,Quickselect
+78. Subsets,Quickselect
+79. Word Search,Quickselect
+80. Remove Duplicates from Sorted Array II,Quickselect
+81. Search in Rotated Sorted Array II,Quickselect
+82. Remove Duplicates from Sorted List II,Quickselect
+83. Remove Duplicates from Sorted List,Quickselect
+84. Largest Rectangle in Histogram,Quickselect
+85. Maximal Rectangle,Quickselect
+86. Partition List,Quickselect
+87. Scramble String,Quickselect
+88. Merge Sorted Array,Quickselect
+89. Gray Code,Quickselect
+90. Subsets II,Quickselect
+91. Decode Ways,Quickselect
+92. Reverse Linked List II,Quickselect
+93. Restore IP Addresses,Quickselect
+94. Binary Tree Inorder Traversal,Quickselect
+95. Unique Binary Search Trees II,Quickselect
+96. Unique Binary Search Trees,Quickselect
+97. Interleaving String,Quickselect
+98. Validate Binary Search Tree,Quickselect
+99. Recover Binary Search Tree,Quickselect
+100. Same Tree,Quickselect

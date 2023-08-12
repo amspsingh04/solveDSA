@@ -1,281 +1,281 @@
-Question
-63. Unique Paths II
-175. Combine Two Tables
-176. Second Highest Salary
-177. Nth Highest Salary
-178. Rank Scores
-180. Consecutive Numbers
-181. Employees Earning More Than Their Managers
-182. Duplicate Emails
-183. Customers Who Never Order
-184. Department Highest Salary
-185. Department Top Three Salaries
-196. Delete Duplicate Emails
-197. Rising Temperature
-262. Trips and Users
-511. Game Play Analysis I
-512. Game Play Analysis II
-534. Game Play Analysis III
-550. Game Play Analysis IV
-569. Median Employee Salary
-570. Managers with at Least 5 Direct Reports
-571. Find Median Given Frequency of Numbers
-574. Winning Candidate
-577. Employee Bonus
-578. Get Highest Answer Rate Question
-579. Find Cumulative Salary of an Employee
-580. Count Student Number in Departments
-584. Find Customer Referee
-585. Investments in 2016
-586. Customer Placing the Largest Number of Orders
-595. Big Countries
-596. Classes More Than 5 Students
-597. Friend Requests I: Overall Acceptance Rate
-601. Human Traffic of Stadium
-602. Friend Requests II: Who Has the Most Friends
-603. Consecutive Available Seats
-607. Sales Person
-608. Tree Node
-610. Triangle Judgement
-612. Shortest Distance in a Plane
-613. Shortest Distance in a Line
-614. Second Degree Follower
-615. Average Salary: Departments VS Company
-618. Students Report By Geography
-619. Biggest Single Number
-620. Not Boring Movies
-626. Exchange Seats
-627. Swap Salary
-1045. Customers Who Bought All Products
-1050. Actors and Directors Who Cooperated At Least Three Times
-1068. Product Sales Analysis I
-63. Unique Paths II
-175. Combine Two Tables
-176. Second Highest Salary
-177. Nth Highest Salary
-178. Rank Scores
-180. Consecutive Numbers
-181. Employees Earning More Than Their Managers
-182. Duplicate Emails
-183. Customers Who Never Order
-184. Department Highest Salary
-185. Department Top Three Salaries
-196. Delete Duplicate Emails
-197. Rising Temperature
-262. Trips and Users
-511. Game Play Analysis I
-512. Game Play Analysis II
-534. Game Play Analysis III
-550. Game Play Analysis IV
-569. Median Employee Salary
-570. Managers with at Least 5 Direct Reports
-571. Find Median Given Frequency of Numbers
-574. Winning Candidate
-577. Employee Bonus
-578. Get Highest Answer Rate Question
-579. Find Cumulative Salary of an Employee
-580. Count Student Number in Departments
-584. Find Customer Referee
-585. Investments in 2016
-586. Customer Placing the Largest Number of Orders
-595. Big Countries
-596. Classes More Than 5 Students
-597. Friend Requests I: Overall Acceptance Rate
-601. Human Traffic of Stadium
-602. Friend Requests II: Who Has the Most Friends
-603. Consecutive Available Seats
-607. Sales Person
-608. Tree Node
-610. Triangle Judgement
-612. Shortest Distance in a Plane
-613. Shortest Distance in a Line
-614. Second Degree Follower
-615. Average Salary: Departments VS Company
-618. Students Report By Geography
-619. Biggest Single Number
-620. Not Boring Movies
-626. Exchange Seats
-627. Swap Salary
-1045. Customers Who Bought All Products
-1050. Actors and Directors Who Cooperated At Least Three Times
-1068. Product Sales Analysis I
-1070. Product Sales Analysis III
-1075. Project Employees I
-1076. Project Employees II
-1077. Project Employees III
-1082. Sales Analysis I
-1083. Sales Analysis II
-1084. Sales Analysis III
-1097. Game Play Analysis V
-1098. Unpopular Books
-1107. New Users Daily Count
-1112. Highest Grade For Each Student
-1113. Reported Posts
-1126. Active Businesses
-1127. User Purchase Platform
-1132. Reported Posts II
-1141. User Activity for the Past 30 Days I
-1142. User Activity for the Past 30 Days II
-1148. Article Views I
-1149. Article Views II
-1158. Market Analysis I
-1159. Market Analysis II
-1164. Product Price at a Given Date
-1173. Immediate Food Delivery I
-1174. Immediate Food Delivery II
-1179. Reformat Department Table
-1193. Monthly Transactions I
-1194. Tournament Winners
-1204. Last Person to Fit in the Bus
-1205. Monthly Transactions II
-1211. Queries Quality and Percentage
-1212. Team Scores in Football Tournament
-1225. Report Contiguous Dates
-1241. Number of Comments per Post
-1251. Average Selling Price
-1264. Page Recommendations
-1270. All People Report to the Given Manager
-1280. Students and Examinations
-1285. Find the Start and End Number of Continuous Ranges
-1294. Weather Type in Each Country
-1303. Find the Team Size
-1308. Running Total for Different Genders
-1321. Restaurant Growth
-1322. Ads Performance
-1327. List the Products Ordered in a Period
-1336. Number of Transactions per Visit
-1341. Movie Rating
-1350. Students With Invalid Departments
-1355. Activity Participants
-1364. Number of Trusted Contacts of a Customer
-1369. Get the Second Most Recent Activity
-1378. Replace Employee ID With The Unique Identifier
-1384. Total Sales Amount by Year
-1393. Capital Gain/Loss
-1398. Customers Who Bought Products A and B but Not C
-1407. Top Travellers
-1412. Find the Quiet Students in All Exams
-1421. NPV Queries
-1435. Create a Session Bar Chart
-1440. Evaluate Boolean Expression
-1445. Apples & Oranges
-1454. Active Users
-1459. Rectangles Area
-1468. Calculate Salaries
-1479. Sales by Day of the Week
-1484. Group Sold Products By The Date
-1495. Friendly Movies Streamed Last Month
-1501. Countries You Can Safely Invest In
-1511. Customer Order Frequency
-1517. Find Users With Valid E-Mails
-1527. Patients With a Condition
-1532. The Most Recent Three Orders
-1543. Fix Product Name Format
-1549. The Most Recent Orders for Each Product
-1555. Bank Account Summary
-1565. Unique Orders and Customers Per Month
-1571. Warehouse Manager
-1581. Customer Who Visited but Did Not Make Any Transactions
-1587. Bank Account Summary II
-1596. The Most Frequently Ordered Products for Each Customer
-1607. Sellers With No Sales
-1613. Find the Missing IDs
-1623. All Valid Triplets That Can Represent a Country
-1633. Percentage of Users Attended a Contest
-1635. Hopper Company Queries I
-1645. Hopper Company Queries II
-1651. Hopper Company Queries III
-1661. Average Time of Process per Machine
-1667. Fix Names in a Table
-1677. Product's Worth Over Invoices
-1683. Invalid Tweets
-1693. Daily Leads and Partners
-1699. Number of Calls Between Two Persons
-1709. Biggest Window Between Visits
-1715. Count Apples and Oranges
-1729. Find Followers Count
-1731. The Number of Employees Which Report to Each Employee
-1741. Find Total Time Spent by Each Employee
-1747. Leetflex Banned Accounts
-1757. Recyclable and Low Fat Products
-1767. Find the Subtasks That Did Not Execute
-1777. Product's Price for Each Store
-1783. Grand Slam Titles
-1789. Primary Department for Each Employee
-1795. Rearrange Products Table
-1809. Ad-Free Sessions
-1811. Find Interview Candidates
-1821. Find Customers With Positive Revenue this Year
-1831. Maximum Transaction Each Day
-1841. League Statistics
-1843. Suspicious Bank Accounts
-1853. Convert Date Format
-1867. Orders With Maximum Quantity Above Average
-1873. Calculate Special Bonus
-1875. Group Employees of the Same Salary
-1890. The Latest Login in 2020
-1892. Page Recommendations II
-1907. Count Salary Categories
-1917. Leetcodify Friends Recommendations
-1919. Leetcodify Similar Friends
-1934. Confirmation Rate
-1939. Users That Actively Request Confirmation Messages
-1949. Strong Friendship
-1951. All the Pairs With the Maximum Number of Common Followers
-1965. Employees With Missing Information
-1972. First and Last Call On the Same Day
-1978. Employees Whose Manager Left the Company
-1988. Find Cutoff Score for Each School
-1990. Count the Number of Experiments
-2004. The Number of Seniors and Juniors to Join the Company
-2010. The Number of Seniors and Juniors to Join the Company II
-2020. Number of Accounts That Did Not Stream
-2026. Low-Quality Problems
-2041. Accepted Candidates From the Interviews
-2051. The Category of Each Member in the Store
-2066. Account Balance
-2072. The Winner University
-2082. The Number of Rich Customers
-2084. Drop Type 1 Orders for Customers With Type 0 Orders
-2112. The Airport With the Most Traffic
-2118. Build the Equation
-2142. The Number of Passengers in Each Bus I
-2153. The Number of Passengers in Each Bus II
-2159. Order Two Columns Independently
-2173. Longest Winning Streak
-2175. The Change in Global Rankings
-2199. Finding the Topic of Each Post
-2205. The Number of Users That Are Eligible for Discount
-2228. Users With Two Purchases Within Seven Days
-2230. The Users That Are Eligible for Discount
-2238. Number of Times a Driver Was a Passenger
-2252. Dynamic Pivoting of a Table
-2253. Dynamic Unpivoting of a Table
-2292. Products With Three or More Orders in Two Consecutive Years
-2298. Tasks Count in the Weekend
-2308. Arrange Table by Gender
-2314. The First Day of the Maximum Recorded Degree in Each City
-2324. Product Sales Analysis IV
-2329. Product Sales Analysis V
-2339. All the Matches of the League
-2346. Compute the Rank as a Percentage
-2356. Number of Unique Subjects Taught by Each Teacher
-2362. Generate the Invoice
-2372. Calculate the Influence of Each Salesperson
-2377. Sort the Olympic Table
-2388. Change Null Values in a Table to the Previous Value
-2394. Employees With Deductions
-2474. Customers With Strictly Increasing Purchases
-2480. Form a Chemical Bond
-2494. Merge Overlapping Events in the Same Hall
-2504. Concatenate the Name and the Profession
-2668. Find Latest Salaries
-2669. Count Artist Occurrences On Spotify Ranking List
-2686. Immediate Food Delivery III
-2687. Bikes Last Time Used
-2688. Find Active Users
-2701. Consecutive Transactions with Increasing Amounts
-2720. Popularity Percentage
-2738. Count Occurrences in Text
-2752. Customers with Maximum Number of Transactions on Consecutive Days
-2783. Flight Occupancy and Waitlist Analysis
+Question,Tag
+63. Unique Paths II,Database
+175. Combine Two Tables,Database
+176. Second Highest Salary,Database
+177. Nth Highest Salary,Database
+178. Rank Scores,Database
+180. Consecutive Numbers,Database
+181. Employees Earning More Than Their Managers,Database
+182. Duplicate Emails,Database
+183. Customers Who Never Order,Database
+184. Department Highest Salary,Database
+185. Department Top Three Salaries,Database
+196. Delete Duplicate Emails,Database
+197. Rising Temperature,Database
+262. Trips and Users,Database
+511. Game Play Analysis I,Database
+512. Game Play Analysis II,Database
+534. Game Play Analysis III,Database
+550. Game Play Analysis IV,Database
+569. Median Employee Salary,Database
+570. Managers with at Least 5 Direct Reports,Database
+571. Find Median Given Frequency of Numbers,Database
+574. Winning Candidate,Database
+577. Employee Bonus,Database
+578. Get Highest Answer Rate Question,Database
+579. Find Cumulative Salary of an Employee,Database
+580. Count Student Number in Departments,Database
+584. Find Customer Referee,Database
+585. Investments in 2016,Database
+586. Customer Placing the Largest Number of Orders,Database
+595. Big Countries,Database
+596. Classes More Than 5 Students,Database
+597. Friend Requests I: Overall Acceptance Rate,Database
+601. Human Traffic of Stadium,Database
+602. Friend Requests II: Who Has the Most Friends,Database
+603. Consecutive Available Seats,Database
+607. Sales Person,Database
+608. Tree Node,Database
+610. Triangle Judgement,Database
+612. Shortest Distance in a Plane,Database
+613. Shortest Distance in a Line,Database
+614. Second Degree Follower,Database
+615. Average Salary: Departments VS Company,Database
+618. Students Report By Geography,Database
+619. Biggest Single Number,Database
+620. Not Boring Movies,Database
+626. Exchange Seats,Database
+627. Swap Salary,Database
+1045. Customers Who Bought All Products,Database
+1050. Actors and Directors Who Cooperated At Least Three Times,Database
+1068. Product Sales Analysis I,Database
+63. Unique Paths II,Database
+175. Combine Two Tables,Database
+176. Second Highest Salary,Database
+177. Nth Highest Salary,Database
+178. Rank Scores,Database
+180. Consecutive Numbers,Database
+181. Employees Earning More Than Their Managers,Database
+182. Duplicate Emails,Database
+183. Customers Who Never Order,Database
+184. Department Highest Salary,Database
+185. Department Top Three Salaries,Database
+196. Delete Duplicate Emails,Database
+197. Rising Temperature,Database
+262. Trips and Users,Database
+511. Game Play Analysis I,Database
+512. Game Play Analysis II,Database
+534. Game Play Analysis III,Database
+550. Game Play Analysis IV,Database
+569. Median Employee Salary,Database
+570. Managers with at Least 5 Direct Reports,Database
+571. Find Median Given Frequency of Numbers,Database
+574. Winning Candidate,Database
+577. Employee Bonus,Database
+578. Get Highest Answer Rate Question,Database
+579. Find Cumulative Salary of an Employee,Database
+580. Count Student Number in Departments,Database
+584. Find Customer Referee,Database
+585. Investments in 2016,Database
+586. Customer Placing the Largest Number of Orders,Database
+595. Big Countries,Database
+596. Classes More Than 5 Students,Database
+597. Friend Requests I: Overall Acceptance Rate,Database
+601. Human Traffic of Stadium,Database
+602. Friend Requests II: Who Has the Most Friends,Database
+603. Consecutive Available Seats,Database
+607. Sales Person,Database
+608. Tree Node,Database
+610. Triangle Judgement,Database
+612. Shortest Distance in a Plane,Database
+613. Shortest Distance in a Line,Database
+614. Second Degree Follower,Database
+615. Average Salary: Departments VS Company,Database
+618. Students Report By Geography,Database
+619. Biggest Single Number,Database
+620. Not Boring Movies,Database
+626. Exchange Seats,Database
+627. Swap Salary,Database
+1045. Customers Who Bought All Products,Database
+1050. Actors and Directors Who Cooperated At Least Three Times,Database
+1068. Product Sales Analysis I,Database
+1070. Product Sales Analysis III,Database
+1075. Project Employees I,Database
+1076. Project Employees II,Database
+1077. Project Employees III,Database
+1082. Sales Analysis I,Database
+1083. Sales Analysis II,Database
+1084. Sales Analysis III,Database
+1097. Game Play Analysis V,Database
+1098. Unpopular Books,Database
+1107. New Users Daily Count,Database
+1112. Highest Grade For Each Student,Database
+1113. Reported Posts,Database
+1126. Active Businesses,Database
+1127. User Purchase Platform,Database
+1132. Reported Posts II,Database
+1141. User Activity for the Past 30 Days I,Database
+1142. User Activity for the Past 30 Days II,Database
+1148. Article Views I,Database
+1149. Article Views II,Database
+1158. Market Analysis I,Database
+1159. Market Analysis II,Database
+1164. Product Price at a Given Date,Database
+1173. Immediate Food Delivery I,Database
+1174. Immediate Food Delivery II,Database
+1179. Reformat Department Table,Database
+1193. Monthly Transactions I,Database
+1194. Tournament Winners,Database
+1204. Last Person to Fit in the Bus,Database
+1205. Monthly Transactions II,Database
+1211. Queries Quality and Percentage,Database
+1212. Team Scores in Football Tournament,Database
+1225. Report Contiguous Dates,Database
+1241. Number of Comments per Post,Database
+1251. Average Selling Price,Database
+1264. Page Recommendations,Database
+1270. All People Report to the Given Manager,Database
+1280. Students and Examinations,Database
+1285. Find the Start and End Number of Continuous Ranges,Database
+1294. Weather Type in Each Country,Database
+1303. Find the Team Size,Database
+1308. Running Total for Different Genders,Database
+1321. Restaurant Growth,Database
+1322. Ads Performance,Database
+1327. List the Products Ordered in a Period,Database
+1336. Number of Transactions per Visit,Database
+1341. Movie Rating,Database
+1350. Students With Invalid Departments,Database
+1355. Activity Participants,Database
+1364. Number of Trusted Contacts of a Customer,Database
+1369. Get the Second Most Recent Activity,Database
+1378. Replace Employee ID With The Unique Identifier,Database
+1384. Total Sales Amount by Year,Database
+1393. Capital Gain/Loss,Database
+1398. Customers Who Bought Products A and B but Not C,Database
+1407. Top Travellers,Database
+1412. Find the Quiet Students in All Exams,Database
+1421. NPV Queries,Database
+1435. Create a Session Bar Chart,Database
+1440. Evaluate Boolean Expression,Database
+1445. Apples & Oranges,Database
+1454. Active Users,Database
+1459. Rectangles Area,Database
+1468. Calculate Salaries,Database
+1479. Sales by Day of the Week,Database
+1484. Group Sold Products By The Date,Database
+1495. Friendly Movies Streamed Last Month,Database
+1501. Countries You Can Safely Invest In,Database
+1511. Customer Order Frequency,Database
+1517. Find Users With Valid E-Mails,Database
+1527. Patients With a Condition,Database
+1532. The Most Recent Three Orders,Database
+1543. Fix Product Name Format,Database
+1549. The Most Recent Orders for Each Product,Database
+1555. Bank Account Summary,Database
+1565. Unique Orders and Customers Per Month,Database
+1571. Warehouse Manager,Database
+1581. Customer Who Visited but Did Not Make Any Transactions,Database
+1587. Bank Account Summary II,Database
+1596. The Most Frequently Ordered Products for Each Customer,Database
+1607. Sellers With No Sales,Database
+1613. Find the Missing IDs,Database
+1623. All Valid Triplets That Can Represent a Country,Database
+1633. Percentage of Users Attended a Contest,Database
+1635. Hopper Company Queries I,Database
+1645. Hopper Company Queries II,Database
+1651. Hopper Company Queries III,Database
+1661. Average Time of Process per Machine,Database
+1667. Fix Names in a Table,Database
+1677. Product's Worth Over Invoices,Database
+1683. Invalid Tweets,Database
+1693. Daily Leads and Partners,Database
+1699. Number of Calls Between Two Persons,Database
+1709. Biggest Window Between Visits,Database
+1715. Count Apples and Oranges,Database
+1729. Find Followers Count,Database
+1731. The Number of Employees Which Report to Each Employee,Database
+1741. Find Total Time Spent by Each Employee,Database
+1747. Leetflex Banned Accounts,Database
+1757. Recyclable and Low Fat Products,Database
+1767. Find the Subtasks That Did Not Execute,Database
+1777. Product's Price for Each Store,Database
+1783. Grand Slam Titles,Database
+1789. Primary Department for Each Employee,Database
+1795. Rearrange Products Table,Database
+1809. Ad-Free Sessions,Database
+1811. Find Interview Candidates,Database
+1821. Find Customers With Positive Revenue this Year,Database
+1831. Maximum Transaction Each Day,Database
+1841. League Statistics,Database
+1843. Suspicious Bank Accounts,Database
+1853. Convert Date Format,Database
+1867. Orders With Maximum Quantity Above Average,Database
+1873. Calculate Special Bonus,Database
+1875. Group Employees of the Same Salary,Database
+1890. The Latest Login in 2020,Database
+1892. Page Recommendations II,Database
+1907. Count Salary Categories,Database
+1917. Leetcodify Friends Recommendations,Database
+1919. Leetcodify Similar Friends,Database
+1934. Confirmation Rate,Database
+1939. Users That Actively Request Confirmation Messages,Database
+1949. Strong Friendship,Database
+1951. All the Pairs With the Maximum Number of Common Followers,Database
+1965. Employees With Missing Information,Database
+1972. First and Last Call On the Same Day,Database
+1978. Employees Whose Manager Left the Company,Database
+1988. Find Cutoff Score for Each School,Database
+1990. Count the Number of Experiments,Database
+2004. The Number of Seniors and Juniors to Join the Company,Database
+2010. The Number of Seniors and Juniors to Join the Company II,Database
+2020. Number of Accounts That Did Not Stream,Database
+2026. Low-Quality Problems,Database
+2041. Accepted Candidates From the Interviews,Database
+2051. The Category of Each Member in the Store,Database
+2066. Account Balance,Database
+2072. The Winner University,Database
+2082. The Number of Rich Customers,Database
+2084. Drop Type 1 Orders for Customers With Type 0 Orders,Database
+2112. The Airport With the Most Traffic,Database
+2118. Build the Equation,Database
+2142. The Number of Passengers in Each Bus I,Database
+2153. The Number of Passengers in Each Bus II,Database
+2159. Order Two Columns Independently,Database
+2173. Longest Winning Streak,Database
+2175. The Change in Global Rankings,Database
+2199. Finding the Topic of Each Post,Database
+2205. The Number of Users That Are Eligible for Discount,Database
+2228. Users With Two Purchases Within Seven Days,Database
+2230. The Users That Are Eligible for Discount,Database
+2238. Number of Times a Driver Was a Passenger,Database
+2252. Dynamic Pivoting of a Table,Database
+2253. Dynamic Unpivoting of a Table,Database
+2292. Products With Three or More Orders in Two Consecutive Years,Database
+2298. Tasks Count in the Weekend,Database
+2308. Arrange Table by Gender,Database
+2314. The First Day of the Maximum Recorded Degree in Each City,Database
+2324. Product Sales Analysis IV,Database
+2329. Product Sales Analysis V,Database
+2339. All the Matches of the League,Database
+2346. Compute the Rank as a Percentage,Database
+2356. Number of Unique Subjects Taught by Each Teacher,Database
+2362. Generate the Invoice,Database
+2372. Calculate the Influence of Each Salesperson,Database
+2377. Sort the Olympic Table,Database
+2388. Change Null Values in a Table to the Previous Value,Database
+2394. Employees With Deductions,Database
+2474. Customers With Strictly Increasing Purchases,Database
+2480. Form a Chemical Bond,Database
+2494. Merge Overlapping Events in the Same Hall,Database
+2504. Concatenate the Name and the Profession,Database
+2668. Find Latest Salaries,Database
+2669. Count Artist Occurrences On Spotify Ranking List,Database
+2686. Immediate Food Delivery III,Database
+2687. Bikes Last Time Used,Database
+2688. Find Active Users,Database
+2701. Consecutive Transactions with Increasing Amounts,Database
+2720. Popularity Percentage,Database
+2738. Count Occurrences in Text,Database
+2752. Customers with Maximum Number of Transactions on Consecutive Days,Database
+2783. Flight Occupancy and Waitlist Analysis,Database
