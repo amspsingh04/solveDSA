@@ -1,151 +1,128 @@
 Question,Tag
-63. Unique Paths II,Union Find
-1. Two Sum,Union Find
-2. Add Two Numbers,Union Find
-3. Longest Substring Without Repeating Characters,Union Find
-4. Median of Two Sorted Arrays,Union Find
-5. Longest Palindromic Substring,Union Find
-6. Zigzag Conversion,Union Find
-7. Reverse Integer,Union Find
-8. String to Integer (atoi),Union Find
-9. Palindrome Number,Union Find
-10. Regular Expression Matching,Union Find
-11. Container With Most Water,Union Find
-12. Integer to Roman,Union Find
-13. Roman to Integer,Union Find
-14. Longest Common Prefix,Union Find
-15. 3Sum,Union Find
-16. 3Sum Closest,Union Find
-17. Letter Combinations of a Phone Number,Union Find
-18. 4Sum,Union Find
-19. Remove Nth Node From End of List,Union Find
-20. Valid Parentheses,Union Find
-21. Merge Two Sorted Lists,Union Find
-22. Generate Parentheses,Union Find
-23. Merge k Sorted Lists,Union Find
-24. Swap Nodes in Pairs,Union Find
-25. Reverse Nodes in k-Group,Union Find
-26. Remove Duplicates from Sorted Array,Union Find
-27. Remove Element,Union Find
-28. Find the Index of the First Occurrence in a String,Union Find
-29. Divide Two Integers,Union Find
-30. Substring with Concatenation of All Words,Union Find
-31. Next Permutation,Union Find
-32. Longest Valid Parentheses,Union Find
-33. Search in Rotated Sorted Array,Union Find
-34. Find First and Last Position of Element in Sorted Array,Union Find
-35. Search Insert Position,Union Find
-36. Valid Sudoku,Union Find
-37. Sudoku Solver,Union Find
-38. Count and Say,Union Find
-39. Combination Sum,Union Find
-40. Combination Sum II,Union Find
-41. First Missing Positive,Union Find
-42. Trapping Rain Water,Union Find
-43. Multiply Strings,Union Find
-44. Wildcard Matching,Union Find
-45. Jump Game II,Union Find
-46. Permutations,Union Find
-47. Permutations II,Union Find
-48. Rotate Image,Union Find
-49. Group Anagrams,Union Find
-63. Unique Paths II,Union Find
-1. Two Sum,Union Find
-2. Add Two Numbers,Union Find
-3. Longest Substring Without Repeating Characters,Union Find
-4. Median of Two Sorted Arrays,Union Find
-5. Longest Palindromic Substring,Union Find
-6. Zigzag Conversion,Union Find
-7. Reverse Integer,Union Find
-8. String to Integer (atoi),Union Find
-9. Palindrome Number,Union Find
-10. Regular Expression Matching,Union Find
-11. Container With Most Water,Union Find
-12. Integer to Roman,Union Find
-13. Roman to Integer,Union Find
-14. Longest Common Prefix,Union Find
-15. 3Sum,Union Find
-16. 3Sum Closest,Union Find
-17. Letter Combinations of a Phone Number,Union Find
-18. 4Sum,Union Find
-19. Remove Nth Node From End of List,Union Find
-20. Valid Parentheses,Union Find
-21. Merge Two Sorted Lists,Union Find
-22. Generate Parentheses,Union Find
-23. Merge k Sorted Lists,Union Find
-24. Swap Nodes in Pairs,Union Find
-25. Reverse Nodes in k-Group,Union Find
-26. Remove Duplicates from Sorted Array,Union Find
-27. Remove Element,Union Find
-28. Find the Index of the First Occurrence in a String,Union Find
-29. Divide Two Integers,Union Find
-30. Substring with Concatenation of All Words,Union Find
-31. Next Permutation,Union Find
-32. Longest Valid Parentheses,Union Find
-33. Search in Rotated Sorted Array,Union Find
-34. Find First and Last Position of Element in Sorted Array,Union Find
-35. Search Insert Position,Union Find
-36. Valid Sudoku,Union Find
-37. Sudoku Solver,Union Find
-38. Count and Say,Union Find
-39. Combination Sum,Union Find
-40. Combination Sum II,Union Find
-41. First Missing Positive,Union Find
-42. Trapping Rain Water,Union Find
-43. Multiply Strings,Union Find
-44. Wildcard Matching,Union Find
-45. Jump Game II,Union Find
-46. Permutations,Union Find
-47. Permutations II,Union Find
-48. Rotate Image,Union Find
-49. Group Anagrams,Union Find
-51. N-Queens,Union Find
-52. N-Queens II,Union Find
-53. Maximum Subarray,Union Find
-54. Spiral Matrix,Union Find
-55. Jump Game,Union Find
-56. Merge Intervals,Union Find
-57. Insert Interval,Union Find
-58. Length of Last Word,Union Find
-59. Spiral Matrix II,Union Find
-60. Permutation Sequence,Union Find
-61. Rotate List,Union Find
-62. Unique Paths,Union Find
-63. Unique Paths II,Union Find
-64. Minimum Path Sum,Union Find
-65. Valid Number,Union Find
-66. Plus One,Union Find
-67. Add Binary,Union Find
-68. Text Justification,Union Find
-69. Sqrt(x),Union Find
-70. Climbing Stairs,Union Find
-71. Simplify Path,Union Find
-72. Edit Distance,Union Find
-73. Set Matrix Zeroes,Union Find
-74. Search a 2D Matrix,Union Find
-75. Sort Colors,Union Find
-76. Minimum Window Substring,Union Find
-77. Combinations,Union Find
-78. Subsets,Union Find
-79. Word Search,Union Find
-80. Remove Duplicates from Sorted Array II,Union Find
-81. Search in Rotated Sorted Array II,Union Find
-82. Remove Duplicates from Sorted List II,Union Find
-83. Remove Duplicates from Sorted List,Union Find
-84. Largest Rectangle in Histogram,Union Find
-85. Maximal Rectangle,Union Find
-86. Partition List,Union Find
-87. Scramble String,Union Find
-88. Merge Sorted Array,Union Find
-89. Gray Code,Union Find
-90. Subsets II,Union Find
-91. Decode Ways,Union Find
-92. Reverse Linked List II,Union Find
-93. Restore IP Addresses,Union Find
-94. Binary Tree Inorder Traversal,Union Find
-95. Unique Binary Search Trees II,Union Find
-96. Unique Binary Search Trees,Union Find
-97. Interleaving String,Union Find
-98. Validate Binary Search Tree,Union Find
-99. Recover Binary Search Tree,Union Find
-100. Same Tree,Union Find
+Check if There is a Valid Partition For The Array,union-find
+Longest Consecutive Sequence,union-find
+Surrounded Regions,union-find
+Number of Islands,union-find
+Graph Valid Tree,union-find
+Number of Islands II,union-find
+Number of Connected Components in an Undirected Graph,union-find
+Evaluate Division,union-find
+Number of Provinces,union-find
+Redundant Connection,union-find
+Redundant Connection II,union-find
+Number of Distinct Islands,union-find
+Max Area of Island,union-find
+Number of Distinct Islands II,union-find
+Accounts Merge,union-find
+Sentence Similarity II,union-find
+Couples Holding Hands,union-find
+Swim in Rising Water,union-find
+Is Graph Bipartite?,union-find
+Bricks Falling When Hit,union-find
+Making A Large Island,union-find
+Similar String Groups,union-find
+Possible Bipartition,union-find
+Minimize Malware Spread,union-find
+Minimize Malware Spread II,union-find
+Most Stones Removed with Same Row or Column,union-find
+Largest Component Size by Common Factor,union-find
+Regions Cut By Slashes,union-find
+Satisfiability of Equality Equations,union-find
+Number of Enclaves,union-find
+Lexicographically Smallest Equivalent String,union-find
+The Earliest Moment When Everyone Become Friends,union-find
+Path With Maximum Minimum Value,union-find
+Connecting Cities With Minimum Cost,union-find
+Optimize Water Distribution in a Village,union-find
+Smallest String With Swaps,union-find
+Number of Closed Islands,union-find
+Synonymous Sentences,union-find
+Count Servers that Communicate,union-find
+Number of Operations to Make Network Connected,union-find
+Validate Binary Tree Nodes,union-find
+Check if There is a Valid Path in a Grid,union-find
+Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree,union-find
+Detect Cycles in 2D Grid,union-find
+Number of Ways to Reorder Array to Get Same BST,union-find
+Remove Max Number of Edges to Keep Graph Fully Traversable,union-find
+Min Cost to Connect All Points,union-find
+Graph Connectivity With Threshold,union-find
+Path With Minimum Effort,union-find
+Rank Transform of a Matrix,union-find
+Check if There is a Valid Partition For The Array,union-find
+Longest Consecutive Sequence,union-find
+Surrounded Regions,union-find
+Number of Islands,union-find
+Graph Valid Tree,union-find
+Number of Islands II,union-find
+Number of Connected Components in an Undirected Graph,union-find
+Evaluate Division,union-find
+Number of Provinces,union-find
+Redundant Connection,union-find
+Redundant Connection II,union-find
+Number of Distinct Islands,union-find
+Max Area of Island,union-find
+Number of Distinct Islands II,union-find
+Accounts Merge,union-find
+Sentence Similarity II,union-find
+Couples Holding Hands,union-find
+Swim in Rising Water,union-find
+Is Graph Bipartite?,union-find
+Bricks Falling When Hit,union-find
+Making A Large Island,union-find
+Similar String Groups,union-find
+Possible Bipartition,union-find
+Minimize Malware Spread,union-find
+Minimize Malware Spread II,union-find
+Most Stones Removed with Same Row or Column,union-find
+Largest Component Size by Common Factor,union-find
+Regions Cut By Slashes,union-find
+Satisfiability of Equality Equations,union-find
+Number of Enclaves,union-find
+Lexicographically Smallest Equivalent String,union-find
+The Earliest Moment When Everyone Become Friends,union-find
+Path With Maximum Minimum Value,union-find
+Connecting Cities With Minimum Cost,union-find
+Optimize Water Distribution in a Village,union-find
+Smallest String With Swaps,union-find
+Number of Closed Islands,union-find
+Synonymous Sentences,union-find
+Count Servers that Communicate,union-find
+Number of Operations to Make Network Connected,union-find
+Validate Binary Tree Nodes,union-find
+Check if There is a Valid Path in a Grid,union-find
+Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree,union-find
+Detect Cycles in 2D Grid,union-find
+Number of Ways to Reorder Array to Get Same BST,union-find
+Remove Max Number of Edges to Keep Graph Fully Traversable,union-find
+Min Cost to Connect All Points,union-find
+Graph Connectivity With Threshold,union-find
+Path With Minimum Effort,union-find
+Rank Transform of a Matrix,union-find
+Minimize Hamming Distance After Swap Operations,union-find
+Checking Existence of Edge Length Limited Paths II,union-find
+Count Sub Islands,union-find
+Last Day Where You Can Still Cross,union-find
+Find if Path Exists in Graph,union-find
+GCD Sort of an Array,union-find
+Smallest Missing Genetic Value in Each Subtree,union-find
+Process Restricted Friend Requests,union-find
+Find All People With Secret,union-find
+Groups of Strings,union-find
+Distance to a Cycle in Undirected Graph,union-find
+Check for Contradictions in Equations,union-find
+Count Unreachable Pairs of Nodes in an Undirected Graph,union-find
+Subarray With Elements Greater Than Varying Threshold,union-find
+Minimize Maximum Value in a Grid,union-find
+Maximum Segment Sum After Removals,union-find
+Number of Good Paths,union-find
+Longest Uploaded Prefix,union-find
+Minimum Score of a Path Between Two Cities,union-find
+Divide Nodes Into the Maximum Number of Groups,union-find
+Maximum Number of Points From Grid Queries,union-find
+Find the String with LCP,union-find
+Minimum Number of Visited Cells in a Grid,union-find
+Maximum Number of Fish in a Grid,union-find
+Greatest Common Divisor Traversal,union-find
+Number of Unique Categories,union-find
+Find the Safest Path in a Grid,union-find

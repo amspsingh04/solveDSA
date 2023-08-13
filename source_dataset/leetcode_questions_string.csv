@@ -1,679 +1,679 @@
 Question,Tag
-63. Unique Paths II,String
-3. Longest Substring Without Repeating Characters,String
-5. Longest Palindromic Substring,String
-6. Zigzag Conversion,String
-8. String to Integer (atoi),String
-10. Regular Expression Matching,String
-12. Integer to Roman,String
-13. Roman to Integer,String
-14. Longest Common Prefix,String
-17. Letter Combinations of a Phone Number,String
-20. Valid Parentheses,String
-22. Generate Parentheses,String
-28. Find the Index of the First Occurrence in a String,String
-30. Substring with Concatenation of All Words,String
-32. Longest Valid Parentheses,String
-38. Count and Say,String
-43. Multiply Strings,String
-44. Wildcard Matching,String
-49. Group Anagrams,String
-58. Length of Last Word,String
-65. Valid Number,String
-67. Add Binary,String
-68. Text Justification,String
-71. Simplify Path,String
-72. Edit Distance,String
-76. Minimum Window Substring,String
-87. Scramble String,String
-91. Decode Ways,String
-93. Restore IP Addresses,String
-97. Interleaving String,String
-115. Distinct Subsequences,String
-125. Valid Palindrome,String
-126. Word Ladder II,String
-127. Word Ladder,String
-131. Palindrome Partitioning,String
-132. Palindrome Partitioning II,String
-139. Word Break,String
-140. Word Break II,String
-151. Reverse Words in a String,String
-157. Read N Characters Given Read4,String
-158. Read N Characters Given read4 II - Call Multiple Times,String
-159. Longest Substring with At Most Two Distinct Characters,String
-161. One Edit Distance,String
-165. Compare Version Numbers,String
-166. Fraction to Recurring Decimal,String
-168. Excel Sheet Column Title,String
-171. Excel Sheet Column Number,String
-179. Largest Number,String
-186. Reverse Words in a String II,String
-187. Repeated DNA Sequences,String
-63. Unique Paths II,String
-3. Longest Substring Without Repeating Characters,String
-5. Longest Palindromic Substring,String
-6. Zigzag Conversion,String
-8. String to Integer (atoi),String
-10. Regular Expression Matching,String
-12. Integer to Roman,String
-13. Roman to Integer,String
-14. Longest Common Prefix,String
-17. Letter Combinations of a Phone Number,String
-20. Valid Parentheses,String
-22. Generate Parentheses,String
-28. Find the Index of the First Occurrence in a String,String
-30. Substring with Concatenation of All Words,String
-32. Longest Valid Parentheses,String
-38. Count and Say,String
-43. Multiply Strings,String
-44. Wildcard Matching,String
-49. Group Anagrams,String
-58. Length of Last Word,String
-65. Valid Number,String
-67. Add Binary,String
-68. Text Justification,String
-71. Simplify Path,String
-72. Edit Distance,String
-76. Minimum Window Substring,String
-87. Scramble String,String
-91. Decode Ways,String
-93. Restore IP Addresses,String
-97. Interleaving String,String
-115. Distinct Subsequences,String
-125. Valid Palindrome,String
-126. Word Ladder II,String
-127. Word Ladder,String
-131. Palindrome Partitioning,String
-132. Palindrome Partitioning II,String
-139. Word Break,String
-140. Word Break II,String
-151. Reverse Words in a String,String
-157. Read N Characters Given Read4,String
-158. Read N Characters Given read4 II - Call Multiple Times,String
-159. Longest Substring with At Most Two Distinct Characters,String
-161. One Edit Distance,String
-165. Compare Version Numbers,String
-166. Fraction to Recurring Decimal,String
-168. Excel Sheet Column Title,String
-171. Excel Sheet Column Number,String
-179. Largest Number,String
-186. Reverse Words in a String II,String
-187. Repeated DNA Sequences,String
-208. Implement Trie (Prefix Tree),String
-211. Design Add and Search Words Data Structure,String
-212. Word Search II,String
-214. Shortest Palindrome,String
-224. Basic Calculator,String
-227. Basic Calculator II,String
-241. Different Ways to Add Parentheses,String
-242. Valid Anagram,String
-243. Shortest Word Distance,String
-244. Shortest Word Distance II,String
-245. Shortest Word Distance III,String
-246. Strobogrammatic Number,String
-247. Strobogrammatic Number II,String
-248. Strobogrammatic Number III,String
-249. Group Shifted Strings,String
-257. Binary Tree Paths,String
-266. Palindrome Permutation,String
-267. Palindrome Permutation II,String
-269. Alien Dictionary,String
-271. Encode and Decode Strings,String
-273. Integer to English Words,String
-282. Expression Add Operators,String
-288. Unique Word Abbreviation,String
-290. Word Pattern,String
-291. Word Pattern II,String
-293. Flip Game,String
-297. Serialize and Deserialize Binary Tree,String
-299. Bulls and Cows,String
-301. Remove Invalid Parentheses,String
-306. Additive Number,String
-316. Remove Duplicate Letters,String
-318. Maximum Product of Word Lengths,String
-320. Generalized Abbreviation,String
-331. Verify Preorder Serialization of a Binary Tree,String
-336. Palindrome Pairs,String
-340. Longest Substring with At Most K Distinct Characters,String
-344. Reverse String,String
-345. Reverse Vowels of a String,String
-358. Rearrange String k Distance Apart,String
-383. Ransom Note,String
-385. Mini Parser,String
-387. First Unique Character in a String,String
-388. Longest Absolute File Path,String
-389. Find the Difference,String
-392. Is Subsequence,String
-394. Decode String,String
-395. Longest Substring with At Least K Repeating Characters,String
-402. Remove K Digits,String
-408. Valid Word Abbreviation,String
-409. Longest Palindrome,String
-411. Minimum Unique Word Abbreviation,String
-412. Fizz Buzz,String
-415. Add Strings,String
-418. Sentence Screen Fitting,String
-420. Strong Password Checker,String
-423. Reconstruct Original Digits from English,String
-424. Longest Repeating Character Replacement,String
-425. Word Squares,String
-428. Serialize and Deserialize N-ary Tree,String
-433. Minimum Genetic Mutation,String
-434. Number of Segments in a String,String
-438. Find All Anagrams in a String,String
-439. Ternary Expression Parser,String
-443. String Compression,String
-449. Serialize and Deserialize BST,String
-451. Sort Characters By Frequency,String
-459. Repeated Substring Pattern,String
-466. Count The Repetitions,String
-467. Unique Substrings in Wraparound String,String
-468. Validate IP Address,String
-471. Encode String with Shortest Length,String
-472. Concatenated Words,String
-474. Ones and Zeroes,String
-481. Magical String,String
-482. License Key Formatting,String
-484. Find Permutation,String
-488. Zuma Game,String
-500. Keyboard Row,String
-514. Freedom Trail,String
-516. Longest Palindromic Subsequence,String
-520. Detect Capital,String
-521. Longest Uncommon Subsequence I,String
-522. Longest Uncommon Subsequence II,String
-524. Longest Word in Dictionary through Deleting,String
-527. Word Abbreviation,String
-535. Encode and Decode TinyURL,String
-536. Construct Binary Tree from String,String
-537. Complex Number Multiplication,String
-539. Minimum Time Difference,String
-541. Reverse String II,String
-544. Output Contest Matches,String
-551. Student Attendance Record I,String
-555. Split Concatenated Strings,String
-556. Next Greater Element III,String
-557. Reverse Words in a String III,String
-564. Find the Closest Palindrome,String
-567. Permutation in String,String
-583. Delete Operation for Two Strings,String
-588. Design In-Memory File System,String
-591. Tag Validator,String
-592. Fraction Addition and Subtraction,String
-599. Minimum Index Sum of Two Lists,String
-604. Design Compressed String Iterator,String
-606. Construct String from Binary Tree,String
-609. Find Duplicate File in System,String
-616. Add Bold Tag in String,String
-635. Design Log Storage System,String
-639. Decode Ways II,String
-640. Solve the Equation,String
-642. Design Search Autocomplete System,String
-647. Palindromic Substrings,String
-648. Replace Words,String
-649. Dota2 Senate,String
-657. Robot Return to Origin,String
-664. Strange Printer,String
-676. Implement Magic Dictionary,String
-677. Map Sum Pairs,String
-678. Valid Parenthesis String,String
-680. Valid Palindrome II,String
-681. Next Closest Time,String
-686. Repeated String Match,String
-691. Stickers to Spell Word,String
-692. Top K Frequent Words,String
-696. Count Binary Substrings,String
-709. To Lower Case,String
-712. Minimum ASCII Delete Sum for Two Strings,String
-720. Longest Word in Dictionary,String
-721. Accounts Merge,String
-722. Remove Comments,String
-726. Number of Atoms,String
-727. Minimum Window Subsequence,String
-730. Count Different Palindromic Subsequences,String
-734. Sentence Similarity,String
-736. Parse Lisp Expression,String
-737. Sentence Similarity II,String
-745. Prefix and Suffix Search,String
-748. Shortest Completing Word,String
-751. IP to CIDR,String
-752. Open the Lock,String
-758. Bold Words in String,String
-761. Special Binary String,String
-763. Partition Labels,String
-767. Reorganize String,String
-770. Basic Calculator IV,String
-771. Jewels and Stones,String
-772. Basic Calculator III,String
-777. Swap Adjacent in LR String,String
-784. Letter Case Permutation,String
-791. Custom Sort String,String
-792. Number of Matching Subsequences,String
-794. Valid Tic-Tac-Toe State,String
-796. Rotate String,String
-800. Similar RGB Color,String
-804. Unique Morse Code Words,String
-806. Number of Lines To Write String,String
-809. Expressive Words,String
-811. Subdomain Visit Count,String
-816. Ambiguous Coordinates,String
-819. Most Common Word,String
-820. Short Encoding of Words,String
-821. Shortest Distance to a Character,String
-824. Goat Latin,String
-828. Count Unique Characters of All Substrings of a Given String,String
-830. Positions of Large Groups,String
-831. Masking Personal Information,String
-833. Find And Replace in String,String
-838. Push Dominoes,String
-839. Similar String Groups,String
-842. Split Array into Fibonacci Sequence,String
-843. Guess the Word,String
-844. Backspace String Compare,String
-848. Shifting Letters,String
-854. K-Similar Strings,String
-856. Score of Parentheses,String
-859. Buddy Strings,String
-880. Decoded String at Index,String
-884. Uncommon Words from Two Sentences,String
-890. Find and Replace Pattern,String
-893. Groups of Special-Equivalent Strings,String
-899. Orderly Queue,String
-902. Numbers At Most N Given Digit Set,String
-903. Valid Permutations for DI Sequence,String
-916. Word Subsets,String
-917. Reverse Only Letters,String
-921. Minimum Add to Make Parentheses Valid,String
-925. Long Pressed Name,String
-926. Flip String to Monotone Increasing,String
-929. Unique Email Addresses,String
-936. Stamping The Sequence,String
-937. Reorder Data in Log Files,String
-940. Distinct Subsequences II,String
-942. DI String Match,String
-943. Find the Shortest Superstring,String
-944. Delete Columns to Make Sorted,String
-949. Largest Time for Given Digits,String
-953. Verifying an Alien Dictionary,String
-955. Delete Columns to Make Sorted II,String
-960. Delete Columns to Make Sorted III,String
-966. Vowel Spellchecker,String
-972. Equal Rational Numbers,String
-981. Time Based Key-Value Store,String
-984. String Without AAA or BBB,String
-988. Smallest String Starting From Leaf,String
-990. Satisfiability of Equality Equations,String
-1002. Find Common Characters,String
-1003. Check If Word Is Valid After Substitutions,String
-1016. Binary String With Substrings Representing 1 To N,String
-1021. Remove Outermost Parentheses,String
-1023. Camelcase Matching,String
-1028. Recover a Tree From Preorder Traversal,String
-1032. Stream of Characters,String
-1041. Robot Bounded In Circle,String
-1044. Longest Duplicate Substring,String
-1047. Remove All Adjacent Duplicates In String,String
-1048. Longest String Chain,String
-1055. Shortest Way to Form String,String
-1058. Minimize Rounding Error to Meet Target,String
-1061. Lexicographically Smallest Equivalent String,String
-1062. Longest Repeating Substring,String
-1065. Index Pairs of a String,String
-1071. Greatest Common Divisor of Strings,String
-1078. Occurrences After Bigram,String
-1079. Letter Tile Possibilities,String
-1081. Smallest Subsequence of Distinct Characters,String
-1087. Brace Expansion,String
-1092. Shortest Common Supersequence,String
-1096. Brace Expansion II,String
-1100. Find K-Length Substrings With No Repeated Characters,String
-1106. Parsing A Boolean Expression,String
-1108. Defanging an IP Address,String
-1111. Maximum Nesting Depth of Two Valid Parentheses Strings,String
-1119. Remove Vowels from a String,String
-1138. Alphabet Board Path,String
-1143. Longest Common Subsequence,String
-1147. Longest Chunked Palindrome Decomposition,String
-1153. String Transforms Into Another String,String
-1154. Day of the Year,String
-1156. Swap For Longest Repeated Character Substring,String
-1160. Find Words That Can Be Formed by Characters,String
-1163. Last Substring in Lexicographical Order,String
-1165. Single-Row Keyboard,String
-1166. Design File System,String
-1169. Invalid Transactions,String
-1170. Compare Strings by Frequency of the Smallest Character,String
-1177. Can Make Palindrome from Substring,String
-1178. Number of Valid Words for Each Puzzle,String
-1180. Count Substrings with Only One Distinct Letter,String
-1181. Before and After Puzzle,String
-1189. Maximum Number of Balloons,String
-1190. Reverse Substrings Between Each Pair of Parentheses,String
-1202. Smallest String With Swaps,String
-1208. Get Equal Substrings Within Budget,String
-1209. Remove All Adjacent Duplicates in String II,String
-1216. Valid Palindrome III,String
-1221. Split a String in Balanced Strings,String
-1233. Remove Sub-Folders from the Filesystem,String
-1234. Replace the Substring for Balanced String,String
-1236. Web Crawler,String
-1239. Maximum Length of a Concatenated String with Unique Characters,String
-1247. Minimum Swaps to Make Strings Equal,String
-1249. Minimum Remove to Make Valid Parentheses,String
-1255. Maximum Score Words Formed by Letters,String
-1256. Encode Number,String
-1257. Smallest Common Region,String
-1258. Synonymous Sentences,String
-1268. Search Suggestions System,String
-1271. Hexspeak,String
-1278. Palindrome Partitioning III,String
-1286. Iterator for Combination,String
-1297. Maximum Number of Occurrences of a Substring,String
-1307. Verbal Arithmetic Puzzle,String
-1309. Decrypt String from Alphabet to Integer Mapping,String
-1312. Minimum Insertion Steps to Make a String Palindrome,String
-1316. Distinct Echo Substrings,String
-1320. Minimum Distance to Type a Word Using Two Fingers,String
-1324. Print Words Vertically,String
-1328. Break a Palindrome,String
-1332. Remove Palindromic Subsequences,String
-1347. Minimum Number of Steps to Make Two Strings Anagram,String
-1358. Number of Substrings Containing All Three Characters,String
-1360. Number of Days Between Two Dates,String
-1366. Rank Teams by Votes,String
-1370. Increasing Decreasing String,String
-1371. Find the Longest Substring Containing Vowels in Even Counts,String
-1374. Generate a String With Characters That Have Odd Counts,String
-1392. Longest Happy Prefix,String
-1396. Design Underground System,String
-1397. Find All Good Strings,String
-1400. Construct K Palindrome Strings,String
-1404. Number of Steps to Reduce a Number in Binary Representation to One,String
-1405. Longest Happy String,String
-1408. String Matching in an Array,String
-1410. HTML Entity Parser,String
-1415. The k-th Lexicographical String of All Happy Strings of Length n,String
-1416. Restore The Array,String
-1417. Reformat The String,String
-1418. Display Table of Food Orders in a Restaurant,String
-1419. Minimum Number of Frogs Croaking,String
-1422. Maximum Score After Splitting a String,String
-1427. Perform String Shifts,String
-1433. Check If a String Can Break Another String,String
-1436. Destination City,String
-1446. Consecutive Characters,String
-1447. Simplified Fractions,String
-1451. Rearrange Words in a Sentence,String
-1452. People Whose List of Favorite Companies Is Not a Subset of Another List,String
-1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence,String
-1456. Maximum Number of Vowels in a Substring of Given Length,String
-1461. Check If a String Contains All Binary Codes of Size K,String
-1487. Making File Names Unique,String
-1496. Path Crossing,String
-1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits,String
-1507. Reformat Date,String
-1513. Number of Substrings With Only 1s,String
-1520. Maximum Number of Non-Overlapping Substrings,String
-1525. Number of Good Ways to Split a String,String
-1528. Shuffle String,String
-1529. Minimum Suffix Flips,String
-1531. String Compression II,String
-1540. Can Convert String in K Moves,String
-1541. Minimum Insertions to Balance a Parentheses String,String
-1542. Find Longest Awesome Substring,String
-1544. Make The String Great,String
-1545. Find Kth Bit in Nth Binary String,String
-1554. Strings Differ by One Character,String
-1556. Thousand Separator,String
-1573. Number of Ways to Split a String,String
-1576. Replace All ?'s to Avoid Consecutive Repeating Characters,String
-1578. Minimum Time to Make Rope Colorful,String
-1585. Check If String Is Transformable With Substring Sort Operations,String
-1592. Rearrange Spaces Between Words,String
-1593. Split a String Into the Max Number of Unique Substrings,String
-1597. Build Binary Expression Tree From Infix Expression,String
-1598. Crawler Log Folder,String
-1604. Alert Using Same Key-Card Three or More Times in a One Hour Period,String
-1614. Maximum Nesting Depth of the Parentheses,String
-1616. Split Two Strings to Make Palindrome,String
-1618. Maximum Font to Fit a Sentence in a Screen,String
-1624. Largest Substring Between Two Equal Characters,String
-1625. Lexicographically Smallest String After Applying Operations,String
-1629. Slowest Key,String
-1638. Count Substrings That Differ by One Character,String
-1639. Number of Ways to Form a Target String Given a Dictionary,String
-1647. Minimum Deletions to Make Character Frequencies Unique,String
-1653. Minimum Deletions to Make String Balanced,String
-1657. Determine if Two Strings Are Close,String
-1662. Check If Two String Arrays are Equivalent,String
-1663. Smallest String With A Given Numeric Value,String
-1668. Maximum Repeating Substring,String
-1678. Goal Parser Interpretation,String
-1682. Longest Palindromic Subsequence II,String
-1684. Count the Number of Consistent Strings,String
-1689. Partitioning Into Minimum Number Of Deci-Binary Numbers,String
-1694. Reformat Phone Number,String
-1698. Number of Distinct Substrings in a String,String
-1702. Maximum Binary String After Change,String
-1704. Determine if String Halves Are Alike,String
-1717. Maximum Score From Removing Substrings,String
-1736. Latest Time by Replacing Hidden Digits,String
-1737. Change Minimum Characters to Satisfy One of Three Conditions,String
-1745. Palindrome Partitioning IV,String
-1750. Minimum Length of String After Deleting Similar Ends,String
-1754. Largest Merge Of Two Strings,String
-1758. Minimum Changes To Make Alternating Binary String,String
-1759. Count Number of Homogenous Substrings,String
-1763. Longest Nice Substring,String
-1768. Merge Strings Alternately,String
-1769. Minimum Number of Operations to Move All Balls to Each Box,String
-1771. Maximize Palindrome Length From Subsequences,String
-1772. Sort Features by Popularity,String
-1773. Count Items Matching a Rule,String
-1781. Sum of Beauty of All Substrings,String
-1784. Check if Binary String Has at Most One Segment of Ones,String
-1790. Check if One String Swap Can Make Strings Equal,String
-1794. Count Pairs of Equal Substrings With Minimum Difference,String
-1796. Second Largest Digit in a String,String
-1804. Implement Trie II (Prefix Tree),String
-1805. Number of Different Integers in a String,String
-1807. Evaluate the Bracket Pairs of a String,String
-1812. Determine Color of a Chessboard Square,String
-1813. Sentence Similarity III,String
-1816. Truncate Sentence,String
-1830. Minimum Number of Operations to Make String Sorted,String
-1832. Check if the Sentence Is Pangram,String
-1839. Longest Substring Of All Vowels in Order,String
-1842. Next Palindrome Using Same Digits,String
-1844. Replace All Digits with Characters,String
-1849. Splitting a String Into Descending Consecutive Values,String
-1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number,String
-1859. Sorting the Sentence,String
-1864. Minimum Number of Swaps to Make the Binary String Alternating,String
-1869. Longer Contiguous Segments of Ones than Zeros,String
-1871. Jump Game VII,String
-1876. Substrings of Size Three with Distinct Characters,String
-1880. Check if Word Equals Summation of Two Words,String
-1881. Maximum Value after Insertion,String
-1888. Minimum Number of Flips to Make the Binary String Alternating,String
-1896. Minimum Cost to Change the Final Value of Expression,String
-1897. Redistribute Characters to Make All Strings Equal,String
-1898. Maximum Number of Removable Characters,String
-1903. Largest Odd Number in String,String
-1904. The Number of Full Rounds You Have Played,String
-1910. Remove All Occurrences of a Substring,String
-1915. Number of Wonderful Substrings,String
-1930. Unique Length-3 Palindromic Subsequences,String
-1933. Check if String Is Decomposable Into Value-Equal Substrings,String
-1935. Maximum Number of Words You Can Type,String
-1941. Check if All Characters Have Equal Number of Occurrences,String
-1945. Sum of Digits of String After Convert,String
-1946. Largest Number After Mutating Substring,String
-1948. Delete Duplicate Folders in System,String
-1957. Delete Characters to Make Fancy String,String
-1960. Maximum Product of the Length of Two Palindromic Substrings,String
-1961. Check If String Is a Prefix of Array,String
-1963. Minimum Number of Swaps to Make the String Balanced,String
-1967. Number of Strings That Appear as Substrings in Word,String
-1974. Minimum Time to Type Word Using Special Typewriter,String
-1977. Number of Ways to Separate Numbers,String
-1980. Find Unique Binary String,String
-1985. Find the Kth Largest Integer in the Array,String
-1987. Number of Unique Good Subsequences,String
-2000. Reverse Prefix of Word,String
-2002. Maximum Product of the Length of Two Palindromic Subsequences,String
-2011. Final Value of Variable After Performing Operations,String
-2014. Longest Subsequence Repeated k Times,String
-2019. The Score of Students Solving Math Expression,String
-2023. Number of Pairs of Strings With Concatenation Equal to Target,String
-2024. Maximize the Confusion of an Exam,String
-2027. Minimum Moves to Convert String,String
-2030. Smallest K-Length Subsequence With Occurrences of a Letter,String
-2038. Remove Colored Pieces if Both Neighbors are the Same Color,String
-2042. Check if Numbers Are Ascending in a Sentence,String
-2047. Number of Valid Words in a Sentence,String
-2053. Kth Distinct String in an Array,String
-2055. Plates Between Candles,String
-2056. Number of Valid Move Combinations On Chessboard,String
-2060. Check if an Original String Exists Given Two Encoded Strings,String
-2062. Count Vowel Substrings of a String,String
-2063. Vowels of All Substrings,String
-2067. Number of Equal Count Substrings,String
-2068. Check Whether Two Strings are Almost Equivalent,String
-2075. Decode the Slanted Ciphertext,String
-2083. Substrings That Begin and End With the Same Letter,String
-2085. Count Common Words With One Occurrence,String
-2086. Minimum Number of Food Buckets to Feed the Hamsters,String
-2096. Step-By-Step Directions From a Binary Tree Node to Another,String
-2103. Rings and Rods,String
-2108. Find First Palindromic String in the Array,String
-2109. Adding Spaces to a String,String
-2114. Maximum Number of Words Found in Sentences,String
-2115. Find All Possible Recipes from Given Supplies,String
-2116. Check if a Parentheses String Can Be Valid,String
-2120. Execution of All Suffix Instructions Staying in a Grid,String
-2124. Check if All A's Appears Before All B's,String
-2125. Number of Laser Beams in a Bank,String
-2129. Capitalize the Title,String
-2131. Longest Palindrome by Concatenating Two Letter Words,String
-2135. Count Words Obtained After Adding a Letter,String
-2138. Divide a String Into Groups of Size k,String
-2147. Number of Ways to Divide a Long Corridor,String
-2156. Find Substring With Given Hash Value,String
-2157. Groups of Strings,String
-2167. Minimum Time to Remove All Cars Containing Illegal Goods,String
-2168. Unique Substrings With Equal Digit Frequency,String
-2182. Construct String With Repeat Limit,String
-2185. Counting Words With a Given Prefix,String
-2186. Minimum Number of Steps to Make Two Strings Anagram II,String
-2193. Minimum Number of Moves to Make Palindrome,String
-2194. Cells in a Range on an Excel Sheet,String
-2207. Maximize Number of Subsequences in a String,String
-2209. Minimum White Tiles After Covering With Carpets,String
-2211. Count Collisions on a Road,String
-2213. Longest Substring of One Repeating Character,String
-2222. Number of Ways to Select Buildings,String
-2223. Sum of Scores of Built Strings,String
-2224. Minimum Number of Operations to Convert Time,String
-2227. Encrypt and Decrypt Strings,String
-2232. Minimize Result by Adding Parentheses to Expression,String
-2243. Calculate Digit Sum of a String,String
-2246. Longest Path With Different Adjacent Characters,String
-2255. Count Prefixes of a Given String,String
-2259. Remove Digit From Number to Maximize Result,String
-2262. Total Appeal of A String,String
-2264. Largest 3-Same-Digit Number in String,String
-2266. Count Number of Texts,String
-2268. Minimum Number of Keypresses,String
-2269. Find the K-Beauty of a Number,String
-2273. Find Resultant Array After Removing Anagrams,String
-2278. Percentage of Letter in String,String
-2283. Check if Number Has Equal Digit Count and Digit Value,String
-2284. Sender With Largest Word Count,String
-2287. Rearrange Characters to Make Target String,String
-2288. Apply Discount to Prices,String
-2296. Design a Text Editor,String
-2299. Strong Password Checker II,String
-2301. Match Substring After Replacement,String
-2306. Naming a Company,String
-2309. Greatest English Letter in Upper and Lower Case,String
-2311. Longest Binary Subsequence Less Than or Equal to K,String
-2315. Count Asterisks,String
-2325. Decode the Message,String
-2330. Valid Palindrome IV,String
-2337. Move Pieces to Obtain a String,String
-2343. Query Kth Smallest Trimmed Number,String
-2351. First Letter to Appear Twice,String
-2370. Longest Ideal Subsequence,String
-2375. Construct Smallest Number From DI String,String
-2379. Minimum Recolors to Get K Consecutive Black Blocks,String
-2380. Time Needed to Rearrange a Binary String,String
-2381. Shifting Letters II,String
-2384. Largest Palindromic Number,String
-2390. Removing Stars From a String,String
-2391. Minimum Amount of Time to Collect Garbage,String
-2399. Check Distances Between Same Letters,String
-2405. Optimal Partition of String,String
-2408. Design SQL,String
-2409. Count Days Spent Together,String
-2414. Length of the Longest Alphabetical Continuous Substring,String
-2416. Sum of Prefix Scores of Strings,String
-2418. Sort the People,String
-2423. Remove Letter To Equalize Frequency,String
-2430. Maximum Deletions on a String,String
-2434. Using a Robot to Print the Lexicographically Smallest String,String
-2437. Number of Valid Clock Times,String
-2446. Determine if Two Events Have Conflict,String
-2450. Number of Distinct Binary Strings After Applying Operations,String
-2451. Odd String Difference,String
-2452. Words Within Two Edits of Dictionary,String
-2456. Most Popular Video Creator,String
-2468. Split Message Based on Limit,String
-2472. Maximum Number of Non-overlapping Palindrome Substrings,String
-2478. Number of Beautiful Partitions,String
-2483. Minimum Penalty for a Shop,String
-2484. Count Palindromic Subsequences,String
-2486. Append Characters to String to Make Subsequence,String
-2489. Number of Substrings With Fixed Ratio,String
-2490. Circular Sentence,String
-2496. Maximum Value of a String in an Array,String
-2506. Count Pairs Of Similar Strings,String
-2512. Reward Top K Students,String
-2514. Count Anagrams,String
-2515. Shortest Distance to Target String in a Circular Array,String
-2516. Take K of Each Character From Left and Right,String
-2522. Partition String Into Substrings With Values at Most K,String
-2531. Make Number of Distinct Characters Equal,String
-2539. Count the Number of Good Subsequences,String
-2546. Apply Bitwise Operations to Make Strings Equal,String
-2559. Count Vowel Strings in Ranges,String
-2564. Substring XOR Queries,String
-2565. Subsequence With the Minimum Score,String
-2573. Find the String with LCP,String
-2575. Find the Divisibility Array of a String,String
-2586. Count the Number of Vowel Strings in Range,String
-2590. Design a Todo List,String
-2606. Find the Substring With Maximum Cost,String
-2609. Find the Longest Balanced Substring of a Binary String,String
-2645. Minimum Additions to Make Valid String,String
-2663. Lexicographically Smallest Beautiful String,String
-2678. Number of Senior Citizens,String
-2696. Minimum String Length After Removing Substrings,String
-2697. Lexicographically Smallest Palindrome,String
-2707. Extra Characters in a String,String
-2710. Remove Trailing Zeros From a String,String
-2712. Minimum Cost to Make All Characters Equal,String
-2716. Minimize String Length,String
-2719. Count of Integers,String
-2730. Find the Longest Semi-Repetitive Substring,String
-2734. Lexicographically Smallest String After Substring Operation,String
-2743. Count Substrings Without Repeating Character,String
-2744. Find Maximum Number of String Pairs,String
-2746. Decremental String Concatenation,String
-2767. Partition String Into Minimum Beautiful Substrings,String
-2781. Length of the Longest Valid Substring,String
-2785. Sort Vowels in a String,String
-2788. Split Strings by Separator,String
-2800. Shortest String That Contains Three Strings,String
-2801. Count Stepping Numbers in Range,String
-2810. Faulty Keyboard,String
+Check if There is a Valid Partition For The Array,string
+Longest Substring Without Repeating Characters,string
+Longest Palindromic Substring,string
+Zigzag Conversion,string
+String to Integer (atoi),string
+Regular Expression Matching,string
+Integer to Roman,string
+Roman to Integer,string
+Longest Common Prefix,string
+Letter Combinations of a Phone Number,string
+Valid Parentheses,string
+Generate Parentheses,string
+Find the Index of the First Occurrence in a String,string
+Substring with Concatenation of All Words,string
+Longest Valid Parentheses,string
+Count and Say,string
+Multiply Strings,string
+Wildcard Matching,string
+Group Anagrams,string
+Length of Last Word,string
+Valid Number,string
+Add Binary,string
+Text Justification,string
+Simplify Path,string
+Edit Distance,string
+Minimum Window Substring,string
+Scramble String,string
+Decode Ways,string
+Restore IP Addresses,string
+Interleaving String,string
+Distinct Subsequences,string
+Valid Palindrome,string
+Word Ladder II,string
+Word Ladder,string
+Palindrome Partitioning,string
+Palindrome Partitioning II,string
+Word Break,string
+Word Break II,string
+Reverse Words in a String,string
+Read N Characters Given Read4,string
+Read N Characters Given read4 II - Call Multiple Times,string
+Longest Substring with At Most Two Distinct Characters,string
+One Edit Distance,string
+Compare Version Numbers,string
+Fraction to Recurring Decimal,string
+Excel Sheet Column Title,string
+Excel Sheet Column Number,string
+Largest Number,string
+Reverse Words in a String II,string
+Repeated DNA Sequences,string
+Check if There is a Valid Partition For The Array,string
+Longest Substring Without Repeating Characters,string
+Longest Palindromic Substring,string
+Zigzag Conversion,string
+String to Integer (atoi),string
+Regular Expression Matching,string
+Integer to Roman,string
+Roman to Integer,string
+Longest Common Prefix,string
+Letter Combinations of a Phone Number,string
+Valid Parentheses,string
+Generate Parentheses,string
+Find the Index of the First Occurrence in a String,string
+Substring with Concatenation of All Words,string
+Longest Valid Parentheses,string
+Count and Say,string
+Multiply Strings,string
+Wildcard Matching,string
+Group Anagrams,string
+Length of Last Word,string
+Valid Number,string
+Add Binary,string
+Text Justification,string
+Simplify Path,string
+Edit Distance,string
+Minimum Window Substring,string
+Scramble String,string
+Decode Ways,string
+Restore IP Addresses,string
+Interleaving String,string
+Distinct Subsequences,string
+Valid Palindrome,string
+Word Ladder II,string
+Word Ladder,string
+Palindrome Partitioning,string
+Palindrome Partitioning II,string
+Word Break,string
+Word Break II,string
+Reverse Words in a String,string
+Read N Characters Given Read4,string
+Read N Characters Given read4 II - Call Multiple Times,string
+Longest Substring with At Most Two Distinct Characters,string
+One Edit Distance,string
+Compare Version Numbers,string
+Fraction to Recurring Decimal,string
+Excel Sheet Column Title,string
+Excel Sheet Column Number,string
+Largest Number,string
+Reverse Words in a String II,string
+Repeated DNA Sequences,string
+Implement Trie (Prefix Tree),string
+Design Add and Search Words Data Structure,string
+Word Search II,string
+Shortest Palindrome,string
+Basic Calculator,string
+Basic Calculator II,string
+Different Ways to Add Parentheses,string
+Valid Anagram,string
+Shortest Word Distance,string
+Shortest Word Distance II,string
+Shortest Word Distance III,string
+Strobogrammatic Number,string
+Strobogrammatic Number II,string
+Strobogrammatic Number III,string
+Group Shifted Strings,string
+Binary Tree Paths,string
+Palindrome Permutation,string
+Palindrome Permutation II,string
+Alien Dictionary,string
+Encode and Decode Strings,string
+Integer to English Words,string
+Expression Add Operators,string
+Unique Word Abbreviation,string
+Word Pattern,string
+Word Pattern II,string
+Flip Game,string
+Serialize and Deserialize Binary Tree,string
+Bulls and Cows,string
+Remove Invalid Parentheses,string
+Additive Number,string
+Remove Duplicate Letters,string
+Maximum Product of Word Lengths,string
+Generalized Abbreviation,string
+Verify Preorder Serialization of a Binary Tree,string
+Palindrome Pairs,string
+Longest Substring with At Most K Distinct Characters,string
+Reverse String,string
+Reverse Vowels of a String,string
+Rearrange String k Distance Apart,string
+Ransom Note,string
+Mini Parser,string
+First Unique Character in a String,string
+Longest Absolute File Path,string
+Find the Difference,string
+Is Subsequence,string
+Decode String,string
+Longest Substring with At Least K Repeating Characters,string
+Remove K Digits,string
+Valid Word Abbreviation,string
+Longest Palindrome,string
+Minimum Unique Word Abbreviation,string
+Fizz Buzz,string
+Add Strings,string
+Sentence Screen Fitting,string
+Strong Password Checker,string
+Reconstruct Original Digits from English,string
+Longest Repeating Character Replacement,string
+Word Squares,string
+Serialize and Deserialize N-ary Tree,string
+Minimum Genetic Mutation,string
+Number of Segments in a String,string
+Find All Anagrams in a String,string
+Ternary Expression Parser,string
+String Compression,string
+Serialize and Deserialize BST,string
+Sort Characters By Frequency,string
+Repeated Substring Pattern,string
+Count The Repetitions,string
+Unique Substrings in Wraparound String,string
+Validate IP Address,string
+Encode String with Shortest Length,string
+Concatenated Words,string
+Ones and Zeroes,string
+Magical String,string
+License Key Formatting,string
+Find Permutation,string
+Zuma Game,string
+Keyboard Row,string
+Freedom Trail,string
+Longest Palindromic Subsequence,string
+Detect Capital,string
+Longest Uncommon Subsequence I,string
+Longest Uncommon Subsequence II,string
+Longest Word in Dictionary through Deleting,string
+Word Abbreviation,string
+Encode and Decode TinyURL,string
+Construct Binary Tree from String,string
+Complex Number Multiplication,string
+Minimum Time Difference,string
+Reverse String II,string
+Output Contest Matches,string
+Student Attendance Record I,string
+Split Concatenated Strings,string
+Next Greater Element III,string
+Reverse Words in a String III,string
+Find the Closest Palindrome,string
+Permutation in String,string
+Delete Operation for Two Strings,string
+Design In-Memory File System,string
+Tag Validator,string
+Fraction Addition and Subtraction,string
+Minimum Index Sum of Two Lists,string
+Design Compressed String Iterator,string
+Construct String from Binary Tree,string
+Find Duplicate File in System,string
+Add Bold Tag in String,string
+Design Log Storage System,string
+Decode Ways II,string
+Solve the Equation,string
+Design Search Autocomplete System,string
+Palindromic Substrings,string
+Replace Words,string
+Dota2 Senate,string
+Robot Return to Origin,string
+Strange Printer,string
+Implement Magic Dictionary,string
+Map Sum Pairs,string
+Valid Parenthesis String,string
+Valid Palindrome II,string
+Next Closest Time,string
+Repeated String Match,string
+Stickers to Spell Word,string
+Top K Frequent Words,string
+Count Binary Substrings,string
+To Lower Case,string
+Minimum ASCII Delete Sum for Two Strings,string
+Longest Word in Dictionary,string
+Accounts Merge,string
+Remove Comments,string
+Number of Atoms,string
+Minimum Window Subsequence,string
+Count Different Palindromic Subsequences,string
+Sentence Similarity,string
+Parse Lisp Expression,string
+Sentence Similarity II,string
+Prefix and Suffix Search,string
+Shortest Completing Word,string
+IP to CIDR,string
+Open the Lock,string
+Bold Words in String,string
+Special Binary String,string
+Partition Labels,string
+Reorganize String,string
+Basic Calculator IV,string
+Jewels and Stones,string
+Basic Calculator III,string
+Swap Adjacent in LR String,string
+Letter Case Permutation,string
+Custom Sort String,string
+Number of Matching Subsequences,string
+Valid Tic-Tac-Toe State,string
+Rotate String,string
+Similar RGB Color,string
+Unique Morse Code Words,string
+Number of Lines To Write String,string
+Expressive Words,string
+Subdomain Visit Count,string
+Ambiguous Coordinates,string
+Most Common Word,string
+Short Encoding of Words,string
+Shortest Distance to a Character,string
+Goat Latin,string
+Count Unique Characters of All Substrings of a Given String,string
+Positions of Large Groups,string
+Masking Personal Information,string
+Find And Replace in String,string
+Push Dominoes,string
+Similar String Groups,string
+Split Array into Fibonacci Sequence,string
+Guess the Word,string
+Backspace String Compare,string
+Shifting Letters,string
+K-Similar Strings,string
+Score of Parentheses,string
+Buddy Strings,string
+Decoded String at Index,string
+Uncommon Words from Two Sentences,string
+Find and Replace Pattern,string
+Groups of Special-Equivalent Strings,string
+Orderly Queue,string
+Numbers At Most N Given Digit Set,string
+Valid Permutations for DI Sequence,string
+Word Subsets,string
+Reverse Only Letters,string
+Minimum Add to Make Parentheses Valid,string
+Long Pressed Name,string
+Flip String to Monotone Increasing,string
+Unique Email Addresses,string
+Stamping The Sequence,string
+Reorder Data in Log Files,string
+Distinct Subsequences II,string
+DI String Match,string
+Find the Shortest Superstring,string
+Delete Columns to Make Sorted,string
+Largest Time for Given Digits,string
+Verifying an Alien Dictionary,string
+Delete Columns to Make Sorted II,string
+Delete Columns to Make Sorted III,string
+Vowel Spellchecker,string
+Equal Rational Numbers,string
+Time Based Key-Value Store,string
+String Without AAA or BBB,string
+Smallest String Starting From Leaf,string
+Satisfiability of Equality Equations,string
+Find Common Characters,string
+Check If Word Is Valid After Substitutions,string
+Binary String With Substrings Representing 1 To N,string
+Remove Outermost Parentheses,string
+Camelcase Matching,string
+Recover a Tree From Preorder Traversal,string
+Stream of Characters,string
+Robot Bounded In Circle,string
+Longest Duplicate Substring,string
+Remove All Adjacent Duplicates In String,string
+Longest String Chain,string
+Shortest Way to Form String,string
+Minimize Rounding Error to Meet Target,string
+Lexicographically Smallest Equivalent String,string
+Longest Repeating Substring,string
+Index Pairs of a String,string
+Greatest Common Divisor of Strings,string
+Occurrences After Bigram,string
+Letter Tile Possibilities,string
+Smallest Subsequence of Distinct Characters,string
+Brace Expansion,string
+Shortest Common Supersequence,string
+Brace Expansion II,string
+Find K-Length Substrings With No Repeated Characters,string
+Parsing A Boolean Expression,string
+Defanging an IP Address,string
+Maximum Nesting Depth of Two Valid Parentheses Strings,string
+Remove Vowels from a String,string
+Alphabet Board Path,string
+Longest Common Subsequence,string
+Longest Chunked Palindrome Decomposition,string
+String Transforms Into Another String,string
+Day of the Year,string
+Swap For Longest Repeated Character Substring,string
+Find Words That Can Be Formed by Characters,string
+Last Substring in Lexicographical Order,string
+Single-Row Keyboard,string
+Design File System,string
+Invalid Transactions,string
+Compare Strings by Frequency of the Smallest Character,string
+Can Make Palindrome from Substring,string
+Number of Valid Words for Each Puzzle,string
+Count Substrings with Only One Distinct Letter,string
+Before and After Puzzle,string
+Maximum Number of Balloons,string
+Reverse Substrings Between Each Pair of Parentheses,string
+Smallest String With Swaps,string
+Get Equal Substrings Within Budget,string
+Remove All Adjacent Duplicates in String II,string
+Valid Palindrome III,string
+Split a String in Balanced Strings,string
+Remove Sub-Folders from the Filesystem,string
+Replace the Substring for Balanced String,string
+Web Crawler,string
+Maximum Length of a Concatenated String with Unique Characters,string
+Minimum Swaps to Make Strings Equal,string
+Minimum Remove to Make Valid Parentheses,string
+Maximum Score Words Formed by Letters,string
+Encode Number,string
+Smallest Common Region,string
+Synonymous Sentences,string
+Search Suggestions System,string
+Hexspeak,string
+Palindrome Partitioning III,string
+Iterator for Combination,string
+Maximum Number of Occurrences of a Substring,string
+Verbal Arithmetic Puzzle,string
+Decrypt String from Alphabet to Integer Mapping,string
+Minimum Insertion Steps to Make a String Palindrome,string
+Distinct Echo Substrings,string
+Minimum Distance to Type a Word Using Two Fingers,string
+Print Words Vertically,string
+Break a Palindrome,string
+Remove Palindromic Subsequences,string
+Minimum Number of Steps to Make Two Strings Anagram,string
+Number of Substrings Containing All Three Characters,string
+Number of Days Between Two Dates,string
+Rank Teams by Votes,string
+Increasing Decreasing String,string
+Find the Longest Substring Containing Vowels in Even Counts,string
+Generate a String With Characters That Have Odd Counts,string
+Longest Happy Prefix,string
+Design Underground System,string
+Find All Good Strings,string
+Construct K Palindrome Strings,string
+Number of Steps to Reduce a Number in Binary Representation to One,string
+Longest Happy String,string
+String Matching in an Array,string
+HTML Entity Parser,string
+The k-th Lexicographical String of All Happy Strings of Length n,string
+Restore The Array,string
+Reformat The String,string
+Display Table of Food Orders in a Restaurant,string
+Minimum Number of Frogs Croaking,string
+Maximum Score After Splitting a String,string
+Perform String Shifts,string
+Check If a String Can Break Another String,string
+Destination City,string
+Consecutive Characters,string
+Simplified Fractions,string
+Rearrange Words in a Sentence,string
+People Whose List of Favorite Companies Is Not a Subset of Another List,string
+Check If a Word Occurs As a Prefix of Any Word in a Sentence,string
+Maximum Number of Vowels in a Substring of Given Length,string
+Check If a String Contains All Binary Codes of Size K,string
+Making File Names Unique,string
+Path Crossing,string
+Minimum Possible Integer After at Most K Adjacent Swaps On Digits,string
+Reformat Date,string
+Number of Substrings With Only 1s,string
+Maximum Number of Non-Overlapping Substrings,string
+Number of Good Ways to Split a String,string
+Shuffle String,string
+Minimum Suffix Flips,string
+String Compression II,string
+Can Convert String in K Moves,string
+Minimum Insertions to Balance a Parentheses String,string
+Find Longest Awesome Substring,string
+Make The String Great,string
+Find Kth Bit in Nth Binary String,string
+Strings Differ by One Character,string
+Thousand Separator,string
+Number of Ways to Split a String,string
+Replace All ?'s to Avoid Consecutive Repeating Characters,string
+Minimum Time to Make Rope Colorful,string
+Check If String Is Transformable With Substring Sort Operations,string
+Rearrange Spaces Between Words,string
+Split a String Into the Max Number of Unique Substrings,string
+Build Binary Expression Tree From Infix Expression,string
+Crawler Log Folder,string
+Alert Using Same Key-Card Three or More Times in a One Hour Period,string
+Maximum Nesting Depth of the Parentheses,string
+Split Two Strings to Make Palindrome,string
+Maximum Font to Fit a Sentence in a Screen,string
+Largest Substring Between Two Equal Characters,string
+Lexicographically Smallest String After Applying Operations,string
+Slowest Key,string
+Count Substrings That Differ by One Character,string
+Number of Ways to Form a Target String Given a Dictionary,string
+Minimum Deletions to Make Character Frequencies Unique,string
+Minimum Deletions to Make String Balanced,string
+Determine if Two Strings Are Close,string
+Check If Two String Arrays are Equivalent,string
+Smallest String With A Given Numeric Value,string
+Maximum Repeating Substring,string
+Goal Parser Interpretation,string
+Longest Palindromic Subsequence II,string
+Count the Number of Consistent Strings,string
+Partitioning Into Minimum Number Of Deci-Binary Numbers,string
+Reformat Phone Number,string
+Number of Distinct Substrings in a String,string
+Maximum Binary String After Change,string
+Determine if String Halves Are Alike,string
+Maximum Score From Removing Substrings,string
+Latest Time by Replacing Hidden Digits,string
+Change Minimum Characters to Satisfy One of Three Conditions,string
+Palindrome Partitioning IV,string
+Minimum Length of String After Deleting Similar Ends,string
+Largest Merge Of Two Strings,string
+Minimum Changes To Make Alternating Binary String,string
+Count Number of Homogenous Substrings,string
+Longest Nice Substring,string
+Merge Strings Alternately,string
+Minimum Number of Operations to Move All Balls to Each Box,string
+Maximize Palindrome Length From Subsequences,string
+Sort Features by Popularity,string
+Count Items Matching a Rule,string
+Sum of Beauty of All Substrings,string
+Check if Binary String Has at Most One Segment of Ones,string
+Check if One String Swap Can Make Strings Equal,string
+Count Pairs of Equal Substrings With Minimum Difference,string
+Second Largest Digit in a String,string
+Implement Trie II (Prefix Tree),string
+Number of Different Integers in a String,string
+Evaluate the Bracket Pairs of a String,string
+Determine Color of a Chessboard Square,string
+Sentence Similarity III,string
+Truncate Sentence,string
+Minimum Number of Operations to Make String Sorted,string
+Check if the Sentence Is Pangram,string
+Longest Substring Of All Vowels in Order,string
+Next Palindrome Using Same Digits,string
+Replace All Digits with Characters,string
+Splitting a String Into Descending Consecutive Values,string
+Minimum Adjacent Swaps to Reach the Kth Smallest Number,string
+Sorting the Sentence,string
+Minimum Number of Swaps to Make the Binary String Alternating,string
+Longer Contiguous Segments of Ones than Zeros,string
+Jump Game VII,string
+Substrings of Size Three with Distinct Characters,string
+Check if Word Equals Summation of Two Words,string
+Maximum Value after Insertion,string
+Minimum Number of Flips to Make the Binary String Alternating,string
+Minimum Cost to Change the Final Value of Expression,string
+Redistribute Characters to Make All Strings Equal,string
+Maximum Number of Removable Characters,string
+Largest Odd Number in String,string
+The Number of Full Rounds You Have Played,string
+Remove All Occurrences of a Substring,string
+Number of Wonderful Substrings,string
+Unique Length-3 Palindromic Subsequences,string
+Check if String Is Decomposable Into Value-Equal Substrings,string
+Maximum Number of Words You Can Type,string
+Check if All Characters Have Equal Number of Occurrences,string
+Sum of Digits of String After Convert,string
+Largest Number After Mutating Substring,string
+Delete Duplicate Folders in System,string
+Delete Characters to Make Fancy String,string
+Maximum Product of the Length of Two Palindromic Substrings,string
+Check If String Is a Prefix of Array,string
+Minimum Number of Swaps to Make the String Balanced,string
+Number of Strings That Appear as Substrings in Word,string
+Minimum Time to Type Word Using Special Typewriter,string
+Number of Ways to Separate Numbers,string
+Find Unique Binary String,string
+Find the Kth Largest Integer in the Array,string
+Number of Unique Good Subsequences,string
+Reverse Prefix of Word,string
+Maximum Product of the Length of Two Palindromic Subsequences,string
+Final Value of Variable After Performing Operations,string
+Longest Subsequence Repeated k Times,string
+The Score of Students Solving Math Expression,string
+Number of Pairs of Strings With Concatenation Equal to Target,string
+Maximize the Confusion of an Exam,string
+Minimum Moves to Convert String,string
+Smallest K-Length Subsequence With Occurrences of a Letter,string
+Remove Colored Pieces if Both Neighbors are the Same Color,string
+Check if Numbers Are Ascending in a Sentence,string
+Number of Valid Words in a Sentence,string
+Kth Distinct String in an Array,string
+Plates Between Candles,string
+Number of Valid Move Combinations On Chessboard,string
+Check if an Original String Exists Given Two Encoded Strings,string
+Count Vowel Substrings of a String,string
+Vowels of All Substrings,string
+Number of Equal Count Substrings,string
+Check Whether Two Strings are Almost Equivalent,string
+Decode the Slanted Ciphertext,string
+Substrings That Begin and End With the Same Letter,string
+Count Common Words With One Occurrence,string
+Minimum Number of Food Buckets to Feed the Hamsters,string
+Step-By-Step Directions From a Binary Tree Node to Another,string
+Rings and Rods,string
+Find First Palindromic String in the Array,string
+Adding Spaces to a String,string
+Maximum Number of Words Found in Sentences,string
+Find All Possible Recipes from Given Supplies,string
+Check if a Parentheses String Can Be Valid,string
+Execution of All Suffix Instructions Staying in a Grid,string
+Check if All A's Appears Before All B's,string
+Number of Laser Beams in a Bank,string
+Capitalize the Title,string
+Longest Palindrome by Concatenating Two Letter Words,string
+Count Words Obtained After Adding a Letter,string
+Divide a String Into Groups of Size k,string
+Number of Ways to Divide a Long Corridor,string
+Find Substring With Given Hash Value,string
+Groups of Strings,string
+Minimum Time to Remove All Cars Containing Illegal Goods,string
+Unique Substrings With Equal Digit Frequency,string
+Construct String With Repeat Limit,string
+Counting Words With a Given Prefix,string
+Minimum Number of Steps to Make Two Strings Anagram II,string
+Minimum Number of Moves to Make Palindrome,string
+Cells in a Range on an Excel Sheet,string
+Maximize Number of Subsequences in a String,string
+Minimum White Tiles After Covering With Carpets,string
+Count Collisions on a Road,string
+Longest Substring of One Repeating Character,string
+Number of Ways to Select Buildings,string
+Sum of Scores of Built Strings,string
+Minimum Number of Operations to Convert Time,string
+Encrypt and Decrypt Strings,string
+Minimize Result by Adding Parentheses to Expression,string
+Calculate Digit Sum of a String,string
+Longest Path With Different Adjacent Characters,string
+Count Prefixes of a Given String,string
+Remove Digit From Number to Maximize Result,string
+Total Appeal of A String,string
+Largest 3-Same-Digit Number in String,string
+Count Number of Texts,string
+Minimum Number of Keypresses,string
+Find the K-Beauty of a Number,string
+Find Resultant Array After Removing Anagrams,string
+Percentage of Letter in String,string
+Check if Number Has Equal Digit Count and Digit Value,string
+Sender With Largest Word Count,string
+Rearrange Characters to Make Target String,string
+Apply Discount to Prices,string
+Design a Text Editor,string
+Strong Password Checker II,string
+Match Substring After Replacement,string
+Naming a Company,string
+Greatest English Letter in Upper and Lower Case,string
+Longest Binary Subsequence Less Than or Equal to K,string
+Count Asterisks,string
+Decode the Message,string
+Valid Palindrome IV,string
+Move Pieces to Obtain a String,string
+Query Kth Smallest Trimmed Number,string
+First Letter to Appear Twice,string
+Longest Ideal Subsequence,string
+Construct Smallest Number From DI String,string
+Minimum Recolors to Get K Consecutive Black Blocks,string
+Time Needed to Rearrange a Binary String,string
+Shifting Letters II,string
+Largest Palindromic Number,string
+Removing Stars From a String,string
+Minimum Amount of Time to Collect Garbage,string
+Check Distances Between Same Letters,string
+Optimal Partition of String,string
+Design SQL,string
+Count Days Spent Together,string
+Length of the Longest Alphabetical Continuous Substring,string
+Sum of Prefix Scores of Strings,string
+Sort the People,string
+Remove Letter To Equalize Frequency,string
+Maximum Deletions on a String,string
+Using a Robot to Print the Lexicographically Smallest String,string
+Number of Valid Clock Times,string
+Determine if Two Events Have Conflict,string
+Number of Distinct Binary Strings After Applying Operations,string
+Odd String Difference,string
+Words Within Two Edits of Dictionary,string
+Most Popular Video Creator,string
+Split Message Based on Limit,string
+Maximum Number of Non-overlapping Palindrome Substrings,string
+Number of Beautiful Partitions,string
+Minimum Penalty for a Shop,string
+Count Palindromic Subsequences,string
+Append Characters to String to Make Subsequence,string
+Number of Substrings With Fixed Ratio,string
+Circular Sentence,string
+Maximum Value of a String in an Array,string
+Count Pairs Of Similar Strings,string
+Reward Top K Students,string
+Count Anagrams,string
+Shortest Distance to Target String in a Circular Array,string
+Take K of Each Character From Left and Right,string
+Partition String Into Substrings With Values at Most K,string
+Make Number of Distinct Characters Equal,string
+Count the Number of Good Subsequences,string
+Apply Bitwise Operations to Make Strings Equal,string
+Count Vowel Strings in Ranges,string
+Substring XOR Queries,string
+Subsequence With the Minimum Score,string
+Find the String with LCP,string
+Find the Divisibility Array of a String,string
+Count the Number of Vowel Strings in Range,string
+Design a Todo List,string
+Find the Substring With Maximum Cost,string
+Find the Longest Balanced Substring of a Binary String,string
+Minimum Additions to Make Valid String,string
+Lexicographically Smallest Beautiful String,string
+Number of Senior Citizens,string
+Minimum String Length After Removing Substrings,string
+Lexicographically Smallest Palindrome,string
+Extra Characters in a String,string
+Remove Trailing Zeros From a String,string
+Minimum Cost to Make All Characters Equal,string
+Minimize String Length,string
+Count of Integers,string
+Find the Longest Semi-Repetitive Substring,string
+Lexicographically Smallest String After Substring Operation,string
+Count Substrings Without Repeating Character,string
+Find Maximum Number of String Pairs,string
+Decremental String Concatenation,string
+Partition String Into Minimum Beautiful Substrings,string
+Length of the Longest Valid Substring,string
+Sort Vowels in a String,string
+Split Strings by Separator,string
+Shortest String That Contains Three Strings,string
+Count Stepping Numbers in Range,string
+Faulty Keyboard,string

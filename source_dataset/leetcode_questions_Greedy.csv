@@ -1,369 +1,351 @@
 Question,Tag
-63. Unique Paths II,Array
-11. Container With Most Water,Array
-44. Wildcard Matching,Array
-45. Jump Game II,Array
-55. Jump Game,Array
-122. Best Time to Buy and Sell Stock II,Array
-134. Gas Station,Array
-135. Candy,Array
-179. Largest Number,Array
-253. Meeting Rooms II,Array
-277. Find the Celebrity,Array
-280. Wiggle Sort,Array
-316. Remove Duplicate Letters,Array
-321. Create Maximum Number,Array
-330. Patching Array,Array
-334. Increasing Triplet Subsequence,Array
-358. Rearrange String k Distance Apart,Array
-376. Wiggle Subsequence,Array
-397. Integer Replacement,Array
-402. Remove K Digits,Array
-406. Queue Reconstruction by Height,Array
-409. Longest Palindrome,Array
-410. Split Array Largest Sum,Array
-420. Strong Password Checker,Array
-435. Non-overlapping Intervals,Array
-452. Minimum Number of Arrows to Burst Balloons,Array
-455. Assign Cookies,Array
-484. Find Permutation,Array
-502. IPO,Array
-517. Super Washing Machines,Array
-527. Word Abbreviation,Array
-555. Split Concatenated Strings,Array
-561. Array Partition,Array
-581. Shortest Unsorted Continuous Subarray,Array
-605. Can Place Flowers,Array
-611. Valid Triangle Number,Array
-621. Task Scheduler,Array
-624. Maximum Distance in Arrays,Array
-625. Minimum Factorization,Array
-630. Course Schedule III,Array
-632. Smallest Range Covering Elements from K Lists,Array
-646. Maximum Length of Pair Chain,Array
-649. Dota2 Senate,Array
-659. Split Array into Consecutive Subsequences,Array
-670. Maximum Swap,Array
-678. Valid Parenthesis String,Array
-680. Valid Palindrome II,Array
-714. Best Time to Buy and Sell Stock with Transaction Fee,Array
-738. Monotone Increasing Digits,Array
-757. Set Intersection Size At Least Two,Array
-63. Unique Paths II,Array
-11. Container With Most Water,Array
-44. Wildcard Matching,Array
-45. Jump Game II,Array
-55. Jump Game,Array
-122. Best Time to Buy and Sell Stock II,Array
-134. Gas Station,Array
-135. Candy,Array
-179. Largest Number,Array
-253. Meeting Rooms II,Array
-277. Find the Celebrity,Array
-280. Wiggle Sort,Array
-316. Remove Duplicate Letters,Array
-321. Create Maximum Number,Array
-330. Patching Array,Array
-334. Increasing Triplet Subsequence,Array
-358. Rearrange String k Distance Apart,Array
-376. Wiggle Subsequence,Array
-397. Integer Replacement,Array
-402. Remove K Digits,Array
-406. Queue Reconstruction by Height,Array
-409. Longest Palindrome,Array
-410. Split Array Largest Sum,Array
-420. Strong Password Checker,Array
-435. Non-overlapping Intervals,Array
-452. Minimum Number of Arrows to Burst Balloons,Array
-455. Assign Cookies,Array
-484. Find Permutation,Array
-502. IPO,Array
-517. Super Washing Machines,Array
-527. Word Abbreviation,Array
-555. Split Concatenated Strings,Array
-561. Array Partition,Array
-581. Shortest Unsorted Continuous Subarray,Array
-605. Can Place Flowers,Array
-611. Valid Triangle Number,Array
-621. Task Scheduler,Array
-624. Maximum Distance in Arrays,Array
-625. Minimum Factorization,Array
-630. Course Schedule III,Array
-632. Smallest Range Covering Elements from K Lists,Array
-646. Maximum Length of Pair Chain,Array
-649. Dota2 Senate,Array
-659. Split Array into Consecutive Subsequences,Array
-670. Maximum Swap,Array
-678. Valid Parenthesis String,Array
-680. Valid Palindrome II,Array
-714. Best Time to Buy and Sell Stock with Transaction Fee,Array
-738. Monotone Increasing Digits,Array
-757. Set Intersection Size At Least Two,Array
-765. Couples Holding Hands,Array
-767. Reorganize String,Array
-768. Max Chunks To Make Sorted II,Array
-769. Max Chunks To Make Sorted,Array
-781. Rabbits in Forest,Array
-807. Max Increase to Keep City Skyline,Array
-826. Most Profit Assigning Work,Array
-846. Hand of Straights,Array
-857. Minimum Cost to Hire K Workers,Array
-860. Lemonade Change,Array
-861. Score After Flipping Matrix,Array
-870. Advantage Shuffle,Array
-871. Minimum Number of Refueling Stops,Array
-881. Boats to Save People,Array
-910. Smallest Range II,Array
-921. Minimum Add to Make Parentheses Valid,Array
-936. Stamping The Sequence,Array
-942. DI String Match,Array
-945. Minimum Increment to Make Array Unique,Array
-948. Bag of Tokens,Array
-954. Array of Doubled Pairs,Array
-955. Delete Columns to Make Sorted II,Array
-969. Pancake Sorting,Array
-976. Largest Perimeter Triangle,Array
-984. String Without AAA or BBB,Array
-991. Broken Calculator,Array
-1005. Maximize Sum Of Array After K Negations,Array
-1007. Minimum Domino Rotations For Equal Row,Array
-1013. Partition Array Into Three Parts With Equal Sum,Array
-1024. Video Stitching,Array
-1029. Two City Scheduling,Array
-1053. Previous Permutation With One Swap,Array
-1054. Distant Barcodes,Array
-1055. Shortest Way to Form String,Array
-1057. Campus Bikes,Array
-1058. Minimize Rounding Error to Meet Target,Array
-1081. Smallest Subsequence of Distinct Characters,Array
-1090. Largest Values From Labels,Array
-1121. Divide Array Into Increasing Sequences,Array
-1130. Minimum Cost Tree From Leaf Values,Array
-1144. Decrease Elements To Make Array Zigzag,Array
-1147. Longest Chunked Palindrome Decomposition,Array
-1167. Minimum Cost to Connect Sticks,Array
-1183. Maximum Number of Ones,Array
-1196. How Many Apples Can You Put into the Basket,Array
-1199. Minimum Time to Build Blocks,Array
-1217. Minimum Cost to Move Chips to The Same Position,Array
-1221. Split a String in Balanced Strings,Array
-1247. Minimum Swaps to Make Strings Equal,Array
-1253. Reconstruct a 2-Row Binary Matrix,Array
-1262. Greatest Sum Divisible by Three,Array
-1296. Divide Array in Sets of K Consecutive Numbers,Array
-1323. Maximum 69 Number,Array
-1326. Minimum Number of Taps to Open to Water a Garden,Array
-1328. Break a Palindrome,Array
-1330. Reverse Subarray To Maximize Array Value,Array
-1338. Reduce Array Size to The Half,Array
-1353. Maximum Number of Events That Can Be Attended,Array
-1363. Largest Multiple of Three,Array
-1382. Balance a Binary Search Tree,Array
-1383. Maximum Performance of a Team,Array
-1386. Cinema Seat Allocation,Array
-1388. Pizza With 3n Slices,Array
-1400. Construct K Palindrome Strings,Array
-1402. Reducing Dishes,Array
-1403. Minimum Subsequence in Non-Increasing Order,Array
-1405. Longest Happy String,Array
-1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K,Array
-1432. Max Difference You Can Get From Changing an Integer,Array
-1433. Check If a String Can Break Another String,Array
-1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Array
-1481. Least Number of Unique Integers after K Removals,Array
-1488. Avoid Flood in The City,Array
-1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits,Array
-1509. Minimum Difference Between Largest and Smallest Value in Three Moves,Array
-1520. Maximum Number of Non-Overlapping Substrings,Array
-1526. Minimum Number of Increments on Subarrays to Form a Target Array,Array
-1529. Minimum Suffix Flips,Array
-1536. Minimum Swaps to Arrange a Binary Grid,Array
-1537. Get the Maximum Score,Array
-1541. Minimum Insertions to Balance a Parentheses String,Array
-1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,Array
-1558. Minimum Numbers of Function Calls to Make Target Array,Array
-1561. Maximum Number of Coins You Can Get,Array
-1564. Put Boxes Into the Warehouse I,Array
-1567. Maximum Length of Subarray With Positive Product,Array
-1578. Minimum Time to Make Rope Colorful,Array
-1580. Put Boxes Into the Warehouse II,Array
-1585. Check If String Is Transformable With Substring Sort Operations,Array
-1589. Maximum Sum Obtained of Any Permutation,Array
-1605. Find Valid Matrix Given Row and Column Sums,Array
-1606. Find Servers That Handled Most Number of Requests,Array
-1632. Rank Transform of a Matrix,Array
-1642. Furthest Building You Can Reach,Array
-1647. Minimum Deletions to Make Character Frequencies Unique,Array
-1648. Sell Diminishing-Valued Colored Balls,Array
-1663. Smallest String With A Given Numeric Value,Array
-1665. Minimum Initial Energy to Finish Tasks,Array
-1671. Minimum Number of Removals to Make Mountain Array,Array
-1673. Find the Most Competitive Subsequence,Array
-1675. Minimize Deviation in Array,Array
-1686. Stone Game VI,Array
-1689. Partitioning Into Minimum Number Of Deci-Binary Numbers,Array
-1702. Maximum Binary String After Change,Array
-1703. Minimum Adjacent Swaps for K Consecutive Ones,Array
-1705. Maximum Number of Eaten Apples,Array
-1708. Largest Subarray Length K,Array
-1710. Maximum Units on a Truck,Array
-1713. Minimum Operations to Make a Subsequence,Array
-1717. Maximum Score From Removing Substrings,Array
-1727. Largest Submatrix With Rearrangements,Array
-1733. Minimum Number of People to Teach,Array
-1736. Latest Time by Replacing Hidden Digits,Array
-1739. Building Boxes,Array
-1753. Maximum Score From Removing Stones,Array
-1754. Largest Merge Of Two Strings,Array
-1764. Form Array by Concatenating Subarrays of Another Array,Array
-1775. Equal Sum Arrays With Minimum Number of Operations,Array
-1785. Minimum Elements to Add to Form a Given Sum,Array
-1788. Maximize the Beauty of the Garden,Array
-1792. Maximum Average Pass Ratio,Array
-1794. Count Pairs of Equal Substrings With Minimum Difference,Array
-1798. Maximum Number of Consecutive Values You Can Make,Array
-1802. Maximum Value at a Given Index in a Bounded Array,Array
-1824. Minimum Sideway Jumps,Array
-1827. Minimum Operations to Make the Array Increasing,Array
-1833. Maximum Ice Cream Bars,Array
-1838. Frequency of the Most Frequent Element,Array
-1846. Maximum Element After Decreasing and Rearranging,Array
-1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number,Array
-1855. Maximum Distance Between a Pair of Values,Array
-1864. Minimum Number of Swaps to Make the Binary String Alternating,Array
-1874. Minimize Product Sum of Two Arrays,Array
-1877. Minimize Maximum Pair Sum in Array,Array
-1881. Maximum Value after Insertion,Array
-1888. Minimum Number of Flips to Make the Binary String Alternating,Array
-1899. Merge Triplets to Form Target Triplet,Array
-1903. Largest Odd Number in String,Array
-1921. Eliminate Maximum Number of Monsters,Array
-1927. Sum Game,Array
-1936. Add Minimum Number of Rungs,Array
-1946. Largest Number After Mutating Substring,Array
-1953. Maximum Number of Weeks for Which You Can Work,Array
-1963. Minimum Number of Swaps to Make the String Balanced,Array
-1968. Array With Elements Not Equal to Average of Neighbors,Array
-1969. Minimum Non-Zero Product of the Array Elements,Array
-1974. Minimum Time to Type Word Using Special Typewriter,Array
-1975. Maximum Matrix Sum,Array
-1989. Maximum Number of People That Can Be Caught in Tag,Array
-1996. The Number of Weak Characters in the Game,Array
-2007. Find Original Array From Doubled Array,Array
-2014. Longest Subsequence Repeated k Times,Array
-2015. Average Height of Buildings in Each Segment,Array
-2027. Minimum Moves to Convert String,Array
-2029. Stone Game IX,Array
-2030. Smallest K-Length Subsequence With Occurrences of a Letter,Array
-2038. Remove Colored Pieces if Both Neighbors are the Same Color,Array
-2071. Maximum Number of Tasks You Can Assign,Array
-2078. Two Furthest Houses With Different Colors,Array
-2086. Minimum Number of Food Buckets to Feed the Hamsters,Array
-2087. Minimum Cost Homecoming of a Robot in a Grid,Array
-2091. Removing Minimum and Maximum From Array,Array
-2098. Subsequence of Size K With the Largest Even Sum,Array
-2116. Check if a Parentheses String Can Be Valid,Array
-2126. Destroying Asteroids,Array
-2131. Longest Palindrome by Concatenating Two Letter Words,Array
-2132. Stamping the Grid,Array
-2136. Earliest Possible Day of Full Bloom,Array
-2139. Minimum Moves to Reach Target Score,Array
-2141. Maximum Running Time of N Computers,Array
-2144. Minimum Cost of Buying Candies With Discount,Array
-2160. Minimum Sum of Four Digit Number After Splitting Digits,Array
-2170. Minimum Operations to Make the Array Alternating,Array
-2178. Maximum Split of Positive Even Integers,Array
-2182. Construct String With Repeat Limit,Array
-2193. Minimum Number of Moves to Make Palindrome,Array
-2195. Append K Integers With Minimal Sum,Array
-2202. Maximize the Topmost Element After K Moves,Array
-2207. Maximize Number of Subsequences in a String,Array
-2208. Minimum Operations to Halve Array Sum,Array
-2214. Minimum Health to Beat Game,Array
-2216. Minimum Deletions to Make Array Beautiful,Array
-2224. Minimum Number of Operations to Convert Time,Array
-2233. Maximum Product After K Increments,Array
-2234. Maximum Total Beauty of the Gardens,Array
-2241. Design an ATM Machine,Array
-2244. Minimum Rounds to Complete All Tasks,Array
-2259. Remove Digit From Number to Maximize Result,Array
-2263. Make Array Non-decreasing or Non-increasing,Array
-2268. Minimum Number of Keypresses,Array
-2271. Maximum White Tiles Covered by a Carpet,Array
-2279. Maximum Bags With Full Capacity of Rocks,Array
-2285. Maximum Total Importance of Roads,Array
-2294. Partition Array Such That Maximum Difference Is K,Array
-2310. Sum of Numbers With Units Digit K,Array
-2311. Longest Binary Subsequence Less Than or Equal to K,Array
-2323. Find Minimum Time to Finish All Jobs II,Array
-2335. Minimum Amount of Time to Fill Cups,Array
-2340. Minimum Adjacent Swaps to Make a Valid Array,Array
-2350. Shortest Impossible Sequence of Rolls,Array
-2357. Make Array Zero by Subtracting Equal Amounts,Array
-2358. Maximum Number of Groups Entering a Competition,Array
-2366. Minimum Replacements to Sort the Array,Array
-2371. Minimize Maximum Value in a Grid,Array
-2375. Construct Smallest Number From DI String,Array
-2383. Minimum Hours of Training to Win a Competition,Array
-2384. Largest Palindromic Number,Array
-2389. Longest Subsequence With Limited Sum,Array
-2405. Optimal Partition of String,Array
-2406. Divide Intervals Into Minimum Number of Groups,Array
-2410. Maximum Matching of Players With Trainers,Array
-2412. Minimum Money Required Before Transactions,Array
-2422. Merge Operations to Turn Array Into a Palindrome,Array
-2429. Minimize XOR,Array
-2434. Using a Robot to Print the Lexicographically Smallest String,Array
-2436. Minimum Split Into Subarrays With GCD Greater Than One,Array
-2439. Minimize Maximum of Array,Array
-2448. Minimum Cost to Make Array Equal,Array
-2449. Minimum Number of Operations to Make Arrays Similar,Array
-2457. Minimum Addition to Make Integer Beautiful,Array
-2459. Sort Array by Moving Items to Empty Space,Array
-2486. Append Characters to String to Make Subsequence,Array
-2497. Maximum Star Sum of a Graph,Array
-2498. Frog Jump II,Array
-2499. Minimum Total Cost to Make Arrays Unequal,Array
-2522. Partition String Into Substrings With Values at Most K,Array
-2528. Maximize the Minimum Powered City,Array
-2530. Maximal Score After Applying K Operations,Array
-2541. Minimum Operations to Make Array Equal II,Array
-2542. Maximum Subsequence Score,Array
-2548. Maximum Price to Fill a Bag,Array
-2551. Put Marbles in Bags,Array
-2554. Maximum Number of Integers to Choose From a Range I,Array
-2557. Maximum Number of Integers to Choose From a Range II,Array
-2561. Rearranging Fruits,Array
-2566. Maximum Difference by Remapping a Digit,Array
-2567. Minimum Score by Changing Two Elements,Array
-2571. Minimum Operations to Reduce an Integer to 0,Array
-2573. Find the String with LCP,Array
-2576. Find the Maximum Number of Marked Indices,Array
-2578. Split With Minimum Sum,Array
-2587. Rearrange Array to Maximize Prefix Score,Array
-2589. Minimum Time to Complete All Tasks,Array
-2591. Distribute Money to Maximum Children,Array
-2592. Maximize Greatness of an Array,Array
-2598. Smallest Missing Non-negative Integer After Operations,Array
-2599. Make the Prefix Sum Non-negative,Array
-2600. K Items With the Maximum Sum,Array
-2601. Prime Subtraction Operation,Array
-2611. Mice and Cheese,Array
-2616. Minimize the Maximum Difference of Pairs,Array
-2645. Minimum Additions to Make Valid String,Array
-2656. Maximum Sum With Exactly K Elements,Array
-2659. Make Array Empty,Array
-2663. Lexicographically Smallest Beautiful String,Array
-2673. Make Costs of Paths Equal in a Binary Tree,Array
-2680. Maximum OR,Array
-2708. Maximum Strength of a Group,Array
-2712. Minimum Cost to Make All Characters Equal,Array
-2732. Find a Good Subset of the Matrix,Array
-2734. Lexicographically Smallest String After Substring Operation,Array
-2745. Construct the Longest New String,Array
-2789. Largest Element in an Array after Merge Operations,Array
-2790. Maximum Number of Groups With Increasing Length,Array
-2800. Shortest String That Contains Three Strings,Array
-2808. Minimum Seconds to Equalize a Circular Array,Array
-2811. Check if it is Possible to Split Array,Array
-2813. Maximum Elegance of a K-Length Subsequence,Array
+Check if There is a Valid Partition For The Array,greedy
+Container With Most Water,greedy
+Wildcard Matching,greedy
+Jump Game II,greedy
+Jump Game,greedy
+Best Time to Buy and Sell Stock II,greedy
+Gas Station,greedy
+Candy,greedy
+Largest Number,greedy
+Meeting Rooms II,greedy
+Find the Celebrity,greedy
+Wiggle Sort,greedy
+Remove Duplicate Letters,greedy
+Create Maximum Number,greedy
+Patching Array,greedy
+Increasing Triplet Subsequence,greedy
+Rearrange String k Distance Apart,greedy
+Wiggle Subsequence,greedy
+Integer Replacement,greedy
+Remove K Digits,greedy
+Queue Reconstruction by Height,greedy
+Longest Palindrome,greedy
+Split Array Largest Sum,greedy
+Strong Password Checker,greedy
+Non-overlapping Intervals,greedy
+Minimum Number of Arrows to Burst Balloons,greedy
+Assign Cookies,greedy
+Find Permutation,greedy
+IPO,greedy
+Super Washing Machines,greedy
+Word Abbreviation,greedy
+Split Concatenated Strings,greedy
+Array Partition,greedy
+Shortest Unsorted Continuous Subarray,greedy
+Can Place Flowers,greedy
+Valid Triangle Number,greedy
+Task Scheduler,greedy
+Maximum Distance in Arrays,greedy
+Minimum Factorization,greedy
+Course Schedule III,greedy
+Smallest Range Covering Elements from K Lists,greedy
+Maximum Length of Pair Chain,greedy
+Dota2 Senate,greedy
+Split Array into Consecutive Subsequences,greedy
+Maximum Swap,greedy
+Valid Parenthesis String,greedy
+Valid Palindrome II,greedy
+Best Time to Buy and Sell Stock with Transaction Fee,greedy
+Monotone Increasing Digits,greedy
+Set Intersection Size At Least Two,greedy
+Check if There is a Valid Partition For The Array,greedy
+Container With Most Water,greedy
+Wildcard Matching,greedy
+Jump Game II,greedy
+Jump Game,greedy
+Best Time to Buy and Sell Stock II,greedy
+Gas Station,greedy
+Candy,greedy
+Largest Number,greedy
+Meeting Rooms II,greedy
+Find the Celebrity,greedy
+Wiggle Sort,greedy
+Remove Duplicate Letters,greedy
+Create Maximum Number,greedy
+Patching Array,greedy
+Increasing Triplet Subsequence,greedy
+Rearrange String k Distance Apart,greedy
+Wiggle Subsequence,greedy
+Integer Replacement,greedy
+Remove K Digits,greedy
+Queue Reconstruction by Height,greedy
+Longest Palindrome,greedy
+Split Array Largest Sum,greedy
+Strong Password Checker,greedy
+Non-overlapping Intervals,greedy
+Minimum Number of Arrows to Burst Balloons,greedy
+Assign Cookies,greedy
+Find Permutation,greedy
+IPO,greedy
+Super Washing Machines,greedy
+Word Abbreviation,greedy
+Split Concatenated Strings,greedy
+Array Partition,greedy
+Shortest Unsorted Continuous Subarray,greedy
+Can Place Flowers,greedy
+Valid Triangle Number,greedy
+Task Scheduler,greedy
+Maximum Distance in Arrays,greedy
+Minimum Factorization,greedy
+Course Schedule III,greedy
+Smallest Range Covering Elements from K Lists,greedy
+Maximum Length of Pair Chain,greedy
+Dota2 Senate,greedy
+Split Array into Consecutive Subsequences,greedy
+Maximum Swap,greedy
+Valid Parenthesis String,greedy
+Valid Palindrome II,greedy
+Best Time to Buy and Sell Stock with Transaction Fee,greedy
+Monotone Increasing Digits,greedy
+Set Intersection Size At Least Two,greedy
+Couples Holding Hands,greedy
+Reorganize String,greedy
+Max Chunks To Make Sorted II,greedy
+Max Chunks To Make Sorted,greedy
+Rabbits in Forest,greedy
+Max Increase to Keep City Skyline,greedy
+Most Profit Assigning Work,greedy
+Hand of Straights,greedy
+Minimum Cost to Hire K Workers,greedy
+Lemonade Change,greedy
+Score After Flipping Matrix,greedy
+Advantage Shuffle,greedy
+Minimum Number of Refueling Stops,greedy
+Boats to Save People,greedy
+Smallest Range II,greedy
+Minimum Add to Make Parentheses Valid,greedy
+Stamping The Sequence,greedy
+DI String Match,greedy
+Minimum Increment to Make Array Unique,greedy
+Bag of Tokens,greedy
+Array of Doubled Pairs,greedy
+Delete Columns to Make Sorted II,greedy
+Pancake Sorting,greedy
+Largest Perimeter Triangle,greedy
+String Without AAA or BBB,greedy
+Broken Calculator,greedy
+Maximize Sum Of Array After K Negations,greedy
+Minimum Domino Rotations For Equal Row,greedy
+Partition Array Into Three Parts With Equal Sum,greedy
+Video Stitching,greedy
+Two City Scheduling,greedy
+Previous Permutation With One Swap,greedy
+Distant Barcodes,greedy
+Shortest Way to Form String,greedy
+Campus Bikes,greedy
+Minimize Rounding Error to Meet Target,greedy
+Smallest Subsequence of Distinct Characters,greedy
+Largest Values From Labels,greedy
+Divide Array Into Increasing Sequences,greedy
+Minimum Cost Tree From Leaf Values,greedy
+Decrease Elements To Make Array Zigzag,greedy
+Longest Chunked Palindrome Decomposition,greedy
+Minimum Cost to Connect Sticks,greedy
+Maximum Number of Ones,greedy
+How Many Apples Can You Put into the Basket,greedy
+Minimum Time to Build Blocks,greedy
+Minimum Cost to Move Chips to The Same Position,greedy
+Split a String in Balanced Strings,greedy
+Minimum Swaps to Make Strings Equal,greedy
+Reconstruct a 2-Row Binary Matrix,greedy
+Greatest Sum Divisible by Three,greedy
+Divide Array in Sets of K Consecutive Numbers,greedy
+Maximum 69 Number,greedy
+Minimum Number of Taps to Open to Water a Garden,greedy
+Break a Palindrome,greedy
+Reverse Subarray To Maximize Array Value,greedy
+Reduce Array Size to The Half,greedy
+Maximum Number of Events That Can Be Attended,greedy
+Largest Multiple of Three,greedy
+Balance a Binary Search Tree,greedy
+Maximum Performance of a Team,greedy
+Cinema Seat Allocation,greedy
+Pizza With 3n Slices,greedy
+Construct K Palindrome Strings,greedy
+Reducing Dishes,greedy
+Minimum Subsequence in Non-Increasing Order,greedy
+Longest Happy String,greedy
+Find the Minimum Number of Fibonacci Numbers Whose Sum Is K,greedy
+Max Difference You Can Get From Changing an Integer,greedy
+Check If a String Can Break Another String,greedy
+Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,greedy
+Least Number of Unique Integers after K Removals,greedy
+Avoid Flood in The City,greedy
+Minimum Possible Integer After at Most K Adjacent Swaps On Digits,greedy
+Minimum Difference Between Largest and Smallest Value in Three Moves,greedy
+Maximum Number of Non-Overlapping Substrings,greedy
+Minimum Number of Increments on Subarrays to Form a Target Array,greedy
+Minimum Suffix Flips,greedy
+Minimum Swaps to Arrange a Binary Grid,greedy
+Get the Maximum Score,greedy
+Minimum Insertions to Balance a Parentheses String,greedy
+Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,greedy
+Minimum Numbers of Function Calls to Make Target Array,greedy
+Maximum Number of Coins You Can Get,greedy
+Put Boxes Into the Warehouse I,greedy
+Maximum Length of Subarray With Positive Product,greedy
+Minimum Time to Make Rope Colorful,greedy
+Put Boxes Into the Warehouse II,greedy
+Check If String Is Transformable With Substring Sort Operations,greedy
+Maximum Sum Obtained of Any Permutation,greedy
+Find Valid Matrix Given Row and Column Sums,greedy
+Find Servers That Handled Most Number of Requests,greedy
+Rank Transform of a Matrix,greedy
+Furthest Building You Can Reach,greedy
+Minimum Deletions to Make Character Frequencies Unique,greedy
+Sell Diminishing-Valued Colored Balls,greedy
+Smallest String With A Given Numeric Value,greedy
+Minimum Initial Energy to Finish Tasks,greedy
+Minimum Number of Removals to Make Mountain Array,greedy
+Find the Most Competitive Subsequence,greedy
+Check if There is a Valid Partition For The Array,greedy
+Container With Most Water,greedy
+Wildcard Matching,greedy
+Jump Game II,greedy
+Jump Game,greedy
+Best Time to Buy and Sell Stock II,greedy
+Gas Station,greedy
+Candy,greedy
+Largest Number,greedy
+Meeting Rooms II,greedy
+Find the Celebrity,greedy
+Wiggle Sort,greedy
+Remove Duplicate Letters,greedy
+Create Maximum Number,greedy
+Patching Array,greedy
+Increasing Triplet Subsequence,greedy
+Rearrange String k Distance Apart,greedy
+Wiggle Subsequence,greedy
+Integer Replacement,greedy
+Remove K Digits,greedy
+Queue Reconstruction by Height,greedy
+Longest Palindrome,greedy
+Split Array Largest Sum,greedy
+Strong Password Checker,greedy
+Non-overlapping Intervals,greedy
+Minimum Number of Arrows to Burst Balloons,greedy
+Assign Cookies,greedy
+Find Permutation,greedy
+IPO,greedy
+Super Washing Machines,greedy
+Word Abbreviation,greedy
+Split Concatenated Strings,greedy
+Array Partition,greedy
+Shortest Unsorted Continuous Subarray,greedy
+Can Place Flowers,greedy
+Valid Triangle Number,greedy
+Task Scheduler,greedy
+Maximum Distance in Arrays,greedy
+Minimum Factorization,greedy
+Course Schedule III,greedy
+Smallest Range Covering Elements from K Lists,greedy
+Maximum Length of Pair Chain,greedy
+Dota2 Senate,greedy
+Split Array into Consecutive Subsequences,greedy
+Maximum Swap,greedy
+Valid Parenthesis String,greedy
+Valid Palindrome II,greedy
+Best Time to Buy and Sell Stock with Transaction Fee,greedy
+Monotone Increasing Digits,greedy
+Set Intersection Size At Least Two,greedy
+Find Original Array From Doubled Array,greedy
+Longest Subsequence Repeated k Times,greedy
+Average Height of Buildings in Each Segment,greedy
+Minimum Moves to Convert String,greedy
+Stone Game IX,greedy
+Smallest K-Length Subsequence With Occurrences of a Letter,greedy
+Remove Colored Pieces if Both Neighbors are the Same Color,greedy
+Maximum Number of Tasks You Can Assign,greedy
+Two Furthest Houses With Different Colors,greedy
+Minimum Number of Food Buckets to Feed the Hamsters,greedy
+Minimum Cost Homecoming of a Robot in a Grid,greedy
+Removing Minimum and Maximum From Array,greedy
+Subsequence of Size K With the Largest Even Sum,greedy
+Check if a Parentheses String Can Be Valid,greedy
+Destroying Asteroids,greedy
+Longest Palindrome by Concatenating Two Letter Words,greedy
+Stamping the Grid,greedy
+Earliest Possible Day of Full Bloom,greedy
+Minimum Moves to Reach Target Score,greedy
+Maximum Running Time of N Computers,greedy
+Minimum Cost of Buying Candies With Discount,greedy
+Minimum Sum of Four Digit Number After Splitting Digits,greedy
+Minimum Operations to Make the Array Alternating,greedy
+Maximum Split of Positive Even Integers,greedy
+Construct String With Repeat Limit,greedy
+Minimum Number of Moves to Make Palindrome,greedy
+Append K Integers With Minimal Sum,greedy
+Maximize the Topmost Element After K Moves,greedy
+Maximize Number of Subsequences in a String,greedy
+Minimum Operations to Halve Array Sum,greedy
+Minimum Health to Beat Game,greedy
+Minimum Deletions to Make Array Beautiful,greedy
+Minimum Number of Operations to Convert Time,greedy
+Maximum Product After K Increments,greedy
+Maximum Total Beauty of the Gardens,greedy
+Design an ATM Machine,greedy
+Minimum Rounds to Complete All Tasks,greedy
+Remove Digit From Number to Maximize Result,greedy
+Make Array Non-decreasing or Non-increasing,greedy
+Minimum Number of Keypresses,greedy
+Maximum White Tiles Covered by a Carpet,greedy
+Maximum Bags With Full Capacity of Rocks,greedy
+Maximum Total Importance of Roads,greedy
+Partition Array Such That Maximum Difference Is K,greedy
+Sum of Numbers With Units Digit K,greedy
+Longest Binary Subsequence Less Than or Equal to K,greedy
+Find Minimum Time to Finish All Jobs II,greedy
+Minimum Amount of Time to Fill Cups,greedy
+Minimum Adjacent Swaps to Make a Valid Array,greedy
+Shortest Impossible Sequence of Rolls,greedy
+Make Array Zero by Subtracting Equal Amounts,greedy
+Maximum Number of Groups Entering a Competition,greedy
+Minimum Replacements to Sort the Array,greedy
+Minimize Maximum Value in a Grid,greedy
+Construct Smallest Number From DI String,greedy
+Minimum Hours of Training to Win a Competition,greedy
+Largest Palindromic Number,greedy
+Longest Subsequence With Limited Sum,greedy
+Optimal Partition of String,greedy
+Divide Intervals Into Minimum Number of Groups,greedy
+Maximum Matching of Players With Trainers,greedy
+Minimum Money Required Before Transactions,greedy
+Merge Operations to Turn Array Into a Palindrome,greedy
+Minimize XOR,greedy
+Using a Robot to Print the Lexicographically Smallest String,greedy
+Minimum Split Into Subarrays With GCD Greater Than One,greedy
+Minimize Maximum of Array,greedy
+Minimum Cost to Make Array Equal,greedy
+Minimum Number of Operations to Make Arrays Similar,greedy
+Minimum Addition to Make Integer Beautiful,greedy
+Sort Array by Moving Items to Empty Space,greedy
+Append Characters to String to Make Subsequence,greedy
+Maximum Star Sum of a Graph,greedy
+Frog Jump II,greedy
+Minimum Total Cost to Make Arrays Unequal,greedy
+Partition String Into Substrings With Values at Most K,greedy
+Maximize the Minimum Powered City,greedy
+Maximal Score After Applying K Operations,greedy
+Minimum Operations to Make Array Equal II,greedy
+Maximum Subsequence Score,greedy
+Maximum Price to Fill a Bag,greedy
+Put Marbles in Bags,greedy
+Maximum Number of Integers to Choose From a Range I,greedy
+Maximum Number of Integers to Choose From a Range II,greedy
+Rearranging Fruits,greedy
+Maximum Difference by Remapping a Digit,greedy
+Minimum Score by Changing Two Elements,greedy
+Minimum Operations to Reduce an Integer to 0,greedy
+Find the String with LCP,greedy
+Find the Maximum Number of Marked Indices,greedy
+Split With Minimum Sum,greedy
+Rearrange Array to Maximize Prefix Score,greedy
+Minimum Time to Complete All Tasks,greedy
+Distribute Money to Maximum Children,greedy
+Maximize Greatness of an Array,greedy
+Smallest Missing Non-negative Integer After Operations,greedy
+Make the Prefix Sum Non-negative,greedy
+K Items With the Maximum Sum,greedy
+Prime Subtraction Operation,greedy
+Mice and Cheese,greedy

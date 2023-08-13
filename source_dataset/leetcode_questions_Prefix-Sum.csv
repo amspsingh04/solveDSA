@@ -1,401 +1,182 @@
 Question,Tag
-63. Unique Paths II,Prefix Sum
-1. Two Sum,Prefix Sum
-2. Add Two Numbers,Prefix Sum
-3. Longest Substring Without Repeating Characters,Prefix Sum
-4. Median of Two Sorted Arrays,Prefix Sum
-5. Longest Palindromic Substring,Prefix Sum
-6. Zigzag Conversion,Prefix Sum
-7. Reverse Integer,Prefix Sum
-8. String to Integer (atoi),Prefix Sum
-9. Palindrome Number,Prefix Sum
-10. Regular Expression Matching,Prefix Sum
-11. Container With Most Water,Prefix Sum
-12. Integer to Roman,Prefix Sum
-13. Roman to Integer,Prefix Sum
-14. Longest Common Prefix,Prefix Sum
-15. 3Sum,Prefix Sum
-16. 3Sum Closest,Prefix Sum
-17. Letter Combinations of a Phone Number,Prefix Sum
-18. 4Sum,Prefix Sum
-19. Remove Nth Node From End of List,Prefix Sum
-20. Valid Parentheses,Prefix Sum
-21. Merge Two Sorted Lists,Prefix Sum
-22. Generate Parentheses,Prefix Sum
-23. Merge k Sorted Lists,Prefix Sum
-24. Swap Nodes in Pairs,Prefix Sum
-25. Reverse Nodes in k-Group,Prefix Sum
-26. Remove Duplicates from Sorted Array,Prefix Sum
-27. Remove Element,Prefix Sum
-28. Find the Index of the First Occurrence in a String,Prefix Sum
-29. Divide Two Integers,Prefix Sum
-30. Substring with Concatenation of All Words,Prefix Sum
-31. Next Permutation,Prefix Sum
-32. Longest Valid Parentheses,Prefix Sum
-33. Search in Rotated Sorted Array,Prefix Sum
-34. Find First and Last Position of Element in Sorted Array,Prefix Sum
-35. Search Insert Position,Prefix Sum
-36. Valid Sudoku,Prefix Sum
-37. Sudoku Solver,Prefix Sum
-38. Count and Say,Prefix Sum
-39. Combination Sum,Prefix Sum
-40. Combination Sum II,Prefix Sum
-41. First Missing Positive,Prefix Sum
-42. Trapping Rain Water,Prefix Sum
-43. Multiply Strings,Prefix Sum
-44. Wildcard Matching,Prefix Sum
-45. Jump Game II,Prefix Sum
-46. Permutations,Prefix Sum
-47. Permutations II,Prefix Sum
-48. Rotate Image,Prefix Sum
-49. Group Anagrams,Prefix Sum
-63. Unique Paths II,Prefix Sum
-1. Two Sum,Prefix Sum
-2. Add Two Numbers,Prefix Sum
-3. Longest Substring Without Repeating Characters,Prefix Sum
-4. Median of Two Sorted Arrays,Prefix Sum
-5. Longest Palindromic Substring,Prefix Sum
-6. Zigzag Conversion,Prefix Sum
-7. Reverse Integer,Prefix Sum
-8. String to Integer (atoi),Prefix Sum
-9. Palindrome Number,Prefix Sum
-10. Regular Expression Matching,Prefix Sum
-11. Container With Most Water,Prefix Sum
-12. Integer to Roman,Prefix Sum
-13. Roman to Integer,Prefix Sum
-14. Longest Common Prefix,Prefix Sum
-15. 3Sum,Prefix Sum
-16. 3Sum Closest,Prefix Sum
-17. Letter Combinations of a Phone Number,Prefix Sum
-18. 4Sum,Prefix Sum
-19. Remove Nth Node From End of List,Prefix Sum
-20. Valid Parentheses,Prefix Sum
-21. Merge Two Sorted Lists,Prefix Sum
-22. Generate Parentheses,Prefix Sum
-23. Merge k Sorted Lists,Prefix Sum
-24. Swap Nodes in Pairs,Prefix Sum
-25. Reverse Nodes in k-Group,Prefix Sum
-26. Remove Duplicates from Sorted Array,Prefix Sum
-27. Remove Element,Prefix Sum
-28. Find the Index of the First Occurrence in a String,Prefix Sum
-29. Divide Two Integers,Prefix Sum
-30. Substring with Concatenation of All Words,Prefix Sum
-31. Next Permutation,Prefix Sum
-32. Longest Valid Parentheses,Prefix Sum
-33. Search in Rotated Sorted Array,Prefix Sum
-34. Find First and Last Position of Element in Sorted Array,Prefix Sum
-35. Search Insert Position,Prefix Sum
-36. Valid Sudoku,Prefix Sum
-37. Sudoku Solver,Prefix Sum
-38. Count and Say,Prefix Sum
-39. Combination Sum,Prefix Sum
-40. Combination Sum II,Prefix Sum
-41. First Missing Positive,Prefix Sum
-42. Trapping Rain Water,Prefix Sum
-43. Multiply Strings,Prefix Sum
-44. Wildcard Matching,Prefix Sum
-45. Jump Game II,Prefix Sum
-46. Permutations,Prefix Sum
-47. Permutations II,Prefix Sum
-48. Rotate Image,Prefix Sum
-49. Group Anagrams,Prefix Sum
-51. N-Queens,Prefix Sum
-52. N-Queens II,Prefix Sum
-53. Maximum Subarray,Prefix Sum
-54. Spiral Matrix,Prefix Sum
-55. Jump Game,Prefix Sum
-56. Merge Intervals,Prefix Sum
-57. Insert Interval,Prefix Sum
-58. Length of Last Word,Prefix Sum
-59. Spiral Matrix II,Prefix Sum
-60. Permutation Sequence,Prefix Sum
-61. Rotate List,Prefix Sum
-62. Unique Paths,Prefix Sum
-63. Unique Paths II,Prefix Sum
-64. Minimum Path Sum,Prefix Sum
-65. Valid Number,Prefix Sum
-66. Plus One,Prefix Sum
-67. Add Binary,Prefix Sum
-68. Text Justification,Prefix Sum
-69. Sqrt(x),Prefix Sum
-70. Climbing Stairs,Prefix Sum
-71. Simplify Path,Prefix Sum
-72. Edit Distance,Prefix Sum
-73. Set Matrix Zeroes,Prefix Sum
-74. Search a 2D Matrix,Prefix Sum
-75. Sort Colors,Prefix Sum
-76. Minimum Window Substring,Prefix Sum
-77. Combinations,Prefix Sum
-78. Subsets,Prefix Sum
-79. Word Search,Prefix Sum
-80. Remove Duplicates from Sorted Array II,Prefix Sum
-81. Search in Rotated Sorted Array II,Prefix Sum
-82. Remove Duplicates from Sorted List II,Prefix Sum
-83. Remove Duplicates from Sorted List,Prefix Sum
-84. Largest Rectangle in Histogram,Prefix Sum
-85. Maximal Rectangle,Prefix Sum
-86. Partition List,Prefix Sum
-87. Scramble String,Prefix Sum
-88. Merge Sorted Array,Prefix Sum
-89. Gray Code,Prefix Sum
-90. Subsets II,Prefix Sum
-91. Decode Ways,Prefix Sum
-92. Reverse Linked List II,Prefix Sum
-93. Restore IP Addresses,Prefix Sum
-94. Binary Tree Inorder Traversal,Prefix Sum
-95. Unique Binary Search Trees II,Prefix Sum
-96. Unique Binary Search Trees,Prefix Sum
-97. Interleaving String,Prefix Sum
-98. Validate Binary Search Tree,Prefix Sum
-99. Recover Binary Search Tree,Prefix Sum
-100. Same Tree,Prefix Sum
-101. Symmetric Tree,Prefix Sum
-102. Binary Tree Level Order Traversal,Prefix Sum
-103. Binary Tree Zigzag Level Order Traversal,Prefix Sum
-104. Maximum Depth of Binary Tree,Prefix Sum
-105. Construct Binary Tree from Preorder and Inorder Traversal,Prefix Sum
-106. Construct Binary Tree from Inorder and Postorder Traversal,Prefix Sum
-107. Binary Tree Level Order Traversal II,Prefix Sum
-108. Convert Sorted Array to Binary Search Tree,Prefix Sum
-109. Convert Sorted List to Binary Search Tree,Prefix Sum
-110. Balanced Binary Tree,Prefix Sum
-111. Minimum Depth of Binary Tree,Prefix Sum
-112. Path Sum,Prefix Sum
-113. Path Sum II,Prefix Sum
-114. Flatten Binary Tree to Linked List,Prefix Sum
-115. Distinct Subsequences,Prefix Sum
-116. Populating Next Right Pointers in Each Node,Prefix Sum
-117. Populating Next Right Pointers in Each Node II,Prefix Sum
-118. Pascal's Triangle,Prefix Sum
-119. Pascal's Triangle II,Prefix Sum
-120. Triangle,Prefix Sum
-121. Best Time to Buy and Sell Stock,Prefix Sum
-122. Best Time to Buy and Sell Stock II,Prefix Sum
-123. Best Time to Buy and Sell Stock III,Prefix Sum
-124. Binary Tree Maximum Path Sum,Prefix Sum
-125. Valid Palindrome,Prefix Sum
-126. Word Ladder II,Prefix Sum
-127. Word Ladder,Prefix Sum
-128. Longest Consecutive Sequence,Prefix Sum
-129. Sum Root to Leaf Numbers,Prefix Sum
-130. Surrounded Regions,Prefix Sum
-131. Palindrome Partitioning,Prefix Sum
-132. Palindrome Partitioning II,Prefix Sum
-133. Clone Graph,Prefix Sum
-134. Gas Station,Prefix Sum
-135. Candy,Prefix Sum
-136. Single Number,Prefix Sum
-137. Single Number II,Prefix Sum
-138. Copy List with Random Pointer,Prefix Sum
-139. Word Break,Prefix Sum
-140. Word Break II,Prefix Sum
-141. Linked List Cycle,Prefix Sum
-142. Linked List Cycle II,Prefix Sum
-143. Reorder List,Prefix Sum
-144. Binary Tree Preorder Traversal,Prefix Sum
-145. Binary Tree Postorder Traversal,Prefix Sum
-146. LRU Cache,Prefix Sum
-147. Insertion Sort List,Prefix Sum
-148. Sort List,Prefix Sum
-149. Max Points on a Line,Prefix Sum
-150. Evaluate Reverse Polish Notation,Prefix Sum
-151. Reverse Words in a String,Prefix Sum
-152. Maximum Product Subarray,Prefix Sum
-153. Find Minimum in Rotated Sorted Array,Prefix Sum
-154. Find Minimum in Rotated Sorted Array II,Prefix Sum
-155. Min Stack,Prefix Sum
-156. Binary Tree Upside Down,Prefix Sum
-157. Read N Characters Given Read4,Prefix Sum
-158. Read N Characters Given read4 II - Call Multiple Times,Prefix Sum
-159. Longest Substring with At Most Two Distinct Characters,Prefix Sum
-160. Intersection of Two Linked Lists,Prefix Sum
-161. One Edit Distance,Prefix Sum
-162. Find Peak Element,Prefix Sum
-163. Missing Ranges,Prefix Sum
-164. Maximum Gap,Prefix Sum
-165. Compare Version Numbers,Prefix Sum
-166. Fraction to Recurring Decimal,Prefix Sum
-167. Two Sum II - Input Array Is Sorted,Prefix Sum
-168. Excel Sheet Column Title,Prefix Sum
-169. Majority Element,Prefix Sum
-170. Two Sum III - Data structure design,Prefix Sum
-171. Excel Sheet Column Number,Prefix Sum
-172. Factorial Trailing Zeroes,Prefix Sum
-173. Binary Search Tree Iterator,Prefix Sum
-174. Dungeon Game,Prefix Sum
-175. Combine Two Tables,Prefix Sum
-176. Second Highest Salary,Prefix Sum
-177. Nth Highest Salary,Prefix Sum
-178. Rank Scores,Prefix Sum
-179. Largest Number,Prefix Sum
-180. Consecutive Numbers,Prefix Sum
-181. Employees Earning More Than Their Managers,Prefix Sum
-182. Duplicate Emails,Prefix Sum
-183. Customers Who Never Order,Prefix Sum
-184. Department Highest Salary,Prefix Sum
-185. Department Top Three Salaries,Prefix Sum
-186. Reverse Words in a String II,Prefix Sum
-187. Repeated DNA Sequences,Prefix Sum
-188. Best Time to Buy and Sell Stock IV,Prefix Sum
-189. Rotate Array,Prefix Sum
-190. Reverse Bits,Prefix Sum
-191. Number of 1 Bits,Prefix Sum
-192. Word Frequency,Prefix Sum
-193. Valid Phone Numbers,Prefix Sum
-194. Transpose File,Prefix Sum
-195. Tenth Line,Prefix Sum
-196. Delete Duplicate Emails,Prefix Sum
-197. Rising Temperature,Prefix Sum
-198. House Robber,Prefix Sum
-199. Binary Tree Right Side View,Prefix Sum
-200. Number of Islands,Prefix Sum
-201. Bitwise AND of Numbers Range,Prefix Sum
-202. Happy Number,Prefix Sum
-203. Remove Linked List Elements,Prefix Sum
-204. Count Primes,Prefix Sum
-205. Isomorphic Strings,Prefix Sum
-206. Reverse Linked List,Prefix Sum
-207. Course Schedule,Prefix Sum
-208. Implement Trie (Prefix Tree),Prefix Sum
-209. Minimum Size Subarray Sum,Prefix Sum
-210. Course Schedule II,Prefix Sum
-211. Design Add and Search Words Data Structure,Prefix Sum
-212. Word Search II,Prefix Sum
-213. House Robber II,Prefix Sum
-214. Shortest Palindrome,Prefix Sum
-215. Kth Largest Element in an Array,Prefix Sum
-216. Combination Sum III,Prefix Sum
-217. Contains Duplicate,Prefix Sum
-218. The Skyline Problem,Prefix Sum
-219. Contains Duplicate II,Prefix Sum
-220. Contains Duplicate III,Prefix Sum
-221. Maximal Square,Prefix Sum
-222. Count Complete Tree Nodes,Prefix Sum
-223. Rectangle Area,Prefix Sum
-224. Basic Calculator,Prefix Sum
-225. Implement Stack using Queues,Prefix Sum
-226. Invert Binary Tree,Prefix Sum
-227. Basic Calculator II,Prefix Sum
-228. Summary Ranges,Prefix Sum
-229. Majority Element II,Prefix Sum
-230. Kth Smallest Element in a BST,Prefix Sum
-231. Power of Two,Prefix Sum
-232. Implement Queue using Stacks,Prefix Sum
-233. Number of Digit One,Prefix Sum
-234. Palindrome Linked List,Prefix Sum
-235. Lowest Common Ancestor of a Binary Search Tree,Prefix Sum
-236. Lowest Common Ancestor of a Binary Tree,Prefix Sum
-237. Delete Node in a Linked List,Prefix Sum
-238. Product of Array Except Self,Prefix Sum
-239. Sliding Window Maximum,Prefix Sum
-240. Search a 2D Matrix II,Prefix Sum
-241. Different Ways to Add Parentheses,Prefix Sum
-242. Valid Anagram,Prefix Sum
-243. Shortest Word Distance,Prefix Sum
-244. Shortest Word Distance II,Prefix Sum
-245. Shortest Word Distance III,Prefix Sum
-246. Strobogrammatic Number,Prefix Sum
-247. Strobogrammatic Number II,Prefix Sum
-248. Strobogrammatic Number III,Prefix Sum
-249. Group Shifted Strings,Prefix Sum
-250. Count Univalue Subtrees,Prefix Sum
-251. Flatten 2D Vector,Prefix Sum
-252. Meeting Rooms,Prefix Sum
-253. Meeting Rooms II,Prefix Sum
-254. Factor Combinations,Prefix Sum
-255. Verify Preorder Sequence in Binary Search Tree,Prefix Sum
-256. Paint House,Prefix Sum
-257. Binary Tree Paths,Prefix Sum
-258. Add Digits,Prefix Sum
-259. 3Sum Smaller,Prefix Sum
-260. Single Number III,Prefix Sum
-261. Graph Valid Tree,Prefix Sum
-262. Trips and Users,Prefix Sum
-263. Ugly Number,Prefix Sum
-264. Ugly Number II,Prefix Sum
-265. Paint House II,Prefix Sum
-266. Palindrome Permutation,Prefix Sum
-267. Palindrome Permutation II,Prefix Sum
-268. Missing Number,Prefix Sum
-269. Alien Dictionary,Prefix Sum
-270. Closest Binary Search Tree Value,Prefix Sum
-271. Encode and Decode Strings,Prefix Sum
-272. Closest Binary Search Tree Value II,Prefix Sum
-273. Integer to English Words,Prefix Sum
-274. H-Index,Prefix Sum
-275. H-Index II,Prefix Sum
-276. Paint Fence,Prefix Sum
-277. Find the Celebrity,Prefix Sum
-278. First Bad Version,Prefix Sum
-279. Perfect Squares,Prefix Sum
-280. Wiggle Sort,Prefix Sum
-281. Zigzag Iterator,Prefix Sum
-282. Expression Add Operators,Prefix Sum
-283. Move Zeroes,Prefix Sum
-284. Peeking Iterator,Prefix Sum
-285. Inorder Successor in BST,Prefix Sum
-286. Walls and Gates,Prefix Sum
-287. Find the Duplicate Number,Prefix Sum
-288. Unique Word Abbreviation,Prefix Sum
-289. Game of Life,Prefix Sum
-290. Word Pattern,Prefix Sum
-291. Word Pattern II,Prefix Sum
-292. Nim Game,Prefix Sum
-293. Flip Game,Prefix Sum
-294. Flip Game II,Prefix Sum
-295. Find Median from Data Stream,Prefix Sum
-296. Best Meeting Point,Prefix Sum
-297. Serialize and Deserialize Binary Tree,Prefix Sum
-298. Binary Tree Longest Consecutive Sequence,Prefix Sum
-299. Bulls and Cows,Prefix Sum
-300. Longest Increasing Subsequence,Prefix Sum
-301. Remove Invalid Parentheses,Prefix Sum
-302. Smallest Rectangle Enclosing Black Pixels,Prefix Sum
-303. Range Sum Query - Immutable,Prefix Sum
-304. Range Sum Query 2D - Immutable,Prefix Sum
-305. Number of Islands II,Prefix Sum
-306. Additive Number,Prefix Sum
-307. Range Sum Query - Mutable,Prefix Sum
-308. Range Sum Query 2D - Mutable,Prefix Sum
-309. Best Time to Buy and Sell Stock with Cooldown,Prefix Sum
-310. Minimum Height Trees,Prefix Sum
-311. Sparse Matrix Multiplication,Prefix Sum
-312. Burst Balloons,Prefix Sum
-313. Super Ugly Number,Prefix Sum
-314. Binary Tree Vertical Order Traversal,Prefix Sum
-315. Count of Smaller Numbers After Self,Prefix Sum
-316. Remove Duplicate Letters,Prefix Sum
-317. Shortest Distance from All Buildings,Prefix Sum
-318. Maximum Product of Word Lengths,Prefix Sum
-319. Bulb Switcher,Prefix Sum
-320. Generalized Abbreviation,Prefix Sum
-321. Create Maximum Number,Prefix Sum
-322. Coin Change,Prefix Sum
-323. Number of Connected Components in an Undirected Graph,Prefix Sum
-324. Wiggle Sort II,Prefix Sum
-325. Maximum Size Subarray Sum Equals k,Prefix Sum
-326. Power of Three,Prefix Sum
-327. Count of Range Sum,Prefix Sum
-328. Odd Even Linked List,Prefix Sum
-329. Longest Increasing Path in a Matrix,Prefix Sum
-330. Patching Array,Prefix Sum
-331. Verify Preorder Serialization of a Binary Tree,Prefix Sum
-332. Reconstruct Itinerary,Prefix Sum
-333. Largest BST Subtree,Prefix Sum
-334. Increasing Triplet Subsequence,Prefix Sum
-335. Self Crossing,Prefix Sum
-336. Palindrome Pairs,Prefix Sum
-337. House Robber III,Prefix Sum
-338. Counting Bits,Prefix Sum
-339. Nested List Weight Sum,Prefix Sum
-340. Longest Substring with At Most K Distinct Characters,Prefix Sum
-341. Flatten Nested List Iterator,Prefix Sum
-342. Power of Four,Prefix Sum
-343. Integer Break,Prefix Sum
-344. Reverse String,Prefix Sum
-345. Reverse Vowels of a String,Prefix Sum
-346. Moving Average from Data Stream,Prefix Sum
-347. Top K Frequent Elements,Prefix Sum
-348. Design Tic-Tac-Toe,Prefix Sum
-349. Intersection of Two Arrays,Prefix Sum
-350. Intersection of Two Arrays II,Prefix Sum
+Check if There is a Valid Partition For The Array,prefix-sum
+Minimum Size Subarray Sum,prefix-sum
+Product of Array Except Self,prefix-sum
+Meeting Rooms II,prefix-sum
+Range Sum Query - Immutable,prefix-sum
+Range Sum Query 2D - Immutable,prefix-sum
+Maximum Size Subarray Sum Equals k,prefix-sum
+Max Sum of Rectangle No Larger Than K,prefix-sum
+Range Addition,prefix-sum
+Split Array Largest Sum,prefix-sum
+Random Point in Non-overlapping Rectangles,prefix-sum
+Continuous Subarray Sum,prefix-sum
+Contiguous Array,prefix-sum
+Random Pick with Weight,prefix-sum
+Split Array with Equal Sum,prefix-sum
+Subarray Sum Equals K,prefix-sum
+Maximum Average Subarray II,prefix-sum
+Find Pivot Index,prefix-sum
+Smallest Rotation with Highest Score,prefix-sum
+Largest Sum of Averages,prefix-sum
+Shortest Subarray with Sum at Least K,prefix-sum
+Valid Permutations for DI Sequence,prefix-sum
+Binary Subarrays With Sum,prefix-sum
+Subarray Sums Divisible by K,prefix-sum
+Minimum Number of K Consecutive Bit Flips,prefix-sum
+Minimum Cost to Merge Stones,prefix-sum
+Max Consecutive Ones III,prefix-sum
+Number of Submatrices That Sum to Target,prefix-sum
+Car Pooling,prefix-sum
+Corporate Flight Bookings,prefix-sum
+Longest Well-Performing Interval,prefix-sum
+Stone Game II,prefix-sum
+Can Make Palindrome from Substring,prefix-sum
+Get Equal Substrings Within Budget,prefix-sum
+Maximum Side Length of a Square with Sum Less than or Equal to Threshold,prefix-sum
+XOR Queries of a Subarray,prefix-sum
+Matrix Block Sum,prefix-sum
+Find the Longest Substring Containing Vowels in Even Counts,prefix-sum
+Minimum Value to Get Positive Step by Step Sum,prefix-sum
+Build Array Where You Can Find The Maximum Exactly K Comparisons,prefix-sum
+Maximum Points You Can Obtain from Cards,prefix-sum
+Count Triplets That Can Form Two Arrays of Equal XOR,prefix-sum
+Running Sum of 1d Array,prefix-sum
+Number of Sub-arrays With Odd Sum,prefix-sum
+Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,prefix-sum
+Sum of All Odd Length Subarrays,prefix-sum
+Maximum Sum Obtained of Any Permutation,prefix-sum
+Make Sum Divisible by P,prefix-sum
+Minimum Operations to Reduce X to Zero,prefix-sum
+Minimum Moves to Make Array Complementary,prefix-sum
+Check if There is a Valid Partition For The Array,prefix-sum
+Minimum Size Subarray Sum,prefix-sum
+Product of Array Except Self,prefix-sum
+Meeting Rooms II,prefix-sum
+Range Sum Query - Immutable,prefix-sum
+Range Sum Query 2D - Immutable,prefix-sum
+Maximum Size Subarray Sum Equals k,prefix-sum
+Max Sum of Rectangle No Larger Than K,prefix-sum
+Range Addition,prefix-sum
+Split Array Largest Sum,prefix-sum
+Random Point in Non-overlapping Rectangles,prefix-sum
+Continuous Subarray Sum,prefix-sum
+Contiguous Array,prefix-sum
+Random Pick with Weight,prefix-sum
+Split Array with Equal Sum,prefix-sum
+Subarray Sum Equals K,prefix-sum
+Maximum Average Subarray II,prefix-sum
+Find Pivot Index,prefix-sum
+Smallest Rotation with Highest Score,prefix-sum
+Largest Sum of Averages,prefix-sum
+Shortest Subarray with Sum at Least K,prefix-sum
+Valid Permutations for DI Sequence,prefix-sum
+Binary Subarrays With Sum,prefix-sum
+Subarray Sums Divisible by K,prefix-sum
+Minimum Number of K Consecutive Bit Flips,prefix-sum
+Minimum Cost to Merge Stones,prefix-sum
+Max Consecutive Ones III,prefix-sum
+Number of Submatrices That Sum to Target,prefix-sum
+Car Pooling,prefix-sum
+Corporate Flight Bookings,prefix-sum
+Longest Well-Performing Interval,prefix-sum
+Stone Game II,prefix-sum
+Can Make Palindrome from Substring,prefix-sum
+Get Equal Substrings Within Budget,prefix-sum
+Maximum Side Length of a Square with Sum Less than or Equal to Threshold,prefix-sum
+XOR Queries of a Subarray,prefix-sum
+Matrix Block Sum,prefix-sum
+Find the Longest Substring Containing Vowels in Even Counts,prefix-sum
+Minimum Value to Get Positive Step by Step Sum,prefix-sum
+Build Array Where You Can Find The Maximum Exactly K Comparisons,prefix-sum
+Maximum Points You Can Obtain from Cards,prefix-sum
+Count Triplets That Can Form Two Arrays of Equal XOR,prefix-sum
+Running Sum of 1d Array,prefix-sum
+Number of Sub-arrays With Odd Sum,prefix-sum
+Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,prefix-sum
+Sum of All Odd Length Subarrays,prefix-sum
+Maximum Sum Obtained of Any Permutation,prefix-sum
+Make Sum Divisible by P,prefix-sum
+Minimum Operations to Reduce X to Zero,prefix-sum
+Minimum Moves to Make Array Complementary,prefix-sum
+Delivering Boxes from Storage to Ports,prefix-sum
+Minimum Adjacent Swaps for K Consecutive Ones,prefix-sum
+Ways to Split Array Into Three Subarrays,prefix-sum
+Find the Highest Altitude,prefix-sum
+Change Minimum Characters to Satisfy One of Three Conditions,prefix-sum
+Find Kth Largest XOR Coordinate Value,prefix-sum
+Can You Eat Your Favorite Candy on Your Favorite Day?,prefix-sum
+Maximize the Beauty of the Garden,prefix-sum
+Maximum XOR for Each Query,prefix-sum
+Frequency of the Most Frequent Element,prefix-sum
+Maximum Subarray Min-Product,prefix-sum
+Sum of Floored Pairs,prefix-sum
+Jump Game VII,prefix-sum
+Stone Game VIII,prefix-sum
+Get Biggest Three Rhombus Sums in a Grid,prefix-sum
+Minimum Space Wasted From Packaging,prefix-sum
+Check if All the Integers in a Range Are Covered,prefix-sum
+Find the Student that Will Replace the Chalk,prefix-sum
+Largest Magic Square,prefix-sum
+Number of Wonderful Substrings,prefix-sum
+Unique Length-3 Palindromic Subsequences,prefix-sum
+Describe the Painting,prefix-sum
+Widest Pair of Indices With Equal Range Sum,prefix-sum
+Find the Middle Index in Array,prefix-sum
+Grid Game,prefix-sum
+Brightest Position on Street,prefix-sum
+Maximize the Confusion of an Exam,prefix-sum
+Maximum Number of Ways to Partition an Array,prefix-sum
+Plates Between Candles,prefix-sum
+Number of Equal Count Substrings,prefix-sum
+Substrings That Begin and End With the Same Letter,prefix-sum
+Find Good Days to Rob the Bank,prefix-sum
+Maximum Fruits Harvested After at Most K Steps,prefix-sum
+Intervals Between Identical Elements,prefix-sum
+Stamping the Grid,prefix-sum
+Count the Hidden Sequences,prefix-sum
+Removing Minimum Number of Magic Beans,prefix-sum
+Maximize Number of Subsequences in a String,prefix-sum
+Minimum White Tiles After Covering With Carpets,prefix-sum
+Minimum Health to Beat Game,prefix-sum
+Maximum Value of K Coins From Piles,prefix-sum
+Maximum Sum Score of Array,prefix-sum
+Number of Ways to Select Buildings,prefix-sum
+Count Positions on Street With Required Brightness,prefix-sum
+Maximum Trailing Zeros in a Cornered Path,prefix-sum
+Number of Flowers in Full Bloom,prefix-sum
+Minimum Average Difference,prefix-sum
+Number of Ways to Split Array,prefix-sum
+Maximum White Tiles Covered by a Carpet,prefix-sum
+Sum of Total Strength of Wizards,prefix-sum
+Count Subarrays With Score Less Than K,prefix-sum
+Shifting Letters II,prefix-sum
+Maximum Segment Sum After Removals,prefix-sum
+Longest Subsequence With Limited Sum,prefix-sum
+Minimum Amount of Time to Collect Garbage,prefix-sum
+Maximum Number of Robots Within Budget,prefix-sum
+Divide Intervals Into Minimum Number of Groups,prefix-sum
+Find All Good Indices,prefix-sum
+Maximum Sum of an Hourglass,prefix-sum
+Range Product Queries of Powers,prefix-sum
+Minimize Maximum of Array,prefix-sum
+Minimum Cost to Make Array Equal,prefix-sum
+Minimum Penalty for a Shop,prefix-sum
+Find the Pivot Integer,prefix-sum
+Count Subarrays With Median K,prefix-sum
+Number of Substrings With Fixed Ratio,prefix-sum
+Maximize the Minimum Powered City,prefix-sum
+Increment Submatrices by One,prefix-sum
+Count Increasing Quadruplets,prefix-sum
+Count Vowel Strings in Ranges,prefix-sum
+Left and Right Sum Differences,prefix-sum
+Rearrange Array to Maximize Prefix Score,prefix-sum
+Count the Number of Beautiful Subarrays,prefix-sum
+Minimum Operations to Make All Array Elements Equal,prefix-sum
+Sum of Distances,prefix-sum
+Find the Score of All Prefixes of an Array,prefix-sum
+Maximum OR,prefix-sum
+Power of Heroes,prefix-sum
+Movement of Robots,prefix-sum
+Apply Operations to Make All Array Elements Equal to Zero,prefix-sum
+Largest Element in an Array after Merge Operations,prefix-sum

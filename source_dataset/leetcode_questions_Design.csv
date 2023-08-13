@@ -1,401 +1,172 @@
 Question,Tag
-63. Unique Paths II,Design
-1. Two Sum,Design
-2. Add Two Numbers,Design
-3. Longest Substring Without Repeating Characters,Design
-4. Median of Two Sorted Arrays,Design
-5. Longest Palindromic Substring,Design
-6. Zigzag Conversion,Design
-7. Reverse Integer,Design
-8. String to Integer (atoi),Design
-9. Palindrome Number,Design
-10. Regular Expression Matching,Design
-11. Container With Most Water,Design
-12. Integer to Roman,Design
-13. Roman to Integer,Design
-14. Longest Common Prefix,Design
-15. 3Sum,Design
-16. 3Sum Closest,Design
-17. Letter Combinations of a Phone Number,Design
-18. 4Sum,Design
-19. Remove Nth Node From End of List,Design
-20. Valid Parentheses,Design
-21. Merge Two Sorted Lists,Design
-22. Generate Parentheses,Design
-23. Merge k Sorted Lists,Design
-24. Swap Nodes in Pairs,Design
-25. Reverse Nodes in k-Group,Design
-26. Remove Duplicates from Sorted Array,Design
-27. Remove Element,Design
-28. Find the Index of the First Occurrence in a String,Design
-29. Divide Two Integers,Design
-30. Substring with Concatenation of All Words,Design
-31. Next Permutation,Design
-32. Longest Valid Parentheses,Design
-33. Search in Rotated Sorted Array,Design
-34. Find First and Last Position of Element in Sorted Array,Design
-35. Search Insert Position,Design
-36. Valid Sudoku,Design
-37. Sudoku Solver,Design
-38. Count and Say,Design
-39. Combination Sum,Design
-40. Combination Sum II,Design
-41. First Missing Positive,Design
-42. Trapping Rain Water,Design
-43. Multiply Strings,Design
-44. Wildcard Matching,Design
-45. Jump Game II,Design
-46. Permutations,Design
-47. Permutations II,Design
-48. Rotate Image,Design
-49. Group Anagrams,Design
-63. Unique Paths II,Design
-1. Two Sum,Design
-2. Add Two Numbers,Design
-3. Longest Substring Without Repeating Characters,Design
-4. Median of Two Sorted Arrays,Design
-5. Longest Palindromic Substring,Design
-6. Zigzag Conversion,Design
-7. Reverse Integer,Design
-8. String to Integer (atoi),Design
-9. Palindrome Number,Design
-10. Regular Expression Matching,Design
-11. Container With Most Water,Design
-12. Integer to Roman,Design
-13. Roman to Integer,Design
-14. Longest Common Prefix,Design
-15. 3Sum,Design
-16. 3Sum Closest,Design
-17. Letter Combinations of a Phone Number,Design
-18. 4Sum,Design
-19. Remove Nth Node From End of List,Design
-20. Valid Parentheses,Design
-21. Merge Two Sorted Lists,Design
-22. Generate Parentheses,Design
-23. Merge k Sorted Lists,Design
-24. Swap Nodes in Pairs,Design
-25. Reverse Nodes in k-Group,Design
-26. Remove Duplicates from Sorted Array,Design
-27. Remove Element,Design
-28. Find the Index of the First Occurrence in a String,Design
-29. Divide Two Integers,Design
-30. Substring with Concatenation of All Words,Design
-31. Next Permutation,Design
-32. Longest Valid Parentheses,Design
-33. Search in Rotated Sorted Array,Design
-34. Find First and Last Position of Element in Sorted Array,Design
-35. Search Insert Position,Design
-36. Valid Sudoku,Design
-37. Sudoku Solver,Design
-38. Count and Say,Design
-39. Combination Sum,Design
-40. Combination Sum II,Design
-41. First Missing Positive,Design
-42. Trapping Rain Water,Design
-43. Multiply Strings,Design
-44. Wildcard Matching,Design
-45. Jump Game II,Design
-46. Permutations,Design
-47. Permutations II,Design
-48. Rotate Image,Design
-49. Group Anagrams,Design
-51. N-Queens,Design
-52. N-Queens II,Design
-53. Maximum Subarray,Design
-54. Spiral Matrix,Design
-55. Jump Game,Design
-56. Merge Intervals,Design
-57. Insert Interval,Design
-58. Length of Last Word,Design
-59. Spiral Matrix II,Design
-60. Permutation Sequence,Design
-61. Rotate List,Design
-62. Unique Paths,Design
-63. Unique Paths II,Design
-64. Minimum Path Sum,Design
-65. Valid Number,Design
-66. Plus One,Design
-67. Add Binary,Design
-68. Text Justification,Design
-69. Sqrt(x),Design
-70. Climbing Stairs,Design
-71. Simplify Path,Design
-72. Edit Distance,Design
-73. Set Matrix Zeroes,Design
-74. Search a 2D Matrix,Design
-75. Sort Colors,Design
-76. Minimum Window Substring,Design
-77. Combinations,Design
-78. Subsets,Design
-79. Word Search,Design
-80. Remove Duplicates from Sorted Array II,Design
-81. Search in Rotated Sorted Array II,Design
-82. Remove Duplicates from Sorted List II,Design
-83. Remove Duplicates from Sorted List,Design
-84. Largest Rectangle in Histogram,Design
-85. Maximal Rectangle,Design
-86. Partition List,Design
-87. Scramble String,Design
-88. Merge Sorted Array,Design
-89. Gray Code,Design
-90. Subsets II,Design
-91. Decode Ways,Design
-92. Reverse Linked List II,Design
-93. Restore IP Addresses,Design
-94. Binary Tree Inorder Traversal,Design
-95. Unique Binary Search Trees II,Design
-96. Unique Binary Search Trees,Design
-97. Interleaving String,Design
-98. Validate Binary Search Tree,Design
-99. Recover Binary Search Tree,Design
-100. Same Tree,Design
-101. Symmetric Tree,Design
-102. Binary Tree Level Order Traversal,Design
-103. Binary Tree Zigzag Level Order Traversal,Design
-104. Maximum Depth of Binary Tree,Design
-105. Construct Binary Tree from Preorder and Inorder Traversal,Design
-106. Construct Binary Tree from Inorder and Postorder Traversal,Design
-107. Binary Tree Level Order Traversal II,Design
-108. Convert Sorted Array to Binary Search Tree,Design
-109. Convert Sorted List to Binary Search Tree,Design
-110. Balanced Binary Tree,Design
-111. Minimum Depth of Binary Tree,Design
-112. Path Sum,Design
-113. Path Sum II,Design
-114. Flatten Binary Tree to Linked List,Design
-115. Distinct Subsequences,Design
-116. Populating Next Right Pointers in Each Node,Design
-117. Populating Next Right Pointers in Each Node II,Design
-118. Pascal's Triangle,Design
-119. Pascal's Triangle II,Design
-120. Triangle,Design
-121. Best Time to Buy and Sell Stock,Design
-122. Best Time to Buy and Sell Stock II,Design
-123. Best Time to Buy and Sell Stock III,Design
-124. Binary Tree Maximum Path Sum,Design
-125. Valid Palindrome,Design
-126. Word Ladder II,Design
-127. Word Ladder,Design
-128. Longest Consecutive Sequence,Design
-129. Sum Root to Leaf Numbers,Design
-130. Surrounded Regions,Design
-131. Palindrome Partitioning,Design
-132. Palindrome Partitioning II,Design
-133. Clone Graph,Design
-134. Gas Station,Design
-135. Candy,Design
-136. Single Number,Design
-137. Single Number II,Design
-138. Copy List with Random Pointer,Design
-139. Word Break,Design
-140. Word Break II,Design
-141. Linked List Cycle,Design
-142. Linked List Cycle II,Design
-143. Reorder List,Design
-144. Binary Tree Preorder Traversal,Design
-145. Binary Tree Postorder Traversal,Design
-146. LRU Cache,Design
-147. Insertion Sort List,Design
-148. Sort List,Design
-149. Max Points on a Line,Design
-150. Evaluate Reverse Polish Notation,Design
-151. Reverse Words in a String,Design
-152. Maximum Product Subarray,Design
-153. Find Minimum in Rotated Sorted Array,Design
-154. Find Minimum in Rotated Sorted Array II,Design
-155. Min Stack,Design
-156. Binary Tree Upside Down,Design
-157. Read N Characters Given Read4,Design
-158. Read N Characters Given read4 II - Call Multiple Times,Design
-159. Longest Substring with At Most Two Distinct Characters,Design
-160. Intersection of Two Linked Lists,Design
-161. One Edit Distance,Design
-162. Find Peak Element,Design
-163. Missing Ranges,Design
-164. Maximum Gap,Design
-165. Compare Version Numbers,Design
-166. Fraction to Recurring Decimal,Design
-167. Two Sum II - Input Array Is Sorted,Design
-168. Excel Sheet Column Title,Design
-169. Majority Element,Design
-170. Two Sum III - Data structure design,Design
-171. Excel Sheet Column Number,Design
-172. Factorial Trailing Zeroes,Design
-173. Binary Search Tree Iterator,Design
-174. Dungeon Game,Design
-175. Combine Two Tables,Design
-176. Second Highest Salary,Design
-177. Nth Highest Salary,Design
-178. Rank Scores,Design
-179. Largest Number,Design
-180. Consecutive Numbers,Design
-181. Employees Earning More Than Their Managers,Design
-182. Duplicate Emails,Design
-183. Customers Who Never Order,Design
-184. Department Highest Salary,Design
-185. Department Top Three Salaries,Design
-186. Reverse Words in a String II,Design
-187. Repeated DNA Sequences,Design
-188. Best Time to Buy and Sell Stock IV,Design
-189. Rotate Array,Design
-190. Reverse Bits,Design
-191. Number of 1 Bits,Design
-192. Word Frequency,Design
-193. Valid Phone Numbers,Design
-194. Transpose File,Design
-195. Tenth Line,Design
-196. Delete Duplicate Emails,Design
-197. Rising Temperature,Design
-198. House Robber,Design
-199. Binary Tree Right Side View,Design
-200. Number of Islands,Design
-201. Bitwise AND of Numbers Range,Design
-202. Happy Number,Design
-203. Remove Linked List Elements,Design
-204. Count Primes,Design
-205. Isomorphic Strings,Design
-206. Reverse Linked List,Design
-207. Course Schedule,Design
-208. Implement Trie (Prefix Tree),Design
-209. Minimum Size Subarray Sum,Design
-210. Course Schedule II,Design
-211. Design Add and Search Words Data Structure,Design
-212. Word Search II,Design
-213. House Robber II,Design
-214. Shortest Palindrome,Design
-215. Kth Largest Element in an Array,Design
-216. Combination Sum III,Design
-217. Contains Duplicate,Design
-218. The Skyline Problem,Design
-219. Contains Duplicate II,Design
-220. Contains Duplicate III,Design
-221. Maximal Square,Design
-222. Count Complete Tree Nodes,Design
-223. Rectangle Area,Design
-224. Basic Calculator,Design
-225. Implement Stack using Queues,Design
-226. Invert Binary Tree,Design
-227. Basic Calculator II,Design
-228. Summary Ranges,Design
-229. Majority Element II,Design
-230. Kth Smallest Element in a BST,Design
-231. Power of Two,Design
-232. Implement Queue using Stacks,Design
-233. Number of Digit One,Design
-234. Palindrome Linked List,Design
-235. Lowest Common Ancestor of a Binary Search Tree,Design
-236. Lowest Common Ancestor of a Binary Tree,Design
-237. Delete Node in a Linked List,Design
-238. Product of Array Except Self,Design
-239. Sliding Window Maximum,Design
-240. Search a 2D Matrix II,Design
-241. Different Ways to Add Parentheses,Design
-242. Valid Anagram,Design
-243. Shortest Word Distance,Design
-244. Shortest Word Distance II,Design
-245. Shortest Word Distance III,Design
-246. Strobogrammatic Number,Design
-247. Strobogrammatic Number II,Design
-248. Strobogrammatic Number III,Design
-249. Group Shifted Strings,Design
-250. Count Univalue Subtrees,Design
-251. Flatten 2D Vector,Design
-252. Meeting Rooms,Design
-253. Meeting Rooms II,Design
-254. Factor Combinations,Design
-255. Verify Preorder Sequence in Binary Search Tree,Design
-256. Paint House,Design
-257. Binary Tree Paths,Design
-258. Add Digits,Design
-259. 3Sum Smaller,Design
-260. Single Number III,Design
-261. Graph Valid Tree,Design
-262. Trips and Users,Design
-263. Ugly Number,Design
-264. Ugly Number II,Design
-265. Paint House II,Design
-266. Palindrome Permutation,Design
-267. Palindrome Permutation II,Design
-268. Missing Number,Design
-269. Alien Dictionary,Design
-270. Closest Binary Search Tree Value,Design
-271. Encode and Decode Strings,Design
-272. Closest Binary Search Tree Value II,Design
-273. Integer to English Words,Design
-274. H-Index,Design
-275. H-Index II,Design
-276. Paint Fence,Design
-277. Find the Celebrity,Design
-278. First Bad Version,Design
-279. Perfect Squares,Design
-280. Wiggle Sort,Design
-281. Zigzag Iterator,Design
-282. Expression Add Operators,Design
-283. Move Zeroes,Design
-284. Peeking Iterator,Design
-285. Inorder Successor in BST,Design
-286. Walls and Gates,Design
-287. Find the Duplicate Number,Design
-288. Unique Word Abbreviation,Design
-289. Game of Life,Design
-290. Word Pattern,Design
-291. Word Pattern II,Design
-292. Nim Game,Design
-293. Flip Game,Design
-294. Flip Game II,Design
-295. Find Median from Data Stream,Design
-296. Best Meeting Point,Design
-297. Serialize and Deserialize Binary Tree,Design
-298. Binary Tree Longest Consecutive Sequence,Design
-299. Bulls and Cows,Design
-300. Longest Increasing Subsequence,Design
-301. Remove Invalid Parentheses,Design
-302. Smallest Rectangle Enclosing Black Pixels,Design
-303. Range Sum Query - Immutable,Design
-304. Range Sum Query 2D - Immutable,Design
-305. Number of Islands II,Design
-306. Additive Number,Design
-307. Range Sum Query - Mutable,Design
-308. Range Sum Query 2D - Mutable,Design
-309. Best Time to Buy and Sell Stock with Cooldown,Design
-310. Minimum Height Trees,Design
-311. Sparse Matrix Multiplication,Design
-312. Burst Balloons,Design
-313. Super Ugly Number,Design
-314. Binary Tree Vertical Order Traversal,Design
-315. Count of Smaller Numbers After Self,Design
-316. Remove Duplicate Letters,Design
-317. Shortest Distance from All Buildings,Design
-318. Maximum Product of Word Lengths,Design
-319. Bulb Switcher,Design
-320. Generalized Abbreviation,Design
-321. Create Maximum Number,Design
-322. Coin Change,Design
-323. Number of Connected Components in an Undirected Graph,Design
-324. Wiggle Sort II,Design
-325. Maximum Size Subarray Sum Equals k,Design
-326. Power of Three,Design
-327. Count of Range Sum,Design
-328. Odd Even Linked List,Design
-329. Longest Increasing Path in a Matrix,Design
-330. Patching Array,Design
-331. Verify Preorder Serialization of a Binary Tree,Design
-332. Reconstruct Itinerary,Design
-333. Largest BST Subtree,Design
-334. Increasing Triplet Subsequence,Design
-335. Self Crossing,Design
-336. Palindrome Pairs,Design
-337. House Robber III,Design
-338. Counting Bits,Design
-339. Nested List Weight Sum,Design
-340. Longest Substring with At Most K Distinct Characters,Design
-341. Flatten Nested List Iterator,Design
-342. Power of Four,Design
-343. Integer Break,Design
-344. Reverse String,Design
-345. Reverse Vowels of a String,Design
-346. Moving Average from Data Stream,Design
-347. Top K Frequent Elements,Design
-348. Design Tic-Tac-Toe,Design
-349. Intersection of Two Arrays,Design
-350. Intersection of Two Arrays II,Design
+Check if There is a Valid Partition For The Array,design
+LRU Cache,design
+Min Stack,design
+Two Sum III - Data structure design,design
+Binary Search Tree Iterator,design
+Implement Trie (Prefix Tree),design
+Design Add and Search Words Data Structure,design
+Implement Stack using Queues,design
+Implement Queue using Stacks,design
+Shortest Word Distance II,design
+Flatten 2D Vector,design
+Encode and Decode Strings,design
+Zigzag Iterator,design
+Peeking Iterator,design
+Unique Word Abbreviation,design
+Find Median from Data Stream,design
+Serialize and Deserialize Binary Tree,design
+Range Sum Query - Immutable,design
+Range Sum Query 2D - Immutable,design
+Range Sum Query - Mutable,design
+Range Sum Query 2D - Mutable,design
+Flatten Nested List Iterator,design
+Moving Average from Data Stream,design
+Design Tic-Tac-Toe,design
+Data Stream as Disjoint Intervals,design
+Design Snake Game,design
+Design Twitter,design
+Logger Rate Limiter,design
+Design Hit Counter,design
+Design Phone Directory,design
+Insert Delete GetRandom O(1),design
+Insert Delete GetRandom O(1) - Duplicates allowed,design
+Encode N-ary Tree to Binary Tree,design
+All O`one Data Structure,design
+Serialize and Deserialize BST,design
+LFU Cache,design
+Encode and Decode TinyURL,design
+Design In-Memory File System,design
+Design Compressed String Iterator,design
+Design Circular Queue,design
+Design Excel Sum Formula,design
+Design Log Storage System,design
+Design Circular Deque,design
+Design Search Autocomplete System,design
+Implement Magic Dictionary,design
+Map Sum Pairs,design
+Kth Largest Element in a Stream,design
+Design HashSet,design
+Design HashMap,design
+Design Linked List,design
+Check if There is a Valid Partition For The Array,design
+LRU Cache,design
+Min Stack,design
+Two Sum III - Data structure design,design
+Binary Search Tree Iterator,design
+Implement Trie (Prefix Tree),design
+Design Add and Search Words Data Structure,design
+Implement Stack using Queues,design
+Implement Queue using Stacks,design
+Shortest Word Distance II,design
+Flatten 2D Vector,design
+Encode and Decode Strings,design
+Zigzag Iterator,design
+Peeking Iterator,design
+Unique Word Abbreviation,design
+Find Median from Data Stream,design
+Serialize and Deserialize Binary Tree,design
+Range Sum Query - Immutable,design
+Range Sum Query 2D - Immutable,design
+Range Sum Query - Mutable,design
+Range Sum Query 2D - Mutable,design
+Flatten Nested List Iterator,design
+Moving Average from Data Stream,design
+Design Tic-Tac-Toe,design
+Data Stream as Disjoint Intervals,design
+Design Snake Game,design
+Design Twitter,design
+Logger Rate Limiter,design
+Design Hit Counter,design
+Design Phone Directory,design
+Insert Delete GetRandom O(1),design
+Insert Delete GetRandom O(1) - Duplicates allowed,design
+Encode N-ary Tree to Binary Tree,design
+All O`one Data Structure,design
+Serialize and Deserialize BST,design
+LFU Cache,design
+Encode and Decode TinyURL,design
+Design In-Memory File System,design
+Design Compressed String Iterator,design
+Design Circular Queue,design
+Design Excel Sum Formula,design
+Design Log Storage System,design
+Design Circular Deque,design
+Design Search Autocomplete System,design
+Implement Magic Dictionary,design
+Map Sum Pairs,design
+Kth Largest Element in a Stream,design
+Design HashSet,design
+Design HashMap,design
+Design Linked List,design
+Max Stack,design
+My Calendar I,design
+My Calendar II,design
+My Calendar III,design
+Prefix and Suffix Search,design
+Exam Room,design
+Maximum Frequency Stack,design
+RLE Iterator,design
+Online Stock Span,design
+Online Election,design
+Complete Binary Tree Inserter,design
+Number of Recent Calls,design
+Time Based Key-Value Store,design
+Stream of Characters,design
+Snapshot Array,design
+Online Majority Element In Subarray,design
+Design File System,design
+Dinner Plate Stacks,design
+Design Skiplist,design
+Design A Leaderboard,design
+Find Elements in a Contaminated Binary Tree,design
+Iterator for Combination,design
+Tweet Counts Per Frequency,design
+Product of the Last K Numbers,design
+Apply Discount Every n Orders,design
+Design a Stack With Increment Operation,design
+Design Underground System,design
+First Unique Number,design
+Design Browser History,design
+Subrectangle Queries,design
+Kth Ancestor of a Tree Node,design
+Design a File Sharing System,design
+Dot Product of Two Sparse Vectors,design
+Binary Search Tree Iterator II,design
+Throne Inheritance,design
+Design Parking System,design
+Fancy Sequence,design
+Design an Expression Tree With Evaluate Function,design
+Design an Ordered Stream,design
+Design Front Middle Back Queue,design
+Design Most Recently Used Queue,design
+Design Authentication Manager,design
+Implement Trie II (Prefix Tree),design
+Finding MK Average,design
+Seat Reservation Manager,design
+Finding Pairs With a Certain Sum,design
+Design Movie Rental System,design
+Operations on Tree,design
+Detect Squares,design
+Stock Price Fluctuation,design
+Simple Bank System,design
+Walking Robot Simulation II,design
+Range Frequency Queries,design
+Sequentially Ordinal Rank Tracker,design
+Design Bitset,design
+Encrypt and Decrypt Strings,design
+Design an ATM Machine,design
+Design Video Sharing Platform,design
+Count Integers in Intervals,design
+Booking Concert Tickets in Groups,design
+Design a Text Editor,design
+Smallest Number in Infinite Set,design
+Design a Number Container System,design
+Design a Food Rating System,design
+Design SQL,design
+Longest Uploaded Prefix,design
+Design Memory Allocator,design
+Find Consecutive Integers from a Data Stream,design
+Design a Todo List,design
+Design Graph With Shortest Path Calculator,design
+Frequency Tracker,design

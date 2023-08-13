@@ -1,401 +1,144 @@
 Question,Tag
-63. Unique Paths II,Sliding Window
-1. Two Sum,Sliding Window
-2. Add Two Numbers,Sliding Window
-3. Longest Substring Without Repeating Characters,Sliding Window
-4. Median of Two Sorted Arrays,Sliding Window
-5. Longest Palindromic Substring,Sliding Window
-6. Zigzag Conversion,Sliding Window
-7. Reverse Integer,Sliding Window
-8. String to Integer (atoi),Sliding Window
-9. Palindrome Number,Sliding Window
-10. Regular Expression Matching,Sliding Window
-11. Container With Most Water,Sliding Window
-12. Integer to Roman,Sliding Window
-13. Roman to Integer,Sliding Window
-14. Longest Common Prefix,Sliding Window
-15. 3Sum,Sliding Window
-16. 3Sum Closest,Sliding Window
-17. Letter Combinations of a Phone Number,Sliding Window
-18. 4Sum,Sliding Window
-19. Remove Nth Node From End of List,Sliding Window
-20. Valid Parentheses,Sliding Window
-21. Merge Two Sorted Lists,Sliding Window
-22. Generate Parentheses,Sliding Window
-23. Merge k Sorted Lists,Sliding Window
-24. Swap Nodes in Pairs,Sliding Window
-25. Reverse Nodes in k-Group,Sliding Window
-26. Remove Duplicates from Sorted Array,Sliding Window
-27. Remove Element,Sliding Window
-28. Find the Index of the First Occurrence in a String,Sliding Window
-29. Divide Two Integers,Sliding Window
-30. Substring with Concatenation of All Words,Sliding Window
-31. Next Permutation,Sliding Window
-32. Longest Valid Parentheses,Sliding Window
-33. Search in Rotated Sorted Array,Sliding Window
-34. Find First and Last Position of Element in Sorted Array,Sliding Window
-35. Search Insert Position,Sliding Window
-36. Valid Sudoku,Sliding Window
-37. Sudoku Solver,Sliding Window
-38. Count and Say,Sliding Window
-39. Combination Sum,Sliding Window
-40. Combination Sum II,Sliding Window
-41. First Missing Positive,Sliding Window
-42. Trapping Rain Water,Sliding Window
-43. Multiply Strings,Sliding Window
-44. Wildcard Matching,Sliding Window
-45. Jump Game II,Sliding Window
-46. Permutations,Sliding Window
-47. Permutations II,Sliding Window
-48. Rotate Image,Sliding Window
-49. Group Anagrams,Sliding Window
-63. Unique Paths II,Sliding Window
-1. Two Sum,Sliding Window
-2. Add Two Numbers,Sliding Window
-3. Longest Substring Without Repeating Characters,Sliding Window
-4. Median of Two Sorted Arrays,Sliding Window
-5. Longest Palindromic Substring,Sliding Window
-6. Zigzag Conversion,Sliding Window
-7. Reverse Integer,Sliding Window
-8. String to Integer (atoi),Sliding Window
-9. Palindrome Number,Sliding Window
-10. Regular Expression Matching,Sliding Window
-11. Container With Most Water,Sliding Window
-12. Integer to Roman,Sliding Window
-13. Roman to Integer,Sliding Window
-14. Longest Common Prefix,Sliding Window
-15. 3Sum,Sliding Window
-16. 3Sum Closest,Sliding Window
-17. Letter Combinations of a Phone Number,Sliding Window
-18. 4Sum,Sliding Window
-19. Remove Nth Node From End of List,Sliding Window
-20. Valid Parentheses,Sliding Window
-21. Merge Two Sorted Lists,Sliding Window
-22. Generate Parentheses,Sliding Window
-23. Merge k Sorted Lists,Sliding Window
-24. Swap Nodes in Pairs,Sliding Window
-25. Reverse Nodes in k-Group,Sliding Window
-26. Remove Duplicates from Sorted Array,Sliding Window
-27. Remove Element,Sliding Window
-28. Find the Index of the First Occurrence in a String,Sliding Window
-29. Divide Two Integers,Sliding Window
-30. Substring with Concatenation of All Words,Sliding Window
-31. Next Permutation,Sliding Window
-32. Longest Valid Parentheses,Sliding Window
-33. Search in Rotated Sorted Array,Sliding Window
-34. Find First and Last Position of Element in Sorted Array,Sliding Window
-35. Search Insert Position,Sliding Window
-36. Valid Sudoku,Sliding Window
-37. Sudoku Solver,Sliding Window
-38. Count and Say,Sliding Window
-39. Combination Sum,Sliding Window
-40. Combination Sum II,Sliding Window
-41. First Missing Positive,Sliding Window
-42. Trapping Rain Water,Sliding Window
-43. Multiply Strings,Sliding Window
-44. Wildcard Matching,Sliding Window
-45. Jump Game II,Sliding Window
-46. Permutations,Sliding Window
-47. Permutations II,Sliding Window
-48. Rotate Image,Sliding Window
-49. Group Anagrams,Sliding Window
-51. N-Queens,Sliding Window
-52. N-Queens II,Sliding Window
-53. Maximum Subarray,Sliding Window
-54. Spiral Matrix,Sliding Window
-55. Jump Game,Sliding Window
-56. Merge Intervals,Sliding Window
-57. Insert Interval,Sliding Window
-58. Length of Last Word,Sliding Window
-59. Spiral Matrix II,Sliding Window
-60. Permutation Sequence,Sliding Window
-61. Rotate List,Sliding Window
-62. Unique Paths,Sliding Window
-63. Unique Paths II,Sliding Window
-64. Minimum Path Sum,Sliding Window
-65. Valid Number,Sliding Window
-66. Plus One,Sliding Window
-67. Add Binary,Sliding Window
-68. Text Justification,Sliding Window
-69. Sqrt(x),Sliding Window
-70. Climbing Stairs,Sliding Window
-71. Simplify Path,Sliding Window
-72. Edit Distance,Sliding Window
-73. Set Matrix Zeroes,Sliding Window
-74. Search a 2D Matrix,Sliding Window
-75. Sort Colors,Sliding Window
-76. Minimum Window Substring,Sliding Window
-77. Combinations,Sliding Window
-78. Subsets,Sliding Window
-79. Word Search,Sliding Window
-80. Remove Duplicates from Sorted Array II,Sliding Window
-81. Search in Rotated Sorted Array II,Sliding Window
-82. Remove Duplicates from Sorted List II,Sliding Window
-83. Remove Duplicates from Sorted List,Sliding Window
-84. Largest Rectangle in Histogram,Sliding Window
-85. Maximal Rectangle,Sliding Window
-86. Partition List,Sliding Window
-87. Scramble String,Sliding Window
-88. Merge Sorted Array,Sliding Window
-89. Gray Code,Sliding Window
-90. Subsets II,Sliding Window
-91. Decode Ways,Sliding Window
-92. Reverse Linked List II,Sliding Window
-93. Restore IP Addresses,Sliding Window
-94. Binary Tree Inorder Traversal,Sliding Window
-95. Unique Binary Search Trees II,Sliding Window
-96. Unique Binary Search Trees,Sliding Window
-97. Interleaving String,Sliding Window
-98. Validate Binary Search Tree,Sliding Window
-99. Recover Binary Search Tree,Sliding Window
-100. Same Tree,Sliding Window
-101. Symmetric Tree,Sliding Window
-102. Binary Tree Level Order Traversal,Sliding Window
-103. Binary Tree Zigzag Level Order Traversal,Sliding Window
-104. Maximum Depth of Binary Tree,Sliding Window
-105. Construct Binary Tree from Preorder and Inorder Traversal,Sliding Window
-106. Construct Binary Tree from Inorder and Postorder Traversal,Sliding Window
-107. Binary Tree Level Order Traversal II,Sliding Window
-108. Convert Sorted Array to Binary Search Tree,Sliding Window
-109. Convert Sorted List to Binary Search Tree,Sliding Window
-110. Balanced Binary Tree,Sliding Window
-111. Minimum Depth of Binary Tree,Sliding Window
-112. Path Sum,Sliding Window
-113. Path Sum II,Sliding Window
-114. Flatten Binary Tree to Linked List,Sliding Window
-115. Distinct Subsequences,Sliding Window
-116. Populating Next Right Pointers in Each Node,Sliding Window
-117. Populating Next Right Pointers in Each Node II,Sliding Window
-118. Pascal's Triangle,Sliding Window
-119. Pascal's Triangle II,Sliding Window
-120. Triangle,Sliding Window
-121. Best Time to Buy and Sell Stock,Sliding Window
-122. Best Time to Buy and Sell Stock II,Sliding Window
-123. Best Time to Buy and Sell Stock III,Sliding Window
-124. Binary Tree Maximum Path Sum,Sliding Window
-125. Valid Palindrome,Sliding Window
-126. Word Ladder II,Sliding Window
-127. Word Ladder,Sliding Window
-128. Longest Consecutive Sequence,Sliding Window
-129. Sum Root to Leaf Numbers,Sliding Window
-130. Surrounded Regions,Sliding Window
-131. Palindrome Partitioning,Sliding Window
-132. Palindrome Partitioning II,Sliding Window
-133. Clone Graph,Sliding Window
-134. Gas Station,Sliding Window
-135. Candy,Sliding Window
-136. Single Number,Sliding Window
-137. Single Number II,Sliding Window
-138. Copy List with Random Pointer,Sliding Window
-139. Word Break,Sliding Window
-140. Word Break II,Sliding Window
-141. Linked List Cycle,Sliding Window
-142. Linked List Cycle II,Sliding Window
-143. Reorder List,Sliding Window
-144. Binary Tree Preorder Traversal,Sliding Window
-145. Binary Tree Postorder Traversal,Sliding Window
-146. LRU Cache,Sliding Window
-147. Insertion Sort List,Sliding Window
-148. Sort List,Sliding Window
-149. Max Points on a Line,Sliding Window
-150. Evaluate Reverse Polish Notation,Sliding Window
-151. Reverse Words in a String,Sliding Window
-152. Maximum Product Subarray,Sliding Window
-153. Find Minimum in Rotated Sorted Array,Sliding Window
-154. Find Minimum in Rotated Sorted Array II,Sliding Window
-155. Min Stack,Sliding Window
-156. Binary Tree Upside Down,Sliding Window
-157. Read N Characters Given Read4,Sliding Window
-158. Read N Characters Given read4 II - Call Multiple Times,Sliding Window
-159. Longest Substring with At Most Two Distinct Characters,Sliding Window
-160. Intersection of Two Linked Lists,Sliding Window
-161. One Edit Distance,Sliding Window
-162. Find Peak Element,Sliding Window
-163. Missing Ranges,Sliding Window
-164. Maximum Gap,Sliding Window
-165. Compare Version Numbers,Sliding Window
-166. Fraction to Recurring Decimal,Sliding Window
-167. Two Sum II - Input Array Is Sorted,Sliding Window
-168. Excel Sheet Column Title,Sliding Window
-169. Majority Element,Sliding Window
-170. Two Sum III - Data structure design,Sliding Window
-171. Excel Sheet Column Number,Sliding Window
-172. Factorial Trailing Zeroes,Sliding Window
-173. Binary Search Tree Iterator,Sliding Window
-174. Dungeon Game,Sliding Window
-175. Combine Two Tables,Sliding Window
-176. Second Highest Salary,Sliding Window
-177. Nth Highest Salary,Sliding Window
-178. Rank Scores,Sliding Window
-179. Largest Number,Sliding Window
-180. Consecutive Numbers,Sliding Window
-181. Employees Earning More Than Their Managers,Sliding Window
-182. Duplicate Emails,Sliding Window
-183. Customers Who Never Order,Sliding Window
-184. Department Highest Salary,Sliding Window
-185. Department Top Three Salaries,Sliding Window
-186. Reverse Words in a String II,Sliding Window
-187. Repeated DNA Sequences,Sliding Window
-188. Best Time to Buy and Sell Stock IV,Sliding Window
-189. Rotate Array,Sliding Window
-190. Reverse Bits,Sliding Window
-191. Number of 1 Bits,Sliding Window
-192. Word Frequency,Sliding Window
-193. Valid Phone Numbers,Sliding Window
-194. Transpose File,Sliding Window
-195. Tenth Line,Sliding Window
-196. Delete Duplicate Emails,Sliding Window
-197. Rising Temperature,Sliding Window
-198. House Robber,Sliding Window
-199. Binary Tree Right Side View,Sliding Window
-200. Number of Islands,Sliding Window
-201. Bitwise AND of Numbers Range,Sliding Window
-202. Happy Number,Sliding Window
-203. Remove Linked List Elements,Sliding Window
-204. Count Primes,Sliding Window
-205. Isomorphic Strings,Sliding Window
-206. Reverse Linked List,Sliding Window
-207. Course Schedule,Sliding Window
-208. Implement Trie (Prefix Tree),Sliding Window
-209. Minimum Size Subarray Sum,Sliding Window
-210. Course Schedule II,Sliding Window
-211. Design Add and Search Words Data Structure,Sliding Window
-212. Word Search II,Sliding Window
-213. House Robber II,Sliding Window
-214. Shortest Palindrome,Sliding Window
-215. Kth Largest Element in an Array,Sliding Window
-216. Combination Sum III,Sliding Window
-217. Contains Duplicate,Sliding Window
-218. The Skyline Problem,Sliding Window
-219. Contains Duplicate II,Sliding Window
-220. Contains Duplicate III,Sliding Window
-221. Maximal Square,Sliding Window
-222. Count Complete Tree Nodes,Sliding Window
-223. Rectangle Area,Sliding Window
-224. Basic Calculator,Sliding Window
-225. Implement Stack using Queues,Sliding Window
-226. Invert Binary Tree,Sliding Window
-227. Basic Calculator II,Sliding Window
-228. Summary Ranges,Sliding Window
-229. Majority Element II,Sliding Window
-230. Kth Smallest Element in a BST,Sliding Window
-231. Power of Two,Sliding Window
-232. Implement Queue using Stacks,Sliding Window
-233. Number of Digit One,Sliding Window
-234. Palindrome Linked List,Sliding Window
-235. Lowest Common Ancestor of a Binary Search Tree,Sliding Window
-236. Lowest Common Ancestor of a Binary Tree,Sliding Window
-237. Delete Node in a Linked List,Sliding Window
-238. Product of Array Except Self,Sliding Window
-239. Sliding Window Maximum,Sliding Window
-240. Search a 2D Matrix II,Sliding Window
-241. Different Ways to Add Parentheses,Sliding Window
-242. Valid Anagram,Sliding Window
-243. Shortest Word Distance,Sliding Window
-244. Shortest Word Distance II,Sliding Window
-245. Shortest Word Distance III,Sliding Window
-246. Strobogrammatic Number,Sliding Window
-247. Strobogrammatic Number II,Sliding Window
-248. Strobogrammatic Number III,Sliding Window
-249. Group Shifted Strings,Sliding Window
-250. Count Univalue Subtrees,Sliding Window
-251. Flatten 2D Vector,Sliding Window
-252. Meeting Rooms,Sliding Window
-253. Meeting Rooms II,Sliding Window
-254. Factor Combinations,Sliding Window
-255. Verify Preorder Sequence in Binary Search Tree,Sliding Window
-256. Paint House,Sliding Window
-257. Binary Tree Paths,Sliding Window
-258. Add Digits,Sliding Window
-259. 3Sum Smaller,Sliding Window
-260. Single Number III,Sliding Window
-261. Graph Valid Tree,Sliding Window
-262. Trips and Users,Sliding Window
-263. Ugly Number,Sliding Window
-264. Ugly Number II,Sliding Window
-265. Paint House II,Sliding Window
-266. Palindrome Permutation,Sliding Window
-267. Palindrome Permutation II,Sliding Window
-268. Missing Number,Sliding Window
-269. Alien Dictionary,Sliding Window
-270. Closest Binary Search Tree Value,Sliding Window
-271. Encode and Decode Strings,Sliding Window
-272. Closest Binary Search Tree Value II,Sliding Window
-273. Integer to English Words,Sliding Window
-274. H-Index,Sliding Window
-275. H-Index II,Sliding Window
-276. Paint Fence,Sliding Window
-277. Find the Celebrity,Sliding Window
-278. First Bad Version,Sliding Window
-279. Perfect Squares,Sliding Window
-280. Wiggle Sort,Sliding Window
-281. Zigzag Iterator,Sliding Window
-282. Expression Add Operators,Sliding Window
-283. Move Zeroes,Sliding Window
-284. Peeking Iterator,Sliding Window
-285. Inorder Successor in BST,Sliding Window
-286. Walls and Gates,Sliding Window
-287. Find the Duplicate Number,Sliding Window
-288. Unique Word Abbreviation,Sliding Window
-289. Game of Life,Sliding Window
-290. Word Pattern,Sliding Window
-291. Word Pattern II,Sliding Window
-292. Nim Game,Sliding Window
-293. Flip Game,Sliding Window
-294. Flip Game II,Sliding Window
-295. Find Median from Data Stream,Sliding Window
-296. Best Meeting Point,Sliding Window
-297. Serialize and Deserialize Binary Tree,Sliding Window
-298. Binary Tree Longest Consecutive Sequence,Sliding Window
-299. Bulls and Cows,Sliding Window
-300. Longest Increasing Subsequence,Sliding Window
-301. Remove Invalid Parentheses,Sliding Window
-302. Smallest Rectangle Enclosing Black Pixels,Sliding Window
-303. Range Sum Query - Immutable,Sliding Window
-304. Range Sum Query 2D - Immutable,Sliding Window
-305. Number of Islands II,Sliding Window
-306. Additive Number,Sliding Window
-307. Range Sum Query - Mutable,Sliding Window
-308. Range Sum Query 2D - Mutable,Sliding Window
-309. Best Time to Buy and Sell Stock with Cooldown,Sliding Window
-310. Minimum Height Trees,Sliding Window
-311. Sparse Matrix Multiplication,Sliding Window
-312. Burst Balloons,Sliding Window
-313. Super Ugly Number,Sliding Window
-314. Binary Tree Vertical Order Traversal,Sliding Window
-315. Count of Smaller Numbers After Self,Sliding Window
-316. Remove Duplicate Letters,Sliding Window
-317. Shortest Distance from All Buildings,Sliding Window
-318. Maximum Product of Word Lengths,Sliding Window
-319. Bulb Switcher,Sliding Window
-320. Generalized Abbreviation,Sliding Window
-321. Create Maximum Number,Sliding Window
-322. Coin Change,Sliding Window
-323. Number of Connected Components in an Undirected Graph,Sliding Window
-324. Wiggle Sort II,Sliding Window
-325. Maximum Size Subarray Sum Equals k,Sliding Window
-326. Power of Three,Sliding Window
-327. Count of Range Sum,Sliding Window
-328. Odd Even Linked List,Sliding Window
-329. Longest Increasing Path in a Matrix,Sliding Window
-330. Patching Array,Sliding Window
-331. Verify Preorder Serialization of a Binary Tree,Sliding Window
-332. Reconstruct Itinerary,Sliding Window
-333. Largest BST Subtree,Sliding Window
-334. Increasing Triplet Subsequence,Sliding Window
-335. Self Crossing,Sliding Window
-336. Palindrome Pairs,Sliding Window
-337. House Robber III,Sliding Window
-338. Counting Bits,Sliding Window
-339. Nested List Weight Sum,Sliding Window
-340. Longest Substring with At Most K Distinct Characters,Sliding Window
-341. Flatten Nested List Iterator,Sliding Window
-342. Power of Four,Sliding Window
-343. Integer Break,Sliding Window
-344. Reverse String,Sliding Window
-345. Reverse Vowels of a String,Sliding Window
-346. Moving Average from Data Stream,Sliding Window
-347. Top K Frequent Elements,Sliding Window
-348. Design Tic-Tac-Toe,Sliding Window
-349. Intersection of Two Arrays,Sliding Window
-350. Intersection of Two Arrays II,Sliding Window
+Check if There is a Valid Partition For The Array,sliding-window
+Longest Substring Without Repeating Characters,sliding-window
+Substring with Concatenation of All Words,sliding-window
+Minimum Window Substring,sliding-window
+Longest Substring with At Most Two Distinct Characters,sliding-window
+Repeated DNA Sequences,sliding-window
+Minimum Size Subarray Sum,sliding-window
+Contains Duplicate II,sliding-window
+Contains Duplicate III,sliding-window
+Sliding Window Maximum,sliding-window
+Longest Substring with At Most K Distinct Characters,sliding-window
+Longest Substring with At Least K Repeating Characters,sliding-window
+Longest Repeating Character Replacement,sliding-window
+Find All Anagrams in a String,sliding-window
+Sliding Window Median,sliding-window
+Max Consecutive Ones II,sliding-window
+Permutation in String,sliding-window
+Smallest Range Covering Elements from K Lists,sliding-window
+Maximum Average Subarray I,sliding-window
+Find K Closest Elements,sliding-window
+K Empty Slots,sliding-window
+Subarray Product Less Than K,sliding-window
+Maximum Length of Repeated Subarray,sliding-window
+Minimum Window Subsequence,sliding-window
+New 21 Game,sliding-window
+Shortest Subarray with Sum at Least K,sliding-window
+Fruit Into Baskets,sliding-window
+Binary Subarrays With Sum,sliding-window
+Longest Turbulent Subarray,sliding-window
+Subarrays with K Different Integers,sliding-window
+Minimum Number of K Consecutive Bit Flips,sliding-window
+Max Consecutive Ones III,sliding-window
+Maximum Sum of Two Non-Overlapping Subarrays,sliding-window
+Longest Duplicate Substring,sliding-window
+Grumpy Bookstore Owner,sliding-window
+Find K-Length Substrings With No Repeated Characters,sliding-window
+Minimum Swaps to Group All 1's Together,sliding-window
+Swap For Longest Repeated Character Substring,sliding-window
+Diet Plan Performance,sliding-window
+Get Equal Substrings Within Budget,sliding-window
+Replace the Substring for Balanced String,sliding-window
+Count Number of Nice Subarrays,sliding-window
+Maximum Number of Occurrences of a Substring,sliding-window
+Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold,sliding-window
+Number of Substrings Containing All Three Characters,sliding-window
+Maximum Points You Can Obtain from Cards,sliding-window
+Constrained Subsequence Sum,sliding-window
+Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,sliding-window
+Maximum Number of Vowels in a Substring of Given Length,sliding-window
+Find Two Non-overlapping Sub-arrays Each With Target Sum,sliding-window
+Check if There is a Valid Partition For The Array,sliding-window
+Longest Substring Without Repeating Characters,sliding-window
+Substring with Concatenation of All Words,sliding-window
+Minimum Window Substring,sliding-window
+Longest Substring with At Most Two Distinct Characters,sliding-window
+Repeated DNA Sequences,sliding-window
+Minimum Size Subarray Sum,sliding-window
+Contains Duplicate II,sliding-window
+Contains Duplicate III,sliding-window
+Sliding Window Maximum,sliding-window
+Longest Substring with At Most K Distinct Characters,sliding-window
+Longest Substring with At Least K Repeating Characters,sliding-window
+Longest Repeating Character Replacement,sliding-window
+Find All Anagrams in a String,sliding-window
+Sliding Window Median,sliding-window
+Max Consecutive Ones II,sliding-window
+Permutation in String,sliding-window
+Smallest Range Covering Elements from K Lists,sliding-window
+Maximum Average Subarray I,sliding-window
+Find K Closest Elements,sliding-window
+K Empty Slots,sliding-window
+Subarray Product Less Than K,sliding-window
+Maximum Length of Repeated Subarray,sliding-window
+Minimum Window Subsequence,sliding-window
+New 21 Game,sliding-window
+Shortest Subarray with Sum at Least K,sliding-window
+Fruit Into Baskets,sliding-window
+Binary Subarrays With Sum,sliding-window
+Longest Turbulent Subarray,sliding-window
+Subarrays with K Different Integers,sliding-window
+Minimum Number of K Consecutive Bit Flips,sliding-window
+Max Consecutive Ones III,sliding-window
+Maximum Sum of Two Non-Overlapping Subarrays,sliding-window
+Longest Duplicate Substring,sliding-window
+Grumpy Bookstore Owner,sliding-window
+Find K-Length Substrings With No Repeated Characters,sliding-window
+Minimum Swaps to Group All 1's Together,sliding-window
+Swap For Longest Repeated Character Substring,sliding-window
+Diet Plan Performance,sliding-window
+Get Equal Substrings Within Budget,sliding-window
+Replace the Substring for Balanced String,sliding-window
+Count Number of Nice Subarrays,sliding-window
+Maximum Number of Occurrences of a Substring,sliding-window
+Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold,sliding-window
+Number of Substrings Containing All Three Characters,sliding-window
+Maximum Points You Can Obtain from Cards,sliding-window
+Constrained Subsequence Sum,sliding-window
+Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,sliding-window
+Maximum Number of Vowels in a Substring of Given Length,sliding-window
+Find Two Non-overlapping Sub-arrays Each With Target Sum,sliding-window
+Max Value of Equation,sliding-window
+Maximum Number of Visible Points,sliding-window
+Minimum Operations to Reduce X to Zero,sliding-window
+Maximum Erasure Value,sliding-window
+Minimum Adjacent Swaps for K Consecutive Ones,sliding-window
+Longest Nice Substring,sliding-window
+Frequency of the Most Frequent Element,sliding-window
+Longest Substring Of All Vowels in Order,sliding-window
+Distinct Numbers in Each Subarray,sliding-window
+Jump Game VII,sliding-window
+Substrings of Size Three with Distinct Characters,sliding-window
+Minimum Number of Flips to Make the Binary String Alternating,sliding-window
+Kth Smallest Subarray Sum,sliding-window
+Minimum Difference Between Highest and Lowest of K Scores,sliding-window
+Maximize the Confusion of an Exam,sliding-window
+K Radius Subarray Averages,sliding-window
+Maximum Fruits Harvested After at Most K Steps,sliding-window
+Number of Unique Flavors After Sharing K Candies,sliding-window
+Minimum Swaps to Group All 1's Together II,sliding-window
+Find Substring With Given Hash Value,sliding-window
+Minimum Consecutive Cards to Pick Up,sliding-window
+Find the K-Beauty of a Number,sliding-window
+Count Subarrays With Score Less Than K,sliding-window
+Minimum Recolors to Get K Consecutive Black Blocks,sliding-window
+Maximum Number of Robots Within Budget,sliding-window
+Longest Nice Subarray,sliding-window
+Smallest Subarrays With Maximum Bitwise OR,sliding-window
+Count Subarrays With Fixed Bounds,sliding-window
+Maximum Sum of Distinct Subarrays With Length K,sliding-window
+Take K of Each Character From Left and Right,sliding-window
+Maximum Frequency Score of a Subarray,sliding-window
+Maximize the Minimum Powered City,sliding-window
+Count the Number of Good Subarrays,sliding-window
+Maximize Win From Two Segments,sliding-window
+Sliding Subarray Beauty,sliding-window
+Find the Longest Semi-Repetitive Substring,sliding-window
+Count Substrings Without Repeating Character,sliding-window
+Count Zero Request Servers,sliding-window
+Longest Even Odd Subarray With Threshold,sliding-window
+Continuous Subarrays,sliding-window
+Maximum Beauty of an Array After Applying Operation,sliding-window
+Length of the Longest Valid Substring,sliding-window
+Count Complete Subarrays in an Array,sliding-window

@@ -1,401 +1,351 @@
 Question,Tag
-63. Unique Paths II,Matrix
-1. Two Sum,Matrix
-2. Add Two Numbers,Matrix
-3. Longest Substring Without Repeating Characters,Matrix
-4. Median of Two Sorted Arrays,Matrix
-5. Longest Palindromic Substring,Matrix
-6. Zigzag Conversion,Matrix
-7. Reverse Integer,Matrix
-8. String to Integer (atoi),Matrix
-9. Palindrome Number,Matrix
-10. Regular Expression Matching,Matrix
-11. Container With Most Water,Matrix
-12. Integer to Roman,Matrix
-13. Roman to Integer,Matrix
-14. Longest Common Prefix,Matrix
-15. 3Sum,Matrix
-16. 3Sum Closest,Matrix
-17. Letter Combinations of a Phone Number,Matrix
-18. 4Sum,Matrix
-19. Remove Nth Node From End of List,Matrix
-20. Valid Parentheses,Matrix
-21. Merge Two Sorted Lists,Matrix
-22. Generate Parentheses,Matrix
-23. Merge k Sorted Lists,Matrix
-24. Swap Nodes in Pairs,Matrix
-25. Reverse Nodes in k-Group,Matrix
-26. Remove Duplicates from Sorted Array,Matrix
-27. Remove Element,Matrix
-28. Find the Index of the First Occurrence in a String,Matrix
-29. Divide Two Integers,Matrix
-30. Substring with Concatenation of All Words,Matrix
-31. Next Permutation,Matrix
-32. Longest Valid Parentheses,Matrix
-33. Search in Rotated Sorted Array,Matrix
-34. Find First and Last Position of Element in Sorted Array,Matrix
-35. Search Insert Position,Matrix
-36. Valid Sudoku,Matrix
-37. Sudoku Solver,Matrix
-38. Count and Say,Matrix
-39. Combination Sum,Matrix
-40. Combination Sum II,Matrix
-41. First Missing Positive,Matrix
-42. Trapping Rain Water,Matrix
-43. Multiply Strings,Matrix
-44. Wildcard Matching,Matrix
-45. Jump Game II,Matrix
-46. Permutations,Matrix
-47. Permutations II,Matrix
-48. Rotate Image,Matrix
-49. Group Anagrams,Matrix
-63. Unique Paths II,Matrix
-1. Two Sum,Matrix
-2. Add Two Numbers,Matrix
-3. Longest Substring Without Repeating Characters,Matrix
-4. Median of Two Sorted Arrays,Matrix
-5. Longest Palindromic Substring,Matrix
-6. Zigzag Conversion,Matrix
-7. Reverse Integer,Matrix
-8. String to Integer (atoi),Matrix
-9. Palindrome Number,Matrix
-10. Regular Expression Matching,Matrix
-11. Container With Most Water,Matrix
-12. Integer to Roman,Matrix
-13. Roman to Integer,Matrix
-14. Longest Common Prefix,Matrix
-15. 3Sum,Matrix
-16. 3Sum Closest,Matrix
-17. Letter Combinations of a Phone Number,Matrix
-18. 4Sum,Matrix
-19. Remove Nth Node From End of List,Matrix
-20. Valid Parentheses,Matrix
-21. Merge Two Sorted Lists,Matrix
-22. Generate Parentheses,Matrix
-23. Merge k Sorted Lists,Matrix
-24. Swap Nodes in Pairs,Matrix
-25. Reverse Nodes in k-Group,Matrix
-26. Remove Duplicates from Sorted Array,Matrix
-27. Remove Element,Matrix
-28. Find the Index of the First Occurrence in a String,Matrix
-29. Divide Two Integers,Matrix
-30. Substring with Concatenation of All Words,Matrix
-31. Next Permutation,Matrix
-32. Longest Valid Parentheses,Matrix
-33. Search in Rotated Sorted Array,Matrix
-34. Find First and Last Position of Element in Sorted Array,Matrix
-35. Search Insert Position,Matrix
-36. Valid Sudoku,Matrix
-37. Sudoku Solver,Matrix
-38. Count and Say,Matrix
-39. Combination Sum,Matrix
-40. Combination Sum II,Matrix
-41. First Missing Positive,Matrix
-42. Trapping Rain Water,Matrix
-43. Multiply Strings,Matrix
-44. Wildcard Matching,Matrix
-45. Jump Game II,Matrix
-46. Permutations,Matrix
-47. Permutations II,Matrix
-48. Rotate Image,Matrix
-49. Group Anagrams,Matrix
-51. N-Queens,Matrix
-52. N-Queens II,Matrix
-53. Maximum Subarray,Matrix
-54. Spiral Matrix,Matrix
-55. Jump Game,Matrix
-56. Merge Intervals,Matrix
-57. Insert Interval,Matrix
-58. Length of Last Word,Matrix
-59. Spiral Matrix II,Matrix
-60. Permutation Sequence,Matrix
-61. Rotate List,Matrix
-62. Unique Paths,Matrix
-63. Unique Paths II,Matrix
-64. Minimum Path Sum,Matrix
-65. Valid Number,Matrix
-66. Plus One,Matrix
-67. Add Binary,Matrix
-68. Text Justification,Matrix
-69. Sqrt(x),Matrix
-70. Climbing Stairs,Matrix
-71. Simplify Path,Matrix
-72. Edit Distance,Matrix
-73. Set Matrix Zeroes,Matrix
-74. Search a 2D Matrix,Matrix
-75. Sort Colors,Matrix
-76. Minimum Window Substring,Matrix
-77. Combinations,Matrix
-78. Subsets,Matrix
-79. Word Search,Matrix
-80. Remove Duplicates from Sorted Array II,Matrix
-81. Search in Rotated Sorted Array II,Matrix
-82. Remove Duplicates from Sorted List II,Matrix
-83. Remove Duplicates from Sorted List,Matrix
-84. Largest Rectangle in Histogram,Matrix
-85. Maximal Rectangle,Matrix
-86. Partition List,Matrix
-87. Scramble String,Matrix
-88. Merge Sorted Array,Matrix
-89. Gray Code,Matrix
-90. Subsets II,Matrix
-91. Decode Ways,Matrix
-92. Reverse Linked List II,Matrix
-93. Restore IP Addresses,Matrix
-94. Binary Tree Inorder Traversal,Matrix
-95. Unique Binary Search Trees II,Matrix
-96. Unique Binary Search Trees,Matrix
-97. Interleaving String,Matrix
-98. Validate Binary Search Tree,Matrix
-99. Recover Binary Search Tree,Matrix
-100. Same Tree,Matrix
-101. Symmetric Tree,Matrix
-102. Binary Tree Level Order Traversal,Matrix
-103. Binary Tree Zigzag Level Order Traversal,Matrix
-104. Maximum Depth of Binary Tree,Matrix
-105. Construct Binary Tree from Preorder and Inorder Traversal,Matrix
-106. Construct Binary Tree from Inorder and Postorder Traversal,Matrix
-107. Binary Tree Level Order Traversal II,Matrix
-108. Convert Sorted Array to Binary Search Tree,Matrix
-109. Convert Sorted List to Binary Search Tree,Matrix
-110. Balanced Binary Tree,Matrix
-111. Minimum Depth of Binary Tree,Matrix
-112. Path Sum,Matrix
-113. Path Sum II,Matrix
-114. Flatten Binary Tree to Linked List,Matrix
-115. Distinct Subsequences,Matrix
-116. Populating Next Right Pointers in Each Node,Matrix
-117. Populating Next Right Pointers in Each Node II,Matrix
-118. Pascal's Triangle,Matrix
-119. Pascal's Triangle II,Matrix
-120. Triangle,Matrix
-121. Best Time to Buy and Sell Stock,Matrix
-122. Best Time to Buy and Sell Stock II,Matrix
-123. Best Time to Buy and Sell Stock III,Matrix
-124. Binary Tree Maximum Path Sum,Matrix
-125. Valid Palindrome,Matrix
-126. Word Ladder II,Matrix
-127. Word Ladder,Matrix
-128. Longest Consecutive Sequence,Matrix
-129. Sum Root to Leaf Numbers,Matrix
-130. Surrounded Regions,Matrix
-131. Palindrome Partitioning,Matrix
-132. Palindrome Partitioning II,Matrix
-133. Clone Graph,Matrix
-134. Gas Station,Matrix
-135. Candy,Matrix
-136. Single Number,Matrix
-137. Single Number II,Matrix
-138. Copy List with Random Pointer,Matrix
-139. Word Break,Matrix
-140. Word Break II,Matrix
-141. Linked List Cycle,Matrix
-142. Linked List Cycle II,Matrix
-143. Reorder List,Matrix
-144. Binary Tree Preorder Traversal,Matrix
-145. Binary Tree Postorder Traversal,Matrix
-146. LRU Cache,Matrix
-147. Insertion Sort List,Matrix
-148. Sort List,Matrix
-149. Max Points on a Line,Matrix
-150. Evaluate Reverse Polish Notation,Matrix
-151. Reverse Words in a String,Matrix
-152. Maximum Product Subarray,Matrix
-153. Find Minimum in Rotated Sorted Array,Matrix
-154. Find Minimum in Rotated Sorted Array II,Matrix
-155. Min Stack,Matrix
-156. Binary Tree Upside Down,Matrix
-157. Read N Characters Given Read4,Matrix
-158. Read N Characters Given read4 II - Call Multiple Times,Matrix
-159. Longest Substring with At Most Two Distinct Characters,Matrix
-160. Intersection of Two Linked Lists,Matrix
-161. One Edit Distance,Matrix
-162. Find Peak Element,Matrix
-163. Missing Ranges,Matrix
-164. Maximum Gap,Matrix
-165. Compare Version Numbers,Matrix
-166. Fraction to Recurring Decimal,Matrix
-167. Two Sum II - Input Array Is Sorted,Matrix
-168. Excel Sheet Column Title,Matrix
-169. Majority Element,Matrix
-170. Two Sum III - Data structure design,Matrix
-171. Excel Sheet Column Number,Matrix
-172. Factorial Trailing Zeroes,Matrix
-173. Binary Search Tree Iterator,Matrix
-174. Dungeon Game,Matrix
-175. Combine Two Tables,Matrix
-176. Second Highest Salary,Matrix
-177. Nth Highest Salary,Matrix
-178. Rank Scores,Matrix
-179. Largest Number,Matrix
-180. Consecutive Numbers,Matrix
-181. Employees Earning More Than Their Managers,Matrix
-182. Duplicate Emails,Matrix
-183. Customers Who Never Order,Matrix
-184. Department Highest Salary,Matrix
-185. Department Top Three Salaries,Matrix
-186. Reverse Words in a String II,Matrix
-187. Repeated DNA Sequences,Matrix
-188. Best Time to Buy and Sell Stock IV,Matrix
-189. Rotate Array,Matrix
-190. Reverse Bits,Matrix
-191. Number of 1 Bits,Matrix
-192. Word Frequency,Matrix
-193. Valid Phone Numbers,Matrix
-194. Transpose File,Matrix
-195. Tenth Line,Matrix
-196. Delete Duplicate Emails,Matrix
-197. Rising Temperature,Matrix
-198. House Robber,Matrix
-199. Binary Tree Right Side View,Matrix
-200. Number of Islands,Matrix
-201. Bitwise AND of Numbers Range,Matrix
-202. Happy Number,Matrix
-203. Remove Linked List Elements,Matrix
-204. Count Primes,Matrix
-205. Isomorphic Strings,Matrix
-206. Reverse Linked List,Matrix
-207. Course Schedule,Matrix
-208. Implement Trie (Prefix Tree),Matrix
-209. Minimum Size Subarray Sum,Matrix
-210. Course Schedule II,Matrix
-211. Design Add and Search Words Data Structure,Matrix
-212. Word Search II,Matrix
-213. House Robber II,Matrix
-214. Shortest Palindrome,Matrix
-215. Kth Largest Element in an Array,Matrix
-216. Combination Sum III,Matrix
-217. Contains Duplicate,Matrix
-218. The Skyline Problem,Matrix
-219. Contains Duplicate II,Matrix
-220. Contains Duplicate III,Matrix
-221. Maximal Square,Matrix
-222. Count Complete Tree Nodes,Matrix
-223. Rectangle Area,Matrix
-224. Basic Calculator,Matrix
-225. Implement Stack using Queues,Matrix
-226. Invert Binary Tree,Matrix
-227. Basic Calculator II,Matrix
-228. Summary Ranges,Matrix
-229. Majority Element II,Matrix
-230. Kth Smallest Element in a BST,Matrix
-231. Power of Two,Matrix
-232. Implement Queue using Stacks,Matrix
-233. Number of Digit One,Matrix
-234. Palindrome Linked List,Matrix
-235. Lowest Common Ancestor of a Binary Search Tree,Matrix
-236. Lowest Common Ancestor of a Binary Tree,Matrix
-237. Delete Node in a Linked List,Matrix
-238. Product of Array Except Self,Matrix
-239. Sliding Window Maximum,Matrix
-240. Search a 2D Matrix II,Matrix
-241. Different Ways to Add Parentheses,Matrix
-242. Valid Anagram,Matrix
-243. Shortest Word Distance,Matrix
-244. Shortest Word Distance II,Matrix
-245. Shortest Word Distance III,Matrix
-246. Strobogrammatic Number,Matrix
-247. Strobogrammatic Number II,Matrix
-248. Strobogrammatic Number III,Matrix
-249. Group Shifted Strings,Matrix
-250. Count Univalue Subtrees,Matrix
-251. Flatten 2D Vector,Matrix
-252. Meeting Rooms,Matrix
-253. Meeting Rooms II,Matrix
-254. Factor Combinations,Matrix
-255. Verify Preorder Sequence in Binary Search Tree,Matrix
-256. Paint House,Matrix
-257. Binary Tree Paths,Matrix
-258. Add Digits,Matrix
-259. 3Sum Smaller,Matrix
-260. Single Number III,Matrix
-261. Graph Valid Tree,Matrix
-262. Trips and Users,Matrix
-263. Ugly Number,Matrix
-264. Ugly Number II,Matrix
-265. Paint House II,Matrix
-266. Palindrome Permutation,Matrix
-267. Palindrome Permutation II,Matrix
-268. Missing Number,Matrix
-269. Alien Dictionary,Matrix
-270. Closest Binary Search Tree Value,Matrix
-271. Encode and Decode Strings,Matrix
-272. Closest Binary Search Tree Value II,Matrix
-273. Integer to English Words,Matrix
-274. H-Index,Matrix
-275. H-Index II,Matrix
-276. Paint Fence,Matrix
-277. Find the Celebrity,Matrix
-278. First Bad Version,Matrix
-279. Perfect Squares,Matrix
-280. Wiggle Sort,Matrix
-281. Zigzag Iterator,Matrix
-282. Expression Add Operators,Matrix
-283. Move Zeroes,Matrix
-284. Peeking Iterator,Matrix
-285. Inorder Successor in BST,Matrix
-286. Walls and Gates,Matrix
-287. Find the Duplicate Number,Matrix
-288. Unique Word Abbreviation,Matrix
-289. Game of Life,Matrix
-290. Word Pattern,Matrix
-291. Word Pattern II,Matrix
-292. Nim Game,Matrix
-293. Flip Game,Matrix
-294. Flip Game II,Matrix
-295. Find Median from Data Stream,Matrix
-296. Best Meeting Point,Matrix
-297. Serialize and Deserialize Binary Tree,Matrix
-298. Binary Tree Longest Consecutive Sequence,Matrix
-299. Bulls and Cows,Matrix
-300. Longest Increasing Subsequence,Matrix
-301. Remove Invalid Parentheses,Matrix
-302. Smallest Rectangle Enclosing Black Pixels,Matrix
-303. Range Sum Query - Immutable,Matrix
-304. Range Sum Query 2D - Immutable,Matrix
-305. Number of Islands II,Matrix
-306. Additive Number,Matrix
-307. Range Sum Query - Mutable,Matrix
-308. Range Sum Query 2D - Mutable,Matrix
-309. Best Time to Buy and Sell Stock with Cooldown,Matrix
-310. Minimum Height Trees,Matrix
-311. Sparse Matrix Multiplication,Matrix
-312. Burst Balloons,Matrix
-313. Super Ugly Number,Matrix
-314. Binary Tree Vertical Order Traversal,Matrix
-315. Count of Smaller Numbers After Self,Matrix
-316. Remove Duplicate Letters,Matrix
-317. Shortest Distance from All Buildings,Matrix
-318. Maximum Product of Word Lengths,Matrix
-319. Bulb Switcher,Matrix
-320. Generalized Abbreviation,Matrix
-321. Create Maximum Number,Matrix
-322. Coin Change,Matrix
-323. Number of Connected Components in an Undirected Graph,Matrix
-324. Wiggle Sort II,Matrix
-325. Maximum Size Subarray Sum Equals k,Matrix
-326. Power of Three,Matrix
-327. Count of Range Sum,Matrix
-328. Odd Even Linked List,Matrix
-329. Longest Increasing Path in a Matrix,Matrix
-330. Patching Array,Matrix
-331. Verify Preorder Serialization of a Binary Tree,Matrix
-332. Reconstruct Itinerary,Matrix
-333. Largest BST Subtree,Matrix
-334. Increasing Triplet Subsequence,Matrix
-335. Self Crossing,Matrix
-336. Palindrome Pairs,Matrix
-337. House Robber III,Matrix
-338. Counting Bits,Matrix
-339. Nested List Weight Sum,Matrix
-340. Longest Substring with At Most K Distinct Characters,Matrix
-341. Flatten Nested List Iterator,Matrix
-342. Power of Four,Matrix
-343. Integer Break,Matrix
-344. Reverse String,Matrix
-345. Reverse Vowels of a String,Matrix
-346. Moving Average from Data Stream,Matrix
-347. Top K Frequent Elements,Matrix
-348. Design Tic-Tac-Toe,Matrix
-349. Intersection of Two Arrays,Matrix
-350. Intersection of Two Arrays II,Matrix
+Check if There is a Valid Partition For The Array,matrix
+Valid Sudoku,matrix
+Sudoku Solver,matrix
+Rotate Image,matrix
+Spiral Matrix,matrix
+Spiral Matrix II,matrix
+Unique Paths II,matrix
+Minimum Path Sum,matrix
+Set Matrix Zeroes,matrix
+Search a 2D Matrix,matrix
+Word Search,matrix
+Maximal Rectangle,matrix
+Surrounded Regions,matrix
+Dungeon Game,matrix
+Number of Islands,matrix
+Word Search II,matrix
+Maximal Square,matrix
+Search a 2D Matrix II,matrix
+Walls and Gates,matrix
+Game of Life,matrix
+Best Meeting Point,matrix
+Smallest Rectangle Enclosing Black Pixels,matrix
+Range Sum Query 2D - Immutable,matrix
+Range Sum Query 2D - Mutable,matrix
+Sparse Matrix Multiplication,matrix
+Shortest Distance from All Buildings,matrix
+Longest Increasing Path in a Matrix,matrix
+Design Tic-Tac-Toe,matrix
+Design Snake Game,matrix
+Bomb Enemy,matrix
+Max Sum of Rectangle No Larger Than K,matrix
+Kth Smallest Element in a Sorted Matrix,matrix
+Trapping Rain Water II,matrix
+Pacific Atlantic Water Flow,matrix
+Battleships in a Board,matrix
+Valid Word Square,matrix
+Construct Quad Tree,matrix
+Island Perimeter,matrix
+Diagonal Traverse,matrix
+Minesweeper,matrix
+Lonely Pixel I,matrix
+Lonely Pixel II,matrix
+01 Matrix,matrix
+Longest Line of Consecutive One in Matrix,matrix
+Reshape the Matrix,matrix
+Maximum Vacation Days,matrix
+Image Smoother,matrix
+Cut Off Trees for Golf Event,matrix
+Max Area of Island,matrix
+Candy Crush,matrix
+Check if There is a Valid Partition For The Array,matrix
+Valid Sudoku,matrix
+Sudoku Solver,matrix
+Rotate Image,matrix
+Spiral Matrix,matrix
+Spiral Matrix II,matrix
+Unique Paths II,matrix
+Minimum Path Sum,matrix
+Set Matrix Zeroes,matrix
+Search a 2D Matrix,matrix
+Word Search,matrix
+Maximal Rectangle,matrix
+Surrounded Regions,matrix
+Dungeon Game,matrix
+Number of Islands,matrix
+Word Search II,matrix
+Maximal Square,matrix
+Search a 2D Matrix II,matrix
+Walls and Gates,matrix
+Game of Life,matrix
+Best Meeting Point,matrix
+Smallest Rectangle Enclosing Black Pixels,matrix
+Range Sum Query 2D - Immutable,matrix
+Range Sum Query 2D - Mutable,matrix
+Sparse Matrix Multiplication,matrix
+Shortest Distance from All Buildings,matrix
+Longest Increasing Path in a Matrix,matrix
+Design Tic-Tac-Toe,matrix
+Design Snake Game,matrix
+Bomb Enemy,matrix
+Max Sum of Rectangle No Larger Than K,matrix
+Kth Smallest Element in a Sorted Matrix,matrix
+Trapping Rain Water II,matrix
+Pacific Atlantic Water Flow,matrix
+Battleships in a Board,matrix
+Valid Word Square,matrix
+Construct Quad Tree,matrix
+Island Perimeter,matrix
+Diagonal Traverse,matrix
+Minesweeper,matrix
+Lonely Pixel I,matrix
+Lonely Pixel II,matrix
+01 Matrix,matrix
+Longest Line of Consecutive One in Matrix,matrix
+Reshape the Matrix,matrix
+Maximum Vacation Days,matrix
+Image Smoother,matrix
+Cut Off Trees for Golf Event,matrix
+Max Area of Island,matrix
+Candy Crush,matrix
+Cherry Pickup,matrix
+Contain Virus,matrix
+Number Of Corner Rectangles,matrix
+Toeplitz Matrix,matrix
+Sliding Puzzle,matrix
+Swim in Rising Water,matrix
+Transform to Chessboard,matrix
+Bricks Falling When Hit,matrix
+Max Increase to Keep City Skyline,matrix
+Making A Large Island,matrix
+Flipping an Image,matrix
+Image Overlap,matrix
+Magic Squares In Grid,matrix
+Score After Flipping Matrix,matrix
+Shortest Path to Get All Keys,matrix
+Transpose Matrix,matrix
+Projection Area of 3D Shapes,matrix
+Spiral Matrix III,matrix
+Surface Area of 3D Shapes,matrix
+Snakes and Ladders,matrix
+Minimize Malware Spread,matrix
+Minimize Malware Spread II,matrix
+Minimum Falling Path Sum,matrix
+Shortest Bridge,matrix
+Unique Paths III,matrix
+Rotting Oranges,matrix
+Available Captures for Rook,matrix
+Number of Enclaves,matrix
+Matrix Cells in Distance Order,matrix
+Coloring A Border,matrix
+Flip Columns For Maximum Number of Equal Rows,matrix
+Number of Submatrices That Sum to Target,matrix
+Shortest Path in Binary Matrix,matrix
+Path With Maximum Minimum Value,matrix
+Largest 1-Bordered Square,matrix
+As Far from Land as Possible,matrix
+Find Smallest Common Element in All Rows,matrix
+Minimum Moves to Reach Target with Rotations,matrix
+Path with Maximum Gold,matrix
+Queens That Can Attack the King,matrix
+Reconstruct a 2-Row Binary Matrix,matrix
+Number of Closed Islands,matrix
+Shift 2D Grid,matrix
+Minimum Moves to Move a Box to Their Target Location,matrix
+Count Servers that Communicate,matrix
+Find Winner on a Tic Tac Toe Game,matrix
+Count Square Submatrices with All Ones,matrix
+Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,matrix
+Minimum Falling Path Sum II,matrix
+Maximum Side Length of a Square with Sum Less than or Equal to Threshold,matrix
+Shortest Path in a Grid with Obstacles Elimination,matrix
+Number of Paths with Max Score,matrix
+Matrix Block Sum,matrix
+Sort the Matrix Diagonally,matrix
+The K Weakest Rows in a Matrix,matrix
+Maximum Students Taking Exam,matrix
+Count Negative Numbers in a Sorted Matrix,matrix
+Minimum Cost to Make at Least One Valid Path in a Grid,matrix
+Lucky Numbers in a Matrix,matrix
+Check if There is a Valid Path in a Grid,matrix
+Leftmost Column with at Least a One,matrix
+Find the Kth Smallest Sum of a Matrix With Sorted Rows,matrix
+Number of Ways of Cutting a Pizza,matrix
+Cherry Pickup II,matrix
+Subrectangle Queries,matrix
+Count Submatrices With All Ones,matrix
+Minimum Swaps to Arrange a Binary Grid,matrix
+Detect Cycles in 2D Grid,matrix
+Minimum Number of Days to Disconnect Island,matrix
+Matrix Diagonal Sum,matrix
+Special Positions in a Binary Matrix,matrix
+Strange Printer II,matrix
+Maximum Non Negative Product in a Matrix,matrix
+Minimum Cost to Connect Two Groups of Points,matrix
+Find Valid Matrix Given Row and Column Sums,matrix
+Path With Minimum Effort,matrix
+Rank Transform of a Matrix,matrix
+Richest Customer Wealth,matrix
+Where Will the Ball Fall,matrix
+Largest Submatrix With Rearrangements,matrix
+Cat and Mouse II,matrix
+Shortest Path to Get Food,matrix
+Find Kth Largest XOR Coordinate Value,matrix
+Map of Highest Peak,matrix
+Maximum Number of Accepted Invitations,matrix
+Rotating the Box,matrix
+Get Biggest Three Rhombus Sums in a Grid,matrix
+Determine Whether Matrix Can Be Obtained By Rotation,matrix
+Largest Magic Square,matrix
+Find a Peak Element II,matrix
+Count Sub Islands,matrix
+Cyclically Rotating a Grid,matrix
+Nearest Exit from Entrance in Maze,matrix
+Check if Move is Legal,matrix
+Last Day Where You Can Still Cross,matrix
+Maximum Matrix Sum,matrix
+Minimize the Difference Between Target and Chosen Elements,matrix
+Find All Groups of Farmland,matrix
+Grid Game,matrix
+Check if Word Can Be Placed In Crossword,matrix
+Convert 1D Array Into 2D Array,matrix
+Minimum Operations to Make a Uni-Value Grid,matrix
+Number of Spaces Cleaning Robot Cleaned,matrix
+Minimum Cost Homecoming of a Robot in a Grid,matrix
+Count Fertile Pyramids in a Land,matrix
+Minimum Operations to Remove Adjacent Ones in Matrix,matrix
+Number of Laser Beams in a Bank,matrix
+Remove All Ones With Row and Column Flips,matrix
+Stamping the Grid,matrix
+Check if Every Row and Column Contains All Numbers,matrix
+K Highest Ranked Items Within a Price Range,matrix
+Remove All Ones With Row and Column Flips II,matrix
+Maximum Trailing Zeros in a Cornered Path,matrix
+Count Unguarded Cells in the Grid,matrix
+Escape the Spreading Fire,matrix
+Check if There Is a Valid Parentheses String Path,matrix
+Number of People That Can Be Seen in a Grid,matrix
+Minimum Obstacle Removal to Reach Corner,matrix
+Minimum Path Cost in a Grid,matrix
+Check if Matrix Is X-Matrix,matrix
+Spiral Matrix IV,matrix
+Number of Increasing Paths in a Grid,matrix
+Equal Row and Column Pairs,matrix
+Minimize Maximum Value in a Grid,matrix
+Largest Local Values in a Matrix,matrix
+Median of a Row Wise Sorted Matrix,matrix
+Build a Matrix With Conditions,matrix
+Maximum Rows Covered by Columns,matrix
+Maximum Sum of an Hourglass,matrix
+Paths in Matrix Whose Sum Is Divisible by K,matrix
+Difference Between Ones and Zeros in Row and Column,matrix
+Delete Greatest Value in Each Row,matrix
+Check if There is a Path With Equal Number of 0's And 1's,matrix
+Increment Submatrices by One,matrix
+Sort the Students by Their Kth Score,matrix
+Disconnect Path in a Binary Matrix by at Most One Flip,matrix
+Minimum Time to Visit a Cell In a Grid,matrix
+Check Knight Tour Configuration,matrix
+Prime In Diagonal,matrix
+Find the Width of Columns of a Grid,matrix
+Row With Maximum Ones,matrix
+Maximum Number of Fish in a Grid,matrix
+First Completely Painted Row or Column,matrix
+The Knight’s Tour,matrix
+Sum in a Matrix,matrix
+Maximum Number of Moves in a Grid,matrix
+Difference of Number of Distinct Values on Diagonals,matrix
+Maximum Strictly Increasing Cells in a Matrix,matrix
+Find a Good Subset of the Matrix,matrix
+Find the Safest Path in a Grid,matrix
+Convert 1D Array Into 2D Array,matrix
+Minimum Operations to Make a Uni-Value Grid,matrix
+Number of Spaces Cleaning Robot Cleaned,matrix
+Minimum Cost Homecoming of a Robot in a Grid,matrix
+Count Fertile Pyramids in a Land,matrix
+Minimum Operations to Remove Adjacent Ones in Matrix,matrix
+Number of Laser Beams in a Bank,matrix
+Remove All Ones With Row and Column Flips,matrix
+Stamping the Grid,matrix
+Check if Every Row and Column Contains All Numbers,matrix
+K Highest Ranked Items Within a Price Range,matrix
+Remove All Ones With Row and Column Flips II,matrix
+Maximum Trailing Zeros in a Cornered Path,matrix
+Count Unguarded Cells in the Grid,matrix
+Escape the Spreading Fire,matrix
+Check if There Is a Valid Parentheses String Path,matrix
+Number of People That Can Be Seen in a Grid,matrix
+Minimum Obstacle Removal to Reach Corner,matrix
+Minimum Path Cost in a Grid,matrix
+Check if Matrix Is X-Matrix,matrix
+Spiral Matrix IV,matrix
+Number of Increasing Paths in a Grid,matrix
+Equal Row and Column Pairs,matrix
+Minimize Maximum Value in a Grid,matrix
+Largest Local Values in a Matrix,matrix
+Median of a Row Wise Sorted Matrix,matrix
+Build a Matrix With Conditions,matrix
+Maximum Rows Covered by Columns,matrix
+Maximum Sum of an Hourglass,matrix
+Paths in Matrix Whose Sum Is Divisible by K,matrix
+Difference Between Ones and Zeros in Row and Column,matrix
+Delete Greatest Value in Each Row,matrix
+Check if There is a Path With Equal Number of 0's And 1's,matrix
+Increment Submatrices by One,matrix
+Sort the Students by Their Kth Score,matrix
+Disconnect Path in a Binary Matrix by at Most One Flip,matrix
+Minimum Time to Visit a Cell In a Grid,matrix
+Check Knight Tour Configuration,matrix
+Prime In Diagonal,matrix
+Find the Width of Columns of a Grid,matrix
+Row With Maximum Ones,matrix
+Maximum Number of Fish in a Grid,matrix
+First Completely Painted Row or Column,matrix
+The Knight’s Tour,matrix
+Sum in a Matrix,matrix
+Maximum Number of Moves in a Grid,matrix
+Difference of Number of Distinct Values on Diagonals,matrix
+Maximum Strictly Increasing Cells in a Matrix,matrix
+Find a Good Subset of the Matrix,matrix
+Find the Safest Path in a Grid,matrix
+Convert 1D Array Into 2D Array,matrix
+Minimum Operations to Make a Uni-Value Grid,matrix
+Number of Spaces Cleaning Robot Cleaned,matrix
+Minimum Cost Homecoming of a Robot in a Grid,matrix
+Count Fertile Pyramids in a Land,matrix
+Minimum Operations to Remove Adjacent Ones in Matrix,matrix
+Number of Laser Beams in a Bank,matrix
+Remove All Ones With Row and Column Flips,matrix
+Stamping the Grid,matrix
+Check if Every Row and Column Contains All Numbers,matrix
+K Highest Ranked Items Within a Price Range,matrix
+Remove All Ones With Row and Column Flips II,matrix
+Maximum Trailing Zeros in a Cornered Path,matrix
+Count Unguarded Cells in the Grid,matrix
+Escape the Spreading Fire,matrix
+Check if There Is a Valid Parentheses String Path,matrix
+Number of People That Can Be Seen in a Grid,matrix
+Minimum Obstacle Removal to Reach Corner,matrix
+Minimum Path Cost in a Grid,matrix
+Check if Matrix Is X-Matrix,matrix
+Spiral Matrix IV,matrix
+Number of Increasing Paths in a Grid,matrix
+Equal Row and Column Pairs,matrix
+Minimize Maximum Value in a Grid,matrix
+Largest Local Values in a Matrix,matrix
+Median of a Row Wise Sorted Matrix,matrix
+Build a Matrix With Conditions,matrix
+Maximum Rows Covered by Columns,matrix
+Maximum Sum of an Hourglass,matrix
+Paths in Matrix Whose Sum Is Divisible by K,matrix
+Difference Between Ones and Zeros in Row and Column,matrix
+Delete Greatest Value in Each Row,matrix
+Check if There is a Path With Equal Number of 0's And 1's,matrix
+Increment Submatrices by One,matrix
+Sort the Students by Their Kth Score,matrix
+Disconnect Path in a Binary Matrix by at Most One Flip,matrix
+Minimum Time to Visit a Cell In a Grid,matrix
+Check Knight Tour Configuration,matrix
+Prime In Diagonal,matrix
+Find the Width of Columns of a Grid,matrix
+Row With Maximum Ones,matrix
+Maximum Number of Fish in a Grid,matrix
+First Completely Painted Row or Column,matrix
+The Knight’s Tour,matrix
+Sum in a Matrix,matrix
+Maximum Number of Moves in a Grid,matrix
+Difference of Number of Distinct Values on Diagonals,matrix
+Maximum Strictly Increasing Cells in a Matrix,matrix
+Find a Good Subset of the Matrix,matrix
+Find the Safest Path in a Grid,matrix

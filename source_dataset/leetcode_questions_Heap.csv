@@ -1,401 +1,351 @@
 Question,Tag
-63. Unique Paths II,Heap
-1. Two Sum,Heap
-2. Add Two Numbers,Heap
-3. Longest Substring Without Repeating Characters,Heap
-4. Median of Two Sorted Arrays,Heap
-5. Longest Palindromic Substring,Heap
-6. Zigzag Conversion,Heap
-7. Reverse Integer,Heap
-8. String to Integer (atoi),Heap
-9. Palindrome Number,Heap
-10. Regular Expression Matching,Heap
-11. Container With Most Water,Heap
-12. Integer to Roman,Heap
-13. Roman to Integer,Heap
-14. Longest Common Prefix,Heap
-15. 3Sum,Heap
-16. 3Sum Closest,Heap
-17. Letter Combinations of a Phone Number,Heap
-18. 4Sum,Heap
-19. Remove Nth Node From End of List,Heap
-20. Valid Parentheses,Heap
-21. Merge Two Sorted Lists,Heap
-22. Generate Parentheses,Heap
-23. Merge k Sorted Lists,Heap
-24. Swap Nodes in Pairs,Heap
-25. Reverse Nodes in k-Group,Heap
-26. Remove Duplicates from Sorted Array,Heap
-27. Remove Element,Heap
-28. Find the Index of the First Occurrence in a String,Heap
-29. Divide Two Integers,Heap
-30. Substring with Concatenation of All Words,Heap
-31. Next Permutation,Heap
-32. Longest Valid Parentheses,Heap
-33. Search in Rotated Sorted Array,Heap
-34. Find First and Last Position of Element in Sorted Array,Heap
-35. Search Insert Position,Heap
-36. Valid Sudoku,Heap
-37. Sudoku Solver,Heap
-38. Count and Say,Heap
-39. Combination Sum,Heap
-40. Combination Sum II,Heap
-41. First Missing Positive,Heap
-42. Trapping Rain Water,Heap
-43. Multiply Strings,Heap
-44. Wildcard Matching,Heap
-45. Jump Game II,Heap
-46. Permutations,Heap
-47. Permutations II,Heap
-48. Rotate Image,Heap
-49. Group Anagrams,Heap
-63. Unique Paths II,Heap
-1. Two Sum,Heap
-2. Add Two Numbers,Heap
-3. Longest Substring Without Repeating Characters,Heap
-4. Median of Two Sorted Arrays,Heap
-5. Longest Palindromic Substring,Heap
-6. Zigzag Conversion,Heap
-7. Reverse Integer,Heap
-8. String to Integer (atoi),Heap
-9. Palindrome Number,Heap
-10. Regular Expression Matching,Heap
-11. Container With Most Water,Heap
-12. Integer to Roman,Heap
-13. Roman to Integer,Heap
-14. Longest Common Prefix,Heap
-15. 3Sum,Heap
-16. 3Sum Closest,Heap
-17. Letter Combinations of a Phone Number,Heap
-18. 4Sum,Heap
-19. Remove Nth Node From End of List,Heap
-20. Valid Parentheses,Heap
-21. Merge Two Sorted Lists,Heap
-22. Generate Parentheses,Heap
-23. Merge k Sorted Lists,Heap
-24. Swap Nodes in Pairs,Heap
-25. Reverse Nodes in k-Group,Heap
-26. Remove Duplicates from Sorted Array,Heap
-27. Remove Element,Heap
-28. Find the Index of the First Occurrence in a String,Heap
-29. Divide Two Integers,Heap
-30. Substring with Concatenation of All Words,Heap
-31. Next Permutation,Heap
-32. Longest Valid Parentheses,Heap
-33. Search in Rotated Sorted Array,Heap
-34. Find First and Last Position of Element in Sorted Array,Heap
-35. Search Insert Position,Heap
-36. Valid Sudoku,Heap
-37. Sudoku Solver,Heap
-38. Count and Say,Heap
-39. Combination Sum,Heap
-40. Combination Sum II,Heap
-41. First Missing Positive,Heap
-42. Trapping Rain Water,Heap
-43. Multiply Strings,Heap
-44. Wildcard Matching,Heap
-45. Jump Game II,Heap
-46. Permutations,Heap
-47. Permutations II,Heap
-48. Rotate Image,Heap
-49. Group Anagrams,Heap
-51. N-Queens,Heap
-52. N-Queens II,Heap
-53. Maximum Subarray,Heap
-54. Spiral Matrix,Heap
-55. Jump Game,Heap
-56. Merge Intervals,Heap
-57. Insert Interval,Heap
-58. Length of Last Word,Heap
-59. Spiral Matrix II,Heap
-60. Permutation Sequence,Heap
-61. Rotate List,Heap
-62. Unique Paths,Heap
-63. Unique Paths II,Heap
-64. Minimum Path Sum,Heap
-65. Valid Number,Heap
-66. Plus One,Heap
-67. Add Binary,Heap
-68. Text Justification,Heap
-69. Sqrt(x),Heap
-70. Climbing Stairs,Heap
-71. Simplify Path,Heap
-72. Edit Distance,Heap
-73. Set Matrix Zeroes,Heap
-74. Search a 2D Matrix,Heap
-75. Sort Colors,Heap
-76. Minimum Window Substring,Heap
-77. Combinations,Heap
-78. Subsets,Heap
-79. Word Search,Heap
-80. Remove Duplicates from Sorted Array II,Heap
-81. Search in Rotated Sorted Array II,Heap
-82. Remove Duplicates from Sorted List II,Heap
-83. Remove Duplicates from Sorted List,Heap
-84. Largest Rectangle in Histogram,Heap
-85. Maximal Rectangle,Heap
-86. Partition List,Heap
-87. Scramble String,Heap
-88. Merge Sorted Array,Heap
-89. Gray Code,Heap
-90. Subsets II,Heap
-91. Decode Ways,Heap
-92. Reverse Linked List II,Heap
-93. Restore IP Addresses,Heap
-94. Binary Tree Inorder Traversal,Heap
-95. Unique Binary Search Trees II,Heap
-96. Unique Binary Search Trees,Heap
-97. Interleaving String,Heap
-98. Validate Binary Search Tree,Heap
-99. Recover Binary Search Tree,Heap
-100. Same Tree,Heap
-101. Symmetric Tree,Heap
-102. Binary Tree Level Order Traversal,Heap
-103. Binary Tree Zigzag Level Order Traversal,Heap
-104. Maximum Depth of Binary Tree,Heap
-105. Construct Binary Tree from Preorder and Inorder Traversal,Heap
-106. Construct Binary Tree from Inorder and Postorder Traversal,Heap
-107. Binary Tree Level Order Traversal II,Heap
-108. Convert Sorted Array to Binary Search Tree,Heap
-109. Convert Sorted List to Binary Search Tree,Heap
-110. Balanced Binary Tree,Heap
-111. Minimum Depth of Binary Tree,Heap
-112. Path Sum,Heap
-113. Path Sum II,Heap
-114. Flatten Binary Tree to Linked List,Heap
-115. Distinct Subsequences,Heap
-116. Populating Next Right Pointers in Each Node,Heap
-117. Populating Next Right Pointers in Each Node II,Heap
-118. Pascal's Triangle,Heap
-119. Pascal's Triangle II,Heap
-120. Triangle,Heap
-121. Best Time to Buy and Sell Stock,Heap
-122. Best Time to Buy and Sell Stock II,Heap
-123. Best Time to Buy and Sell Stock III,Heap
-124. Binary Tree Maximum Path Sum,Heap
-125. Valid Palindrome,Heap
-126. Word Ladder II,Heap
-127. Word Ladder,Heap
-128. Longest Consecutive Sequence,Heap
-129. Sum Root to Leaf Numbers,Heap
-130. Surrounded Regions,Heap
-131. Palindrome Partitioning,Heap
-132. Palindrome Partitioning II,Heap
-133. Clone Graph,Heap
-134. Gas Station,Heap
-135. Candy,Heap
-136. Single Number,Heap
-137. Single Number II,Heap
-138. Copy List with Random Pointer,Heap
-139. Word Break,Heap
-140. Word Break II,Heap
-141. Linked List Cycle,Heap
-142. Linked List Cycle II,Heap
-143. Reorder List,Heap
-144. Binary Tree Preorder Traversal,Heap
-145. Binary Tree Postorder Traversal,Heap
-146. LRU Cache,Heap
-147. Insertion Sort List,Heap
-148. Sort List,Heap
-149. Max Points on a Line,Heap
-150. Evaluate Reverse Polish Notation,Heap
-151. Reverse Words in a String,Heap
-152. Maximum Product Subarray,Heap
-153. Find Minimum in Rotated Sorted Array,Heap
-154. Find Minimum in Rotated Sorted Array II,Heap
-155. Min Stack,Heap
-156. Binary Tree Upside Down,Heap
-157. Read N Characters Given Read4,Heap
-158. Read N Characters Given read4 II - Call Multiple Times,Heap
-159. Longest Substring with At Most Two Distinct Characters,Heap
-160. Intersection of Two Linked Lists,Heap
-161. One Edit Distance,Heap
-162. Find Peak Element,Heap
-163. Missing Ranges,Heap
-164. Maximum Gap,Heap
-165. Compare Version Numbers,Heap
-166. Fraction to Recurring Decimal,Heap
-167. Two Sum II - Input Array Is Sorted,Heap
-168. Excel Sheet Column Title,Heap
-169. Majority Element,Heap
-170. Two Sum III - Data structure design,Heap
-171. Excel Sheet Column Number,Heap
-172. Factorial Trailing Zeroes,Heap
-173. Binary Search Tree Iterator,Heap
-174. Dungeon Game,Heap
-175. Combine Two Tables,Heap
-176. Second Highest Salary,Heap
-177. Nth Highest Salary,Heap
-178. Rank Scores,Heap
-179. Largest Number,Heap
-180. Consecutive Numbers,Heap
-181. Employees Earning More Than Their Managers,Heap
-182. Duplicate Emails,Heap
-183. Customers Who Never Order,Heap
-184. Department Highest Salary,Heap
-185. Department Top Three Salaries,Heap
-186. Reverse Words in a String II,Heap
-187. Repeated DNA Sequences,Heap
-188. Best Time to Buy and Sell Stock IV,Heap
-189. Rotate Array,Heap
-190. Reverse Bits,Heap
-191. Number of 1 Bits,Heap
-192. Word Frequency,Heap
-193. Valid Phone Numbers,Heap
-194. Transpose File,Heap
-195. Tenth Line,Heap
-196. Delete Duplicate Emails,Heap
-197. Rising Temperature,Heap
-198. House Robber,Heap
-199. Binary Tree Right Side View,Heap
-200. Number of Islands,Heap
-201. Bitwise AND of Numbers Range,Heap
-202. Happy Number,Heap
-203. Remove Linked List Elements,Heap
-204. Count Primes,Heap
-205. Isomorphic Strings,Heap
-206. Reverse Linked List,Heap
-207. Course Schedule,Heap
-208. Implement Trie (Prefix Tree),Heap
-209. Minimum Size Subarray Sum,Heap
-210. Course Schedule II,Heap
-211. Design Add and Search Words Data Structure,Heap
-212. Word Search II,Heap
-213. House Robber II,Heap
-214. Shortest Palindrome,Heap
-215. Kth Largest Element in an Array,Heap
-216. Combination Sum III,Heap
-217. Contains Duplicate,Heap
-218. The Skyline Problem,Heap
-219. Contains Duplicate II,Heap
-220. Contains Duplicate III,Heap
-221. Maximal Square,Heap
-222. Count Complete Tree Nodes,Heap
-223. Rectangle Area,Heap
-224. Basic Calculator,Heap
-225. Implement Stack using Queues,Heap
-226. Invert Binary Tree,Heap
-227. Basic Calculator II,Heap
-228. Summary Ranges,Heap
-229. Majority Element II,Heap
-230. Kth Smallest Element in a BST,Heap
-231. Power of Two,Heap
-232. Implement Queue using Stacks,Heap
-233. Number of Digit One,Heap
-234. Palindrome Linked List,Heap
-235. Lowest Common Ancestor of a Binary Search Tree,Heap
-236. Lowest Common Ancestor of a Binary Tree,Heap
-237. Delete Node in a Linked List,Heap
-238. Product of Array Except Self,Heap
-239. Sliding Window Maximum,Heap
-240. Search a 2D Matrix II,Heap
-241. Different Ways to Add Parentheses,Heap
-242. Valid Anagram,Heap
-243. Shortest Word Distance,Heap
-244. Shortest Word Distance II,Heap
-245. Shortest Word Distance III,Heap
-246. Strobogrammatic Number,Heap
-247. Strobogrammatic Number II,Heap
-248. Strobogrammatic Number III,Heap
-249. Group Shifted Strings,Heap
-250. Count Univalue Subtrees,Heap
-251. Flatten 2D Vector,Heap
-252. Meeting Rooms,Heap
-253. Meeting Rooms II,Heap
-254. Factor Combinations,Heap
-255. Verify Preorder Sequence in Binary Search Tree,Heap
-256. Paint House,Heap
-257. Binary Tree Paths,Heap
-258. Add Digits,Heap
-259. 3Sum Smaller,Heap
-260. Single Number III,Heap
-261. Graph Valid Tree,Heap
-262. Trips and Users,Heap
-263. Ugly Number,Heap
-264. Ugly Number II,Heap
-265. Paint House II,Heap
-266. Palindrome Permutation,Heap
-267. Palindrome Permutation II,Heap
-268. Missing Number,Heap
-269. Alien Dictionary,Heap
-270. Closest Binary Search Tree Value,Heap
-271. Encode and Decode Strings,Heap
-272. Closest Binary Search Tree Value II,Heap
-273. Integer to English Words,Heap
-274. H-Index,Heap
-275. H-Index II,Heap
-276. Paint Fence,Heap
-277. Find the Celebrity,Heap
-278. First Bad Version,Heap
-279. Perfect Squares,Heap
-280. Wiggle Sort,Heap
-281. Zigzag Iterator,Heap
-282. Expression Add Operators,Heap
-283. Move Zeroes,Heap
-284. Peeking Iterator,Heap
-285. Inorder Successor in BST,Heap
-286. Walls and Gates,Heap
-287. Find the Duplicate Number,Heap
-288. Unique Word Abbreviation,Heap
-289. Game of Life,Heap
-290. Word Pattern,Heap
-291. Word Pattern II,Heap
-292. Nim Game,Heap
-293. Flip Game,Heap
-294. Flip Game II,Heap
-295. Find Median from Data Stream,Heap
-296. Best Meeting Point,Heap
-297. Serialize and Deserialize Binary Tree,Heap
-298. Binary Tree Longest Consecutive Sequence,Heap
-299. Bulls and Cows,Heap
-300. Longest Increasing Subsequence,Heap
-301. Remove Invalid Parentheses,Heap
-302. Smallest Rectangle Enclosing Black Pixels,Heap
-303. Range Sum Query - Immutable,Heap
-304. Range Sum Query 2D - Immutable,Heap
-305. Number of Islands II,Heap
-306. Additive Number,Heap
-307. Range Sum Query - Mutable,Heap
-308. Range Sum Query 2D - Mutable,Heap
-309. Best Time to Buy and Sell Stock with Cooldown,Heap
-310. Minimum Height Trees,Heap
-311. Sparse Matrix Multiplication,Heap
-312. Burst Balloons,Heap
-313. Super Ugly Number,Heap
-314. Binary Tree Vertical Order Traversal,Heap
-315. Count of Smaller Numbers After Self,Heap
-316. Remove Duplicate Letters,Heap
-317. Shortest Distance from All Buildings,Heap
-318. Maximum Product of Word Lengths,Heap
-319. Bulb Switcher,Heap
-320. Generalized Abbreviation,Heap
-321. Create Maximum Number,Heap
-322. Coin Change,Heap
-323. Number of Connected Components in an Undirected Graph,Heap
-324. Wiggle Sort II,Heap
-325. Maximum Size Subarray Sum Equals k,Heap
-326. Power of Three,Heap
-327. Count of Range Sum,Heap
-328. Odd Even Linked List,Heap
-329. Longest Increasing Path in a Matrix,Heap
-330. Patching Array,Heap
-331. Verify Preorder Serialization of a Binary Tree,Heap
-332. Reconstruct Itinerary,Heap
-333. Largest BST Subtree,Heap
-334. Increasing Triplet Subsequence,Heap
-335. Self Crossing,Heap
-336. Palindrome Pairs,Heap
-337. House Robber III,Heap
-338. Counting Bits,Heap
-339. Nested List Weight Sum,Heap
-340. Longest Substring with At Most K Distinct Characters,Heap
-341. Flatten Nested List Iterator,Heap
-342. Power of Four,Heap
-343. Integer Break,Heap
-344. Reverse String,Heap
-345. Reverse Vowels of a String,Heap
-346. Moving Average from Data Stream,Heap
-347. Top K Frequent Elements,Heap
-348. Design Tic-Tac-Toe,Heap
-349. Intersection of Two Arrays,Heap
-350. Intersection of Two Arrays II,Heap
+Check if There is a Valid Partition For The Array,heap
+Two Sum,heap
+Add Two Numbers,heap
+Longest Substring Without Repeating Characters,heap
+Median of Two Sorted Arrays,heap
+Longest Palindromic Substring,heap
+Zigzag Conversion,heap
+Reverse Integer,heap
+String to Integer (atoi),heap
+Palindrome Number,heap
+Regular Expression Matching,heap
+Container With Most Water,heap
+Integer to Roman,heap
+Roman to Integer,heap
+Longest Common Prefix,heap
+3Sum,heap
+3Sum Closest,heap
+Letter Combinations of a Phone Number,heap
+4Sum,heap
+Remove Nth Node From End of List,heap
+Valid Parentheses,heap
+Merge Two Sorted Lists,heap
+Generate Parentheses,heap
+Merge k Sorted Lists,heap
+Swap Nodes in Pairs,heap
+Reverse Nodes in k-Group,heap
+Remove Duplicates from Sorted Array,heap
+Remove Element,heap
+Find the Index of the First Occurrence in a String,heap
+Divide Two Integers,heap
+Substring with Concatenation of All Words,heap
+Next Permutation,heap
+Longest Valid Parentheses,heap
+Search in Rotated Sorted Array,heap
+Find First and Last Position of Element in Sorted Array,heap
+Search Insert Position,heap
+Valid Sudoku,heap
+Sudoku Solver,heap
+Count and Say,heap
+Combination Sum,heap
+Combination Sum II,heap
+First Missing Positive,heap
+Trapping Rain Water,heap
+Multiply Strings,heap
+Wildcard Matching,heap
+Jump Game II,heap
+Permutations,heap
+Permutations II,heap
+Rotate Image,heap
+Group Anagrams,heap
+Check if There is a Valid Partition For The Array,heap
+Two Sum,heap
+Add Two Numbers,heap
+Longest Substring Without Repeating Characters,heap
+Median of Two Sorted Arrays,heap
+Longest Palindromic Substring,heap
+Zigzag Conversion,heap
+Reverse Integer,heap
+String to Integer (atoi),heap
+Palindrome Number,heap
+Regular Expression Matching,heap
+Container With Most Water,heap
+Integer to Roman,heap
+Roman to Integer,heap
+Longest Common Prefix,heap
+3Sum,heap
+3Sum Closest,heap
+Letter Combinations of a Phone Number,heap
+4Sum,heap
+Remove Nth Node From End of List,heap
+Valid Parentheses,heap
+Merge Two Sorted Lists,heap
+Generate Parentheses,heap
+Merge k Sorted Lists,heap
+Swap Nodes in Pairs,heap
+Reverse Nodes in k-Group,heap
+Remove Duplicates from Sorted Array,heap
+Remove Element,heap
+Find the Index of the First Occurrence in a String,heap
+Divide Two Integers,heap
+Substring with Concatenation of All Words,heap
+Next Permutation,heap
+Longest Valid Parentheses,heap
+Search in Rotated Sorted Array,heap
+Find First and Last Position of Element in Sorted Array,heap
+Search Insert Position,heap
+Valid Sudoku,heap
+Sudoku Solver,heap
+Count and Say,heap
+Combination Sum,heap
+Combination Sum II,heap
+First Missing Positive,heap
+Trapping Rain Water,heap
+Multiply Strings,heap
+Wildcard Matching,heap
+Jump Game II,heap
+Permutations,heap
+Permutations II,heap
+Rotate Image,heap
+Group Anagrams,heap
+N-Queens,heap
+N-Queens II,heap
+Maximum Subarray,heap
+Spiral Matrix,heap
+Jump Game,heap
+Merge Intervals,heap
+Insert Interval,heap
+Length of Last Word,heap
+Spiral Matrix II,heap
+Permutation Sequence,heap
+Rotate List,heap
+Unique Paths,heap
+Unique Paths II,heap
+Minimum Path Sum,heap
+Valid Number,heap
+Plus One,heap
+Add Binary,heap
+Text Justification,heap
+Sqrt(x),heap
+Climbing Stairs,heap
+Simplify Path,heap
+Edit Distance,heap
+Set Matrix Zeroes,heap
+Search a 2D Matrix,heap
+Sort Colors,heap
+Minimum Window Substring,heap
+Combinations,heap
+Subsets,heap
+Word Search,heap
+Remove Duplicates from Sorted Array II,heap
+Search in Rotated Sorted Array II,heap
+Remove Duplicates from Sorted List II,heap
+Remove Duplicates from Sorted List,heap
+Largest Rectangle in Histogram,heap
+Maximal Rectangle,heap
+Partition List,heap
+Scramble String,heap
+Merge Sorted Array,heap
+Gray Code,heap
+Subsets II,heap
+Decode Ways,heap
+Reverse Linked List II,heap
+Restore IP Addresses,heap
+Binary Tree Inorder Traversal,heap
+Unique Binary Search Trees II,heap
+Unique Binary Search Trees,heap
+Interleaving String,heap
+Validate Binary Search Tree,heap
+Recover Binary Search Tree,heap
+Same Tree,heap
+Symmetric Tree,heap
+Binary Tree Level Order Traversal,heap
+Binary Tree Zigzag Level Order Traversal,heap
+Maximum Depth of Binary Tree,heap
+Construct Binary Tree from Preorder and Inorder Traversal,heap
+Construct Binary Tree from Inorder and Postorder Traversal,heap
+Binary Tree Level Order Traversal II,heap
+Convert Sorted Array to Binary Search Tree,heap
+Convert Sorted List to Binary Search Tree,heap
+Balanced Binary Tree,heap
+Minimum Depth of Binary Tree,heap
+Path Sum,heap
+Path Sum II,heap
+Flatten Binary Tree to Linked List,heap
+Distinct Subsequences,heap
+Populating Next Right Pointers in Each Node,heap
+Populating Next Right Pointers in Each Node II,heap
+Pascal's Triangle,heap
+Pascal's Triangle II,heap
+Triangle,heap
+Best Time to Buy and Sell Stock,heap
+Best Time to Buy and Sell Stock II,heap
+Best Time to Buy and Sell Stock III,heap
+Binary Tree Maximum Path Sum,heap
+Valid Palindrome,heap
+Word Ladder II,heap
+Word Ladder,heap
+Longest Consecutive Sequence,heap
+Sum Root to Leaf Numbers,heap
+Surrounded Regions,heap
+Palindrome Partitioning,heap
+Palindrome Partitioning II,heap
+Clone Graph,heap
+Gas Station,heap
+Candy,heap
+Single Number,heap
+Single Number II,heap
+Copy List with Random Pointer,heap
+Word Break,heap
+Word Break II,heap
+Linked List Cycle,heap
+Linked List Cycle II,heap
+Reorder List,heap
+Binary Tree Preorder Traversal,heap
+Binary Tree Postorder Traversal,heap
+LRU Cache,heap
+Insertion Sort List,heap
+Sort List,heap
+Max Points on a Line,heap
+Evaluate Reverse Polish Notation,heap
+Reverse Words in a String,heap
+Maximum Product Subarray,heap
+Find Minimum in Rotated Sorted Array,heap
+Find Minimum in Rotated Sorted Array II,heap
+Min Stack,heap
+Binary Tree Upside Down,heap
+Read N Characters Given Read4,heap
+Read N Characters Given read4 II - Call Multiple Times,heap
+Longest Substring with At Most Two Distinct Characters,heap
+Intersection of Two Linked Lists,heap
+One Edit Distance,heap
+Find Peak Element,heap
+Missing Ranges,heap
+Maximum Gap,heap
+Compare Version Numbers,heap
+Fraction to Recurring Decimal,heap
+Two Sum II - Input Array Is Sorted,heap
+Excel Sheet Column Title,heap
+Majority Element,heap
+Two Sum III - Data structure design,heap
+Excel Sheet Column Number,heap
+Factorial Trailing Zeroes,heap
+Binary Search Tree Iterator,heap
+Dungeon Game,heap
+Combine Two Tables,heap
+Second Highest Salary,heap
+Nth Highest Salary,heap
+Rank Scores,heap
+Largest Number,heap
+Consecutive Numbers,heap
+Employees Earning More Than Their Managers,heap
+Duplicate Emails,heap
+Customers Who Never Order,heap
+Department Highest Salary,heap
+Department Top Three Salaries,heap
+Reverse Words in a String II,heap
+Repeated DNA Sequences,heap
+Best Time to Buy and Sell Stock IV,heap
+Rotate Array,heap
+Reverse Bits,heap
+Number of 1 Bits,heap
+Word Frequency,heap
+Valid Phone Numbers,heap
+Transpose File,heap
+Tenth Line,heap
+Delete Duplicate Emails,heap
+Rising Temperature,heap
+House Robber,heap
+Binary Tree Right Side View,heap
+Number of Islands,heap
+Bitwise AND of Numbers Range,heap
+Happy Number,heap
+Remove Linked List Elements,heap
+Count Primes,heap
+Isomorphic Strings,heap
+Reverse Linked List,heap
+Course Schedule,heap
+Implement Trie (Prefix Tree),heap
+Minimum Size Subarray Sum,heap
+Course Schedule II,heap
+Design Add and Search Words Data Structure,heap
+Word Search II,heap
+House Robber II,heap
+Shortest Palindrome,heap
+Kth Largest Element in an Array,heap
+Combination Sum III,heap
+Contains Duplicate,heap
+The Skyline Problem,heap
+Contains Duplicate II,heap
+Contains Duplicate III,heap
+Maximal Square,heap
+Count Complete Tree Nodes,heap
+Rectangle Area,heap
+Basic Calculator,heap
+Implement Stack using Queues,heap
+Invert Binary Tree,heap
+Basic Calculator II,heap
+Summary Ranges,heap
+Majority Element II,heap
+Kth Smallest Element in a BST,heap
+Power of Two,heap
+Implement Queue using Stacks,heap
+Number of Digit One,heap
+Palindrome Linked List,heap
+Lowest Common Ancestor of a Binary Search Tree,heap
+Lowest Common Ancestor of a Binary Tree,heap
+Delete Node in a Linked List,heap
+Product of Array Except Self,heap
+Sliding Window Maximum,heap
+Search a 2D Matrix II,heap
+Different Ways to Add Parentheses,heap
+Valid Anagram,heap
+Shortest Word Distance,heap
+Shortest Word Distance II,heap
+Shortest Word Distance III,heap
+Strobogrammatic Number,heap
+Strobogrammatic Number II,heap
+Strobogrammatic Number III,heap
+Group Shifted Strings,heap
+Count Univalue Subtrees,heap
+Flatten 2D Vector,heap
+Meeting Rooms,heap
+Meeting Rooms II,heap
+Factor Combinations,heap
+Verify Preorder Sequence in Binary Search Tree,heap
+Paint House,heap
+Binary Tree Paths,heap
+Add Digits,heap
+3Sum Smaller,heap
+Single Number III,heap
+Graph Valid Tree,heap
+Trips and Users,heap
+Ugly Number,heap
+Ugly Number II,heap
+Paint House II,heap
+Palindrome Permutation,heap
+Palindrome Permutation II,heap
+Missing Number,heap
+Alien Dictionary,heap
+Closest Binary Search Tree Value,heap
+Encode and Decode Strings,heap
+Closest Binary Search Tree Value II,heap
+Integer to English Words,heap
+H-Index,heap
+H-Index II,heap
+Paint Fence,heap
+Find the Celebrity,heap
+First Bad Version,heap
+Perfect Squares,heap
+Wiggle Sort,heap
+Zigzag Iterator,heap
+Expression Add Operators,heap
+Move Zeroes,heap
+Peeking Iterator,heap
+Inorder Successor in BST,heap
+Walls and Gates,heap
+Find the Duplicate Number,heap
+Unique Word Abbreviation,heap
+Game of Life,heap
+Word Pattern,heap
+Word Pattern II,heap
+Nim Game,heap
+Flip Game,heap
+Flip Game II,heap
+Find Median from Data Stream,heap
+Best Meeting Point,heap
+Serialize and Deserialize Binary Tree,heap
+Binary Tree Longest Consecutive Sequence,heap
+Bulls and Cows,heap
+Longest Increasing Subsequence,heap

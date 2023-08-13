@@ -1,401 +1,180 @@
 Question,Tag
-63. Unique Paths II,Simulation
-1. Two Sum,Simulation
-2. Add Two Numbers,Simulation
-3. Longest Substring Without Repeating Characters,Simulation
-4. Median of Two Sorted Arrays,Simulation
-5. Longest Palindromic Substring,Simulation
-6. Zigzag Conversion,Simulation
-7. Reverse Integer,Simulation
-8. String to Integer (atoi),Simulation
-9. Palindrome Number,Simulation
-10. Regular Expression Matching,Simulation
-11. Container With Most Water,Simulation
-12. Integer to Roman,Simulation
-13. Roman to Integer,Simulation
-14. Longest Common Prefix,Simulation
-15. 3Sum,Simulation
-16. 3Sum Closest,Simulation
-17. Letter Combinations of a Phone Number,Simulation
-18. 4Sum,Simulation
-19. Remove Nth Node From End of List,Simulation
-20. Valid Parentheses,Simulation
-21. Merge Two Sorted Lists,Simulation
-22. Generate Parentheses,Simulation
-23. Merge k Sorted Lists,Simulation
-24. Swap Nodes in Pairs,Simulation
-25. Reverse Nodes in k-Group,Simulation
-26. Remove Duplicates from Sorted Array,Simulation
-27. Remove Element,Simulation
-28. Find the Index of the First Occurrence in a String,Simulation
-29. Divide Two Integers,Simulation
-30. Substring with Concatenation of All Words,Simulation
-31. Next Permutation,Simulation
-32. Longest Valid Parentheses,Simulation
-33. Search in Rotated Sorted Array,Simulation
-34. Find First and Last Position of Element in Sorted Array,Simulation
-35. Search Insert Position,Simulation
-36. Valid Sudoku,Simulation
-37. Sudoku Solver,Simulation
-38. Count and Say,Simulation
-39. Combination Sum,Simulation
-40. Combination Sum II,Simulation
-41. First Missing Positive,Simulation
-42. Trapping Rain Water,Simulation
-43. Multiply Strings,Simulation
-44. Wildcard Matching,Simulation
-45. Jump Game II,Simulation
-46. Permutations,Simulation
-47. Permutations II,Simulation
-48. Rotate Image,Simulation
-49. Group Anagrams,Simulation
-63. Unique Paths II,Simulation
-1. Two Sum,Simulation
-2. Add Two Numbers,Simulation
-3. Longest Substring Without Repeating Characters,Simulation
-4. Median of Two Sorted Arrays,Simulation
-5. Longest Palindromic Substring,Simulation
-6. Zigzag Conversion,Simulation
-7. Reverse Integer,Simulation
-8. String to Integer (atoi),Simulation
-9. Palindrome Number,Simulation
-10. Regular Expression Matching,Simulation
-11. Container With Most Water,Simulation
-12. Integer to Roman,Simulation
-13. Roman to Integer,Simulation
-14. Longest Common Prefix,Simulation
-15. 3Sum,Simulation
-16. 3Sum Closest,Simulation
-17. Letter Combinations of a Phone Number,Simulation
-18. 4Sum,Simulation
-19. Remove Nth Node From End of List,Simulation
-20. Valid Parentheses,Simulation
-21. Merge Two Sorted Lists,Simulation
-22. Generate Parentheses,Simulation
-23. Merge k Sorted Lists,Simulation
-24. Swap Nodes in Pairs,Simulation
-25. Reverse Nodes in k-Group,Simulation
-26. Remove Duplicates from Sorted Array,Simulation
-27. Remove Element,Simulation
-28. Find the Index of the First Occurrence in a String,Simulation
-29. Divide Two Integers,Simulation
-30. Substring with Concatenation of All Words,Simulation
-31. Next Permutation,Simulation
-32. Longest Valid Parentheses,Simulation
-33. Search in Rotated Sorted Array,Simulation
-34. Find First and Last Position of Element in Sorted Array,Simulation
-35. Search Insert Position,Simulation
-36. Valid Sudoku,Simulation
-37. Sudoku Solver,Simulation
-38. Count and Say,Simulation
-39. Combination Sum,Simulation
-40. Combination Sum II,Simulation
-41. First Missing Positive,Simulation
-42. Trapping Rain Water,Simulation
-43. Multiply Strings,Simulation
-44. Wildcard Matching,Simulation
-45. Jump Game II,Simulation
-46. Permutations,Simulation
-47. Permutations II,Simulation
-48. Rotate Image,Simulation
-49. Group Anagrams,Simulation
-51. N-Queens,Simulation
-52. N-Queens II,Simulation
-53. Maximum Subarray,Simulation
-54. Spiral Matrix,Simulation
-55. Jump Game,Simulation
-56. Merge Intervals,Simulation
-57. Insert Interval,Simulation
-58. Length of Last Word,Simulation
-59. Spiral Matrix II,Simulation
-60. Permutation Sequence,Simulation
-61. Rotate List,Simulation
-62. Unique Paths,Simulation
-63. Unique Paths II,Simulation
-64. Minimum Path Sum,Simulation
-65. Valid Number,Simulation
-66. Plus One,Simulation
-67. Add Binary,Simulation
-68. Text Justification,Simulation
-69. Sqrt(x),Simulation
-70. Climbing Stairs,Simulation
-71. Simplify Path,Simulation
-72. Edit Distance,Simulation
-73. Set Matrix Zeroes,Simulation
-74. Search a 2D Matrix,Simulation
-75. Sort Colors,Simulation
-76. Minimum Window Substring,Simulation
-77. Combinations,Simulation
-78. Subsets,Simulation
-79. Word Search,Simulation
-80. Remove Duplicates from Sorted Array II,Simulation
-81. Search in Rotated Sorted Array II,Simulation
-82. Remove Duplicates from Sorted List II,Simulation
-83. Remove Duplicates from Sorted List,Simulation
-84. Largest Rectangle in Histogram,Simulation
-85. Maximal Rectangle,Simulation
-86. Partition List,Simulation
-87. Scramble String,Simulation
-88. Merge Sorted Array,Simulation
-89. Gray Code,Simulation
-90. Subsets II,Simulation
-91. Decode Ways,Simulation
-92. Reverse Linked List II,Simulation
-93. Restore IP Addresses,Simulation
-94. Binary Tree Inorder Traversal,Simulation
-95. Unique Binary Search Trees II,Simulation
-96. Unique Binary Search Trees,Simulation
-97. Interleaving String,Simulation
-98. Validate Binary Search Tree,Simulation
-99. Recover Binary Search Tree,Simulation
-100. Same Tree,Simulation
-101. Symmetric Tree,Simulation
-102. Binary Tree Level Order Traversal,Simulation
-103. Binary Tree Zigzag Level Order Traversal,Simulation
-104. Maximum Depth of Binary Tree,Simulation
-105. Construct Binary Tree from Preorder and Inorder Traversal,Simulation
-106. Construct Binary Tree from Inorder and Postorder Traversal,Simulation
-107. Binary Tree Level Order Traversal II,Simulation
-108. Convert Sorted Array to Binary Search Tree,Simulation
-109. Convert Sorted List to Binary Search Tree,Simulation
-110. Balanced Binary Tree,Simulation
-111. Minimum Depth of Binary Tree,Simulation
-112. Path Sum,Simulation
-113. Path Sum II,Simulation
-114. Flatten Binary Tree to Linked List,Simulation
-115. Distinct Subsequences,Simulation
-116. Populating Next Right Pointers in Each Node,Simulation
-117. Populating Next Right Pointers in Each Node II,Simulation
-118. Pascal's Triangle,Simulation
-119. Pascal's Triangle II,Simulation
-120. Triangle,Simulation
-121. Best Time to Buy and Sell Stock,Simulation
-122. Best Time to Buy and Sell Stock II,Simulation
-123. Best Time to Buy and Sell Stock III,Simulation
-124. Binary Tree Maximum Path Sum,Simulation
-125. Valid Palindrome,Simulation
-126. Word Ladder II,Simulation
-127. Word Ladder,Simulation
-128. Longest Consecutive Sequence,Simulation
-129. Sum Root to Leaf Numbers,Simulation
-130. Surrounded Regions,Simulation
-131. Palindrome Partitioning,Simulation
-132. Palindrome Partitioning II,Simulation
-133. Clone Graph,Simulation
-134. Gas Station,Simulation
-135. Candy,Simulation
-136. Single Number,Simulation
-137. Single Number II,Simulation
-138. Copy List with Random Pointer,Simulation
-139. Word Break,Simulation
-140. Word Break II,Simulation
-141. Linked List Cycle,Simulation
-142. Linked List Cycle II,Simulation
-143. Reorder List,Simulation
-144. Binary Tree Preorder Traversal,Simulation
-145. Binary Tree Postorder Traversal,Simulation
-146. LRU Cache,Simulation
-147. Insertion Sort List,Simulation
-148. Sort List,Simulation
-149. Max Points on a Line,Simulation
-150. Evaluate Reverse Polish Notation,Simulation
-151. Reverse Words in a String,Simulation
-152. Maximum Product Subarray,Simulation
-153. Find Minimum in Rotated Sorted Array,Simulation
-154. Find Minimum in Rotated Sorted Array II,Simulation
-155. Min Stack,Simulation
-156. Binary Tree Upside Down,Simulation
-157. Read N Characters Given Read4,Simulation
-158. Read N Characters Given read4 II - Call Multiple Times,Simulation
-159. Longest Substring with At Most Two Distinct Characters,Simulation
-160. Intersection of Two Linked Lists,Simulation
-161. One Edit Distance,Simulation
-162. Find Peak Element,Simulation
-163. Missing Ranges,Simulation
-164. Maximum Gap,Simulation
-165. Compare Version Numbers,Simulation
-166. Fraction to Recurring Decimal,Simulation
-167. Two Sum II - Input Array Is Sorted,Simulation
-168. Excel Sheet Column Title,Simulation
-169. Majority Element,Simulation
-170. Two Sum III - Data structure design,Simulation
-171. Excel Sheet Column Number,Simulation
-172. Factorial Trailing Zeroes,Simulation
-173. Binary Search Tree Iterator,Simulation
-174. Dungeon Game,Simulation
-175. Combine Two Tables,Simulation
-176. Second Highest Salary,Simulation
-177. Nth Highest Salary,Simulation
-178. Rank Scores,Simulation
-179. Largest Number,Simulation
-180. Consecutive Numbers,Simulation
-181. Employees Earning More Than Their Managers,Simulation
-182. Duplicate Emails,Simulation
-183. Customers Who Never Order,Simulation
-184. Department Highest Salary,Simulation
-185. Department Top Three Salaries,Simulation
-186. Reverse Words in a String II,Simulation
-187. Repeated DNA Sequences,Simulation
-188. Best Time to Buy and Sell Stock IV,Simulation
-189. Rotate Array,Simulation
-190. Reverse Bits,Simulation
-191. Number of 1 Bits,Simulation
-192. Word Frequency,Simulation
-193. Valid Phone Numbers,Simulation
-194. Transpose File,Simulation
-195. Tenth Line,Simulation
-196. Delete Duplicate Emails,Simulation
-197. Rising Temperature,Simulation
-198. House Robber,Simulation
-199. Binary Tree Right Side View,Simulation
-200. Number of Islands,Simulation
-201. Bitwise AND of Numbers Range,Simulation
-202. Happy Number,Simulation
-203. Remove Linked List Elements,Simulation
-204. Count Primes,Simulation
-205. Isomorphic Strings,Simulation
-206. Reverse Linked List,Simulation
-207. Course Schedule,Simulation
-208. Implement Trie (Prefix Tree),Simulation
-209. Minimum Size Subarray Sum,Simulation
-210. Course Schedule II,Simulation
-211. Design Add and Search Words Data Structure,Simulation
-212. Word Search II,Simulation
-213. House Robber II,Simulation
-214. Shortest Palindrome,Simulation
-215. Kth Largest Element in an Array,Simulation
-216. Combination Sum III,Simulation
-217. Contains Duplicate,Simulation
-218. The Skyline Problem,Simulation
-219. Contains Duplicate II,Simulation
-220. Contains Duplicate III,Simulation
-221. Maximal Square,Simulation
-222. Count Complete Tree Nodes,Simulation
-223. Rectangle Area,Simulation
-224. Basic Calculator,Simulation
-225. Implement Stack using Queues,Simulation
-226. Invert Binary Tree,Simulation
-227. Basic Calculator II,Simulation
-228. Summary Ranges,Simulation
-229. Majority Element II,Simulation
-230. Kth Smallest Element in a BST,Simulation
-231. Power of Two,Simulation
-232. Implement Queue using Stacks,Simulation
-233. Number of Digit One,Simulation
-234. Palindrome Linked List,Simulation
-235. Lowest Common Ancestor of a Binary Search Tree,Simulation
-236. Lowest Common Ancestor of a Binary Tree,Simulation
-237. Delete Node in a Linked List,Simulation
-238. Product of Array Except Self,Simulation
-239. Sliding Window Maximum,Simulation
-240. Search a 2D Matrix II,Simulation
-241. Different Ways to Add Parentheses,Simulation
-242. Valid Anagram,Simulation
-243. Shortest Word Distance,Simulation
-244. Shortest Word Distance II,Simulation
-245. Shortest Word Distance III,Simulation
-246. Strobogrammatic Number,Simulation
-247. Strobogrammatic Number II,Simulation
-248. Strobogrammatic Number III,Simulation
-249. Group Shifted Strings,Simulation
-250. Count Univalue Subtrees,Simulation
-251. Flatten 2D Vector,Simulation
-252. Meeting Rooms,Simulation
-253. Meeting Rooms II,Simulation
-254. Factor Combinations,Simulation
-255. Verify Preorder Sequence in Binary Search Tree,Simulation
-256. Paint House,Simulation
-257. Binary Tree Paths,Simulation
-258. Add Digits,Simulation
-259. 3Sum Smaller,Simulation
-260. Single Number III,Simulation
-261. Graph Valid Tree,Simulation
-262. Trips and Users,Simulation
-263. Ugly Number,Simulation
-264. Ugly Number II,Simulation
-265. Paint House II,Simulation
-266. Palindrome Permutation,Simulation
-267. Palindrome Permutation II,Simulation
-268. Missing Number,Simulation
-269. Alien Dictionary,Simulation
-270. Closest Binary Search Tree Value,Simulation
-271. Encode and Decode Strings,Simulation
-272. Closest Binary Search Tree Value II,Simulation
-273. Integer to English Words,Simulation
-274. H-Index,Simulation
-275. H-Index II,Simulation
-276. Paint Fence,Simulation
-277. Find the Celebrity,Simulation
-278. First Bad Version,Simulation
-279. Perfect Squares,Simulation
-280. Wiggle Sort,Simulation
-281. Zigzag Iterator,Simulation
-282. Expression Add Operators,Simulation
-283. Move Zeroes,Simulation
-284. Peeking Iterator,Simulation
-285. Inorder Successor in BST,Simulation
-286. Walls and Gates,Simulation
-287. Find the Duplicate Number,Simulation
-288. Unique Word Abbreviation,Simulation
-289. Game of Life,Simulation
-290. Word Pattern,Simulation
-291. Word Pattern II,Simulation
-292. Nim Game,Simulation
-293. Flip Game,Simulation
-294. Flip Game II,Simulation
-295. Find Median from Data Stream,Simulation
-296. Best Meeting Point,Simulation
-297. Serialize and Deserialize Binary Tree,Simulation
-298. Binary Tree Longest Consecutive Sequence,Simulation
-299. Bulls and Cows,Simulation
-300. Longest Increasing Subsequence,Simulation
-301. Remove Invalid Parentheses,Simulation
-302. Smallest Rectangle Enclosing Black Pixels,Simulation
-303. Range Sum Query - Immutable,Simulation
-304. Range Sum Query 2D - Immutable,Simulation
-305. Number of Islands II,Simulation
-306. Additive Number,Simulation
-307. Range Sum Query - Mutable,Simulation
-308. Range Sum Query 2D - Mutable,Simulation
-309. Best Time to Buy and Sell Stock with Cooldown,Simulation
-310. Minimum Height Trees,Simulation
-311. Sparse Matrix Multiplication,Simulation
-312. Burst Balloons,Simulation
-313. Super Ugly Number,Simulation
-314. Binary Tree Vertical Order Traversal,Simulation
-315. Count of Smaller Numbers After Self,Simulation
-316. Remove Duplicate Letters,Simulation
-317. Shortest Distance from All Buildings,Simulation
-318. Maximum Product of Word Lengths,Simulation
-319. Bulb Switcher,Simulation
-320. Generalized Abbreviation,Simulation
-321. Create Maximum Number,Simulation
-322. Coin Change,Simulation
-323. Number of Connected Components in an Undirected Graph,Simulation
-324. Wiggle Sort II,Simulation
-325. Maximum Size Subarray Sum Equals k,Simulation
-326. Power of Three,Simulation
-327. Count of Range Sum,Simulation
-328. Odd Even Linked List,Simulation
-329. Longest Increasing Path in a Matrix,Simulation
-330. Patching Array,Simulation
-331. Verify Preorder Serialization of a Binary Tree,Simulation
-332. Reconstruct Itinerary,Simulation
-333. Largest BST Subtree,Simulation
-334. Increasing Triplet Subsequence,Simulation
-335. Self Crossing,Simulation
-336. Palindrome Pairs,Simulation
-337. House Robber III,Simulation
-338. Counting Bits,Simulation
-339. Nested List Weight Sum,Simulation
-340. Longest Substring with At Most K Distinct Characters,Simulation
-341. Flatten Nested List Iterator,Simulation
-342. Power of Four,Simulation
-343. Integer Break,Simulation
-344. Reverse String,Simulation
-345. Reverse Vowels of a String,Simulation
-346. Moving Average from Data Stream,Simulation
-347. Top K Frequent Elements,Simulation
-348. Design Tic-Tac-Toe,Simulation
-349. Intersection of Two Arrays,Simulation
-350. Intersection of Two Arrays II,Simulation
+Check if There is a Valid Partition For The Array,simulation
+Multiply Strings,simulation
+Spiral Matrix,simulation
+Spiral Matrix II,simulation
+Add Binary,simulation
+Text Justification,simulation
+Read N Characters Given Read4,simulation
+Read N Characters Given read4 II - Call Multiple Times,simulation
+Add Digits,simulation
+Game of Life,simulation
+Fizz Buzz,simulation
+Add Strings,simulation
+Sentence Screen Fitting,simulation
+Teemo Attacking,simulation
+Diagonal Traverse,simulation
+Complex Number Multiplication,simulation
+Output Contest Matches,simulation
+Reshape the Matrix,simulation
+Fraction Addition and Subtraction,simulation
+Solve the Equation,simulation
+Robot Return to Origin,simulation
+Baseball Game,simulation
+Candy Crush,simulation
+Asteroid Collision,simulation
+Contain Virus,simulation
+Pour Water,simulation
+Flipping an Image,simulation
+Backspace String Compare,simulation
+Transpose Matrix,simulation
+Walking Robot Simulation,simulation
+Spiral Matrix III,simulation
+Validate Stack Sequences,simulation
+Reveal Cards In Increasing Order,simulation
+Sum of Even Numbers After Queries,simulation
+Available Captures for Rook,simulation
+Clumsy Factorial,simulation
+Robot Bounded In Circle,simulation
+Car Pooling,simulation
+Distribute Candies to People,simulation
+Queens That Can Attack the King,simulation
+Array Transformation,simulation
+Cells with Odd Values in a Matrix,simulation
+Shift 2D Grid,simulation
+Find Winner on a Tic Tac Toe Game,simulation
+Print Words Vertically,simulation
+Create Target Array in the Given Order,simulation
+Queries on a Permutation With Key,simulation
+Build an Array With Stack Operations,simulation
+Last Moment Before All Ants Fall Out of a Plank,simulation
+Water Bottles,simulation
+Check if There is a Valid Partition For The Array,simulation
+Multiply Strings,simulation
+Spiral Matrix,simulation
+Spiral Matrix II,simulation
+Add Binary,simulation
+Text Justification,simulation
+Read N Characters Given Read4,simulation
+Read N Characters Given read4 II - Call Multiple Times,simulation
+Add Digits,simulation
+Game of Life,simulation
+Fizz Buzz,simulation
+Add Strings,simulation
+Sentence Screen Fitting,simulation
+Teemo Attacking,simulation
+Diagonal Traverse,simulation
+Complex Number Multiplication,simulation
+Output Contest Matches,simulation
+Reshape the Matrix,simulation
+Fraction Addition and Subtraction,simulation
+Solve the Equation,simulation
+Robot Return to Origin,simulation
+Baseball Game,simulation
+Candy Crush,simulation
+Asteroid Collision,simulation
+Contain Virus,simulation
+Pour Water,simulation
+Flipping an Image,simulation
+Backspace String Compare,simulation
+Transpose Matrix,simulation
+Walking Robot Simulation,simulation
+Spiral Matrix III,simulation
+Validate Stack Sequences,simulation
+Reveal Cards In Increasing Order,simulation
+Sum of Even Numbers After Queries,simulation
+Available Captures for Rook,simulation
+Clumsy Factorial,simulation
+Robot Bounded In Circle,simulation
+Car Pooling,simulation
+Distribute Candies to People,simulation
+Queens That Can Attack the King,simulation
+Array Transformation,simulation
+Cells with Odd Values in a Matrix,simulation
+Shift 2D Grid,simulation
+Find Winner on a Tic Tac Toe Game,simulation
+Print Words Vertically,simulation
+Create Target Array in the Given Order,simulation
+Queries on a Permutation With Key,simulation
+Build an Array With Stack Operations,simulation
+Last Moment Before All Ants Fall Out of a Plank,simulation
+Water Bottles,simulation
+Most Visited Sector in a Circular Track,simulation
+Find Latest Group of Size M,simulation
+Count Unhappy Friends,simulation
+Maximum Profit of Operating a Centennial Wheel,simulation
+Design Parking System,simulation
+Get Maximum in Generated Array,simulation
+Concatenation of Consecutive Binary Numbers,simulation
+Count of Matches in Tournament,simulation
+Number of Students Unable to Eat Lunch,simulation
+Average Waiting Time,simulation
+Where Will the Ball Fall,simulation
+Number of Orders in the Backlog,simulation
+Minimum Number of Operations to Reinitialize a Permutation,simulation
+Find the Winner of the Circular Game,simulation
+Incremental Memory Leak,simulation
+Find the Student that Will Replace the Chalk,simulation
+Cyclically Rotating a Grid,simulation
+Build Array from Permutation,simulation
+Sum of Digits of String After Convert,simulation
+Final Value of Variable After Performing Operations,simulation
+Convert 1D Array Into 2D Array,simulation
+Find Missing Observations,simulation
+Simple Bank System,simulation
+Number of Valid Move Combinations On Chessboard,simulation
+Number of Spaces Cleaning Robot Cleaned,simulation
+Walking Robot Simulation II,simulation
+Time Needed to Buy Tickets,simulation
+Decode the Slanted Ciphertext,simulation
+Watering Plants II,simulation
+Adding Spaces to a String,simulation
+Execution of All Suffix Instructions Staying in a Grid,simulation
+Divide a String Into Groups of Size k,simulation
+Rearrange Array Elements by Sign,simulation
+Keep Multiplying Found Values by Two,simulation
+Partition Array According to Given Pivot,simulation
+Count Operations to Obtain Zero,simulation
+Find Three Consecutive Integers That Sum to a Given Number,simulation
+Count Integers With Even Digit Sum,simulation
+Merge Nodes in Between Zeros,simulation
+Count Artifacts That Can Be Extracted,simulation
+Find Triangular Sum of an Array,simulation
+Calculate Digit Sum of a String,simulation
+Count Unguarded Cells in the Grid,simulation
+Min Max Game,simulation
+Replace Elements in an Array,simulation
+Design a Text Editor,simulation
+Calculate Amount Paid in Taxes,simulation
+Spiral Matrix IV,simulation
+Number of People Aware of a Secret,simulation
+Equal Row and Column Pairs,simulation
+Make Array Zero by Subtracting Equal Amounts,simulation
+Task Scheduler II,simulation
+Time Needed to Rearrange a Binary String,simulation
+Removing Stars From a String,simulation
+Apply Operations to an Array,simulation
+Total Cost to Hire K Workers,simulation
+Difference Between Ones and Zeros in Row and Column,simulation
+Delete Greatest Value in Each Row,simulation
+Design Memory Allocator,simulation
+Time to Cross a Bridge,simulation
+Time Taken to Cross the Door,simulation
+Count Distinct Numbers on Board,simulation
+Separate the Digits in an Array,simulation
+Take Gifts From the Richest Pile,simulation
+Find the Array Concatenation Value,simulation
+Pass the Pillow,simulation
+Find Score of an Array After Marking All Elements,simulation
+Check Knight Tour Configuration,simulation
+Determine the Winner of a Bowling Game,simulation
+Sum in a Matrix,simulation
+Find the Losers of the Circular Game,simulation
+Minimum String Length After Removing Substrings,simulation
+Semi-Ordered Permutation,simulation
+Total Distance Traveled,simulation
+Find Maximum Number of String Pairs,simulation
+Robot Collisions,simulation
+Relocate Marbles,simulation
+Sum of Squares of Special Elements,simulation
+Faulty Keyboard,simulation
