@@ -1,3 +1,4 @@
+from tkinter import messagebox
 import tkinter as tk
 from tkinter import ttk
 
@@ -24,10 +25,11 @@ class DSAApp:
 
         self.submit_button = ttk.Button(self.container, text="Submit", command=self.submit)
         self.submit_button.grid(row=2, column=0, columnspan=2, pady=20)
+        self.output_text = ""
 
     def submit(self):
         question_text = self.text_input.get("1.0", "end-1c")
-        print("Submitted Question:", question_text)
+        messagebox.showinfo('Question',f"{question_text} \n question_text")
 
 if __name__ == "__main__":
     root = tk.Tk()
