@@ -6,7 +6,7 @@ class DSAApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Search DSA")
-
+    
         self.style = ttk.Style()
         self.style.configure('TFrame', background='#f4f4f4')
         self.style.configure('TLabel', font=('Arial', 16), foreground='#333333')
@@ -29,7 +29,7 @@ class DSAApp:
 
     def submit(self):
         question_text = self.text_input.get("1.0", "end-1c")
-        messagebox.showinfo('Question',f"{question_text} \n question_text")
+        messagebox.showinfo('Question',f"{question_text}")
 
 if __name__ == "__main__":
     root = tk.Tk()

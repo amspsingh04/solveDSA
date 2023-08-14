@@ -2,7 +2,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.probability import FreqDist
-from nltk.tag import postag
+from nltk.tag import pos_tag
 
 nltk.download('punkt')
 nltk.download('stopwords')
